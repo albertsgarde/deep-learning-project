@@ -26,6 +26,7 @@ then
 else 
     echo "Installing Rust..." | tee -a $LOG_PATH;
     curl --proto '=https' --tlsv1.3 https://sh.rustup.rs -sSf | sh -s -- -y >> $LOG_PATH 2>&1;
+    source "$HOME/.cargo/env" >> $LOG_PATH 2>&1;
     echo "Rust installed." | tee -a $LOG_PATH;
 fi
 
