@@ -1,2 +1,4 @@
 cd $1;
-pwd;
+source .env/bin/activate;
+pip install maturin;
+maturin build --sdist;
