@@ -19,6 +19,7 @@ else
     apt-get update >> $LOG_PATH 2>&1;
     echo "curl installed." | tee -a $LOG_PATH;
 fi
+
 if hash cargo &> /dev/null
 then 
     echo "Rust already installed." | tee -a $LOG_PATH;
@@ -39,9 +40,7 @@ else
     
 fi
 
-ls
 cargo clean
-ls
 echo "Building audio_samples_py..." | tee -a $LOG_PATH;
 maturin build --release >> $LOG_PATH 2>&1;
 echo "audio_samples_py built." | tee -a $LOG_PATH;
