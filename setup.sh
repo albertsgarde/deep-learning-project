@@ -1,9 +1,8 @@
 LOG_PATH=$HOME/setup.log;
-echo "HELLOOOO"
 
 echo "" > $LOG_PATH;
 
-apt-get update
+apt-get update>> $LOG_PATH 2>&1;
 if hash build-essential &> /dev/null; then
     echo "build-essential is installed." | tee -a $LOG_PATH;
 else
@@ -20,21 +19,12 @@ else
     apt-get update >> $LOG_PATH 2>&1;
     echo "curl installed." | tee -a $LOG_PATH;
 fi
-
-curl --proto '=https' --tlsv1.3 https://sh.rustup.rs -sSf | sh -s -- -y
-
 if hash cargo &> /dev/null
 then 
     echo "Rust already installed." | tee -a $LOG_PATH;
 else 
-    mkdir -p downloads;
-    cd downloads;
     echo "Installing Rust..." | tee -a $LOG_PATH;
-    wget https://static.rust-lang.org/dist/rust-1.64.0-x86_64-unknown-linux-gnu.tar.gz >> $LOG_PATH 2>&1;
-    tar -xzf rust-1.64.0-x86_64-unknown-linux-gnu.tar.gz >> $LOG_PATH 2>&1;
-    ./rust-1.64.0-x86_64-unknown-linux-gnu/install.sh >> $LOG_PATH 2>&1;
-    cd ..;
-    rm -rf downloads;
+    curl --proto '=https' --tlsv1.3 https://sh.rustup.rs -sSf | sh -s -- -y >> $LOG_PATH 2>&1;
     echo "Rust installed." | tee -a $LOG_PATH;
 fi
 
