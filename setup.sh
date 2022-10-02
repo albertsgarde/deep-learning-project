@@ -23,4 +23,4 @@ echo "package built"
 echo "package built" >> ../../setup.log ;
 pwd
 ls
-pip install target/wheels/* >> ../../setup.log 2>&1 ;
+pip install target/wheels/*.whl >> ../../setup.log 2>&1 ;
