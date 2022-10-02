@@ -2,7 +2,7 @@ mkdir downloads;
 cd downloads;
 wget https://static.rust-lang.org/dist/rust-1.64.0-x86_64-unknown-linux-gnu.tar.gz;
 tar -xzf rust-1.64.0-x86_64-unknown-linux-gnu.tar.gz;
-sudo ./rust-1.64.0-x86_64-unknown-linux-gnu/install.sh;
+./rust-1.64.0-x86_64-unknown-linux-gnu/install.sh;
 cd ..;
 cd $1/audio_samples_py;
 pwd
