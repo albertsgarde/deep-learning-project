@@ -59,6 +59,13 @@ impl DataGenerator {
             .clone()
             .into()
     }
+
+    fn next_n(&mut self, num_data_points: u32) -> Vec<Audio> {
+        let mut result = Vec::with_capacity(num_data_points as usize);
+        for _ in 0..num_data_points {
+            result.push(self.next());
+        }
+    }
 }
 
 /// A Python module implemented in Rust.
