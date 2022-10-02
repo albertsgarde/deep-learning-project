@@ -3,22 +3,10 @@ LOG_PATH=$HOME/setup.log;
 echo "" > $LOG_PATH;
 
 apt-get update>> $LOG_PATH 2>&1;
-if hash build-essential &> /dev/null; then
-    echo "build-essential is installed." | tee -a $LOG_PATH;
-else
-    echo "Installing build-essential..." | tee -a $LOG_PATH;
-    apt-get install -y build-essential >> $LOG_PATH 2>&1;
-    apt-get update >> $LOG_PATH 2>&1;
-    echo "build-essential installed." | tee -a $LOG_PATH;
-fi
-if hash curl &> /dev/null; then
-    echo "curl is installed." | tee -a $LOG_PATH;
-else
-    echo "Installing curl..." | tee -a $LOG_PATH;
-    apt-get install -y curl >> $LOG_PATH 2>&1;
-    apt-get update >> $LOG_PATH 2>&1;
-    echo "curl installed." | tee -a $LOG_PATH;
-fi
+apt-get install -y build-essential >> $LOG_PATH 2>&1;
+apt-get install -y curl >> $LOG_PATH 2>&1;
+apt-get update >> $LOG_PATH 2>&1;
+
 
 if hash cargo &> /dev/null
 then 
@@ -41,8 +29,9 @@ else
     
 fi
 
-cargo clean
 echo "Building audio_samples_py..." | tee -a $LOG_PATH;
+cargo clean >> $LOG_PATH 2>&1;
+cargo update >> $LOG_PATH 2>&1;
 maturin build --release >> $LOG_PATH 2>&1;
 echo "audio_samples_py built." | tee -a $LOG_PATH;
 
