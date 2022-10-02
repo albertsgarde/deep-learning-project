@@ -1,4 +1,5 @@
 LOG_PATH=../../setup.log;
+echo "HELLOOOO"
 
 echo "" > $LOG_PATH;
 
