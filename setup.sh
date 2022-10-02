@@ -9,9 +9,9 @@ else
     mkdir -p downloads;
     cd downloads;
     echo "Installing Rust..." | tee $LOG_PATH;
-    wget https://static.rust-lang.org/dist/rust-1.64.0-x86_64-unknown-linux-gnu.tar.gz >> $LOG_PATH 2>&1;;
-    tar -xzf rust-1.64.0-x86_64-unknown-linux-gnu.tar.gz >> $LOG_PATH 2>&1;;
-    ./rust-1.64.0-x86_64-unknown-linux-gnu/install.sh >> $LOG_PATH 2>&1;;
+    wget https://static.rust-lang.org/dist/rust-1.64.0-x86_64-unknown-linux-gnu.tar.gz >> $LOG_PATH 2>&1;
+    tar -xzf rust-1.64.0-x86_64-unknown-linux-gnu.tar.gz >> $LOG_PATH 2>&1;
+    ./rust-1.64.0-x86_64-unknown-linux-gnu/install.sh >> $LOG_PATH 2>&1;
     cd ..;
     rm -rf downloads;
     echo "Rust installed." | tee $LOG_PATH;
