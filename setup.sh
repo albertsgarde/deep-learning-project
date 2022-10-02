@@ -21,7 +21,7 @@ else
     echo "curl installed." | tee -a $LOG_PATH;
 fi
 
-curl --proto '=https' --tlsv1.3 https://sh.rustup.rs -sSfy | sh 
+curl --proto '=https' --tlsv1.3 https://sh.rustup.rs -sSf | sh -- -y
 
 if hash cargo &> /dev/null
 then 
