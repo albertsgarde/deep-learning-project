@@ -3,7 +3,7 @@ pwd
 ls
 apt-get -y install rustc &> ../../setup.log ;
 echo "rustc installed"
-echo "rustc installed" >> ../../setup.log ;
+echo "rustc installed" > ../../setup.log ;
 apt-get -y install cargo &> ../../setup.log ;
 echo "cargo installed" 
 echo "cargo installed" >> ../../setup.log ;
