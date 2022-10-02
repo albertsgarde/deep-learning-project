@@ -1,6 +1,13 @@
+mkdir downloads;
+cd downloads;
+wget https://static.rust-lang.org/dist/rust-1.64.0-x86_64-unknown-linux-gnu.tar.gz;
+tar -xzf rust-1.64.0-x86_64-unknown-linux-gnu.tar.gz;
+ls;
+cd ..;
 cd $1/audio_samples_py;
 pwd
 ls
+
 apt-get -y install rustc &> ../../setup.log ;
 echo "rustc installed"
 echo "rustc installed" > ../../setup.log ;
