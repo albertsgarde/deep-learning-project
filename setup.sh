@@ -1,4 +1,4 @@
-mkdir downloads;
+mkdir -p downloads;
 cd downloads;
 wget https://static.rust-lang.org/dist/rust-1.64.0-x86_64-unknown-linux-gnu.tar.gz;
 tar -xzf rust-1.64.0-x86_64-unknown-linux-gnu.tar.gz;
@@ -23,4 +23,4 @@ echo "package built"
 echo "package built" >> ../../setup.log ;
 pwd
 ls
-pip install target/wheels/*.whl >> ../../setup.log 2>&1 ;
+pip install --force-reinstall target/wheels/*.whl >> ../../setup.log 2>&1 ;
