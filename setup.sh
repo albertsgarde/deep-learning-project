@@ -4,9 +4,24 @@ echo "HELLOOOO"
 echo "" > $LOG_PATH;
 
 apt-get update
-apt-get install -y curl
-apt-get update
-curl --proto '=https' --tlsv1.3 https://sh.rustup.rs -sSf | sh
+if hash build-essential &> /dev/null; then
+    echo "build-essential is installed." | tee -a $LOG_PATH;
+else
+    echo "Installing build-essential..." | tee -a $LOG_PATH;
+    apt-get install -y build-essential >> $LOG_PATH 2>&1;
+    apt-get update >> $LOG_PATH 2>&1;
+    echo "build-essential installed." | tee -a $LOG_PATH;
+fi
+if hash curl &> /dev/null; then
+    echo "curl is installed." | tee -a $LOG_PATH;
+else
+    echo "Installing curl..." | tee -a $LOG_PATH;
+    apt-get install -y curl >> $LOG_PATH 2>&1;
+    apt-get update >> $LOG_PATH 2>&1;
+    echo "curl installed." | tee -a $LOG_PATH;
+fi
+
+curl --proto '=https' --tlsv1.3 https://sh.rustup.rs -sSf | sh -y
 
 if hash cargo &> /dev/null
 then 
