@@ -2,10 +2,12 @@ LOG_PATH=$HOME/setup.log;
 
 echo "" > $LOG_PATH;
 
+echo "Installing curl and build-essential..."
 apt-get update>> $LOG_PATH 2>&1;
 apt-get install -y build-essential >> $LOG_PATH 2>&1;
 apt-get install -y curl >> $LOG_PATH 2>&1;
 apt-get update >> $LOG_PATH 2>&1;
+echo "curl and build-essential installed."
 
 
 if hash cargo &> /dev/null
