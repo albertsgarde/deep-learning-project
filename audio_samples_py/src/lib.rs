@@ -1,4 +1,6 @@
-use pyo3::prelude::*;
+use ndarray::Dim;
+use numpy::PyArray;
+use pyo3::{prelude::*, pymodule};
 
 /// Formats the sum of two numbers as string.
 #[pyfunction]
@@ -18,8 +20,8 @@ impl Audio {
         self.sample_rate
     }
 
-    fn get_samples(&self) -> Vec<f32> {
-        self.samples.clone()
+    fn get_samples<'py>(&self, py: Python<'py>) -> &'py PyArray<f32, Dim<[usize; 1]>> {
+        PyArray::from_vec(py, self.samples.clone())
     }
 }
 
@@ -65,6 +67,7 @@ impl DataGenerator {
         for _ in 0..num_data_points {
             result.push(self.next());
         }
+        result
     }
 }
 
