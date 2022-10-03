@@ -65,6 +65,7 @@ impl DataGenerator {
         for _ in 0..num_data_points {
             result.push(self.next());
         }
+        result
     }
 }
 
