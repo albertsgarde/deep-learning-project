@@ -98,6 +98,7 @@ impl DataGenerator {
 #[pymodule]
 fn audio_samples_py(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_class::<Audio>()?;
+    m.add_class::<DataParameters>()?;
     m.add_class::<DataGenerator>()?;
     m.add_function(wrap_pyfunction!(sum_as_string, m)?)?;
     Ok(())
