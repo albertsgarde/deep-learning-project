@@ -25,11 +25,11 @@ impl DataParameters {
     )]
     fn new(sample_rate: u32, min_frequency: f32, max_frequency: f32, num_samples: u64) -> Self {
         Self {
-            parameters: audio_samples::DataParameters {
+            parameters: audio_samples::DataParameters::new(
                 sample_rate,
-                frequency_range: (min_frequency, max_frequency),
+                (min_frequency, max_frequency),
                 num_samples,
-            },
+            ),
         }
     }
 }
@@ -68,7 +68,7 @@ pub struct DataGenerator {
 #[pymethods]
 impl DataGenerator {
     #[new]
-    fn new(data_parameters: &DataParameters) -> Self {
+    fn new(data_parameters: DataParameters) -> Self {
         let data_parameters = data_parameters.parameters;
         Self {
             generator: audio_samples::DataGenerator::new(data_parameters, 0),

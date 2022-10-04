@@ -10,6 +10,6 @@ crate-type = ["cdylib"]
 
 [dependencies]
 pyo3 = { version = "0.17.1", features = ["extension-module"] }
-audio_samples = { git = "https://gitlab.com/albertsgarde/audio_samples" }
+audio_samples = { git = "https://github.com/albertsgarde/audio-samples.git" }
 numpy = "0.17"
 ndarray = "0.15.6"
