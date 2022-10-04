@@ -4,7 +4,7 @@ use pyo3::{prelude::*, pymodule};
 
 #[pyfunction]
 pub fn debug_txt() -> String {
-    "0.1.0".to_string()
+    "0.1.1".to_string()
 }
 
 #[pyclass]
