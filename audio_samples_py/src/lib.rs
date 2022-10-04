@@ -2,6 +2,11 @@ use ndarray::Dim;
 use numpy::PyArray;
 use pyo3::{prelude::*, pymodule};
 
+#[pyfunction]
+pub fn debug_txt() -> String {
+    "0.1.0".to_string()
+}
+
 #[pyclass]
 #[derive(Clone)]
 pub struct DataParameters {
@@ -18,7 +23,6 @@ impl DataParameters {
         num_samples = "256"
     )]
     fn new(sample_rate: u32, min_frequency: f32, max_frequency: f32, num_samples: u64) -> Self {
-        println!("helloo");
         Self {
             parameters: audio_samples::DataParameters::new(
                 sample_rate,
@@ -95,5 +99,6 @@ fn audio_samples_py(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_class::<Audio>()?;
     m.add_class::<DataParameters>()?;
     m.add_class::<DataGenerator>()?;
+    m.add_function(wrap_pyfunction!(debug_txt, m)?)?;
     Ok(())
 }
