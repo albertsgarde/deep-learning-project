@@ -10,7 +10,7 @@ apt-get update >> $LOG_PATH 2>&1;
 echo "curl and build-essential installed."
 
 
-if hash cargo &> /dev/null
+if ! hash cargo &> /dev/null
 then 
     echo "Rust already installed." | tee -a $LOG_PATH;
 else 
@@ -38,5 +38,6 @@ maturin build --release >> $LOG_PATH 2>&1;
 echo "audio_samples_py built." | tee -a $LOG_PATH;
 
 echo "Installing audio_samples_py..." | tee -a $LOG_PATH;
+ls target/wheels/
 pip install --force-reinstall target/wheels/*.whl >> $LOG_PATH 2>&1;
 echo "audio_samples_py installed." | tee -a $LOG_PATH;
