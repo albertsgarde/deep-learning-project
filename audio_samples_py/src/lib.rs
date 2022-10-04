@@ -9,6 +9,33 @@ fn sum_as_string(a: usize, b: usize) -> PyResult<String> {
 }
 
 #[pyclass]
+#[derive(Clone)]
+pub struct DataParameters {
+    parameters: audio_samples::DataParameters,
+}
+
+#[pymethods]
+impl DataParameters {
+    #[new]
+    #[args(
+        min_frequency = "20.",
+        max_frequency = "20000.",
+        sample_rate = "44100",
+        num_samples = "256"
+    )]
+    fn new(sample_rate: u32, min_frequency: f32, max_frequency: f32, num_samples: u64) -> Self {
+        Self {
+            parameters: audio_samples::DataParameters {
+                sample_rate,
+                frequency_range: (min_frequency, max_frequency),
+                num_samples,
+            },
+        }
+    }
+}
+
+#[pyclass]
+#[derive(Clone)]
 pub struct Audio {
     samples: Vec<f32>,
     sample_rate: u32,
@@ -41,12 +68,8 @@ pub struct DataGenerator {
 #[pymethods]
 impl DataGenerator {
     #[new]
-    fn new() -> Self {
-        let data_parameters = audio_samples::DataParameters {
-            sample_rate: 44100,
-            num_samples: 256,
-            frequency_range: (20., 20000.),
-        };
+    fn new(data_parameters: &DataParameters) -> Self {
+        let data_parameters = data_parameters.parameters;
         Self {
             generator: audio_samples::DataGenerator::new(data_parameters, 0),
         }
