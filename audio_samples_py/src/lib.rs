@@ -18,6 +18,7 @@ impl DataParameters {
         num_samples = "256"
     )]
     fn new(sample_rate: u32, min_frequency: f32, max_frequency: f32, num_samples: u64) -> Self {
+        println!("helloo");
         Self {
             parameters: audio_samples::DataParameters::new(
                 sample_rate,
