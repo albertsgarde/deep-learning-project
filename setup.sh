@@ -24,7 +24,7 @@ echo "Maturin installed." | tee -a $LOG_PATH;
 echo "Building audio_samples_py..." | tee -a $LOG_PATH;
 cargo clean >> $LOG_PATH 2>&1;
 cargo update >> $LOG_PATH 2>&1;
-maturin develop --release >> $LOG_PATH 2>&1;
+maturin build --release --sdist >> $LOG_PATH 2>&1;
 echo "audio_samples_py built." | tee -a $LOG_PATH;
 
 echo "Installing audio_samples_py..." | tee -a $LOG_PATH;
