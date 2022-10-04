@@ -2,12 +2,6 @@ use ndarray::Dim;
 use numpy::PyArray;
 use pyo3::{prelude::*, pymodule};
 
-/// Formats the sum of two numbers as string.
-#[pyfunction]
-fn sum_as_string(a: usize, b: usize) -> PyResult<String> {
-    Ok((a + b).to_string())
-}
-
 #[pyclass]
 #[derive(Clone)]
 pub struct DataParameters {
@@ -100,6 +94,5 @@ fn audio_samples_py(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_class::<Audio>()?;
     m.add_class::<DataParameters>()?;
     m.add_class::<DataGenerator>()?;
-    m.add_function(wrap_pyfunction!(sum_as_string, m)?)?;
     Ok(())
 }
