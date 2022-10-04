@@ -31,5 +31,7 @@ maturin build --release --sdist >> $LOG_PATH 2>&1;
 echo "audio_samples_py built." | tee -a $LOG_PATH;
 
 echo "Installing audio_samples_py..." | tee -a $LOG_PATH;
+pip uninstall -y audio_samples_py
+pip list | grep audio_samples_py
 pip install --force-reinstall target/wheels/*.whl >> $LOG_PATH 2>&1;
 echo "audio_samples_py installed." | tee -a $LOG_PATH;
