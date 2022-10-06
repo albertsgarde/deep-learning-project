@@ -28,7 +28,7 @@ checksum = "bfb6d71005dc22a708c7496eee5c8dc0300ee47355de6256c3b35b12b5fef596"
 [[package]]
 name = "audio_samples"
 version = "0.1.0"
-source = "git+https://github.com/albertsgarde/audio-samples.git#7a90029c8a0bd247760b0111e2112f53b332c5fd"
+source = "git+https://github.com/albertsgarde/audio-samples.git#5830a34bd25afc6c599f650bf8af2f9b9d3a19e7"
 dependencies = [
  "anyhow",
  "flexblock-synth",

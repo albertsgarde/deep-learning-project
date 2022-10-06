@@ -11,5 +11,6 @@ crate-type = ["cdylib"]
 [dependencies]
 pyo3 = { version = "0.17.1", features = ["extension-module"] }
 audio_samples = { git = "https://github.com/albertsgarde/audio-samples.git" }
+#audio_samples = { path = "../../../../Fun/Rust/audio_samples" }
 numpy = "0.17"
 ndarray = "0.15.6"

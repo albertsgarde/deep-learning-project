@@ -5,7 +5,7 @@ use pyo3::{prelude::*, pymodule};
 
 #[pyfunction]
 pub fn debug_txt() -> String {
-    "0.1.5".to_string()
+    "0.1.6".to_string()
 }
 
 #[pyclass]
@@ -81,6 +81,10 @@ impl DataPoint {
     fn get_frequency(&self) -> f32 {
         self.label.frequency
     }
+
+    fn get_frequency_map(&self) -> f32 {
+        self.label.frequency_map
+    }
 }
 
 impl From<audio_samples::DataPoint> for DataPoint {
@@ -100,10 +104,11 @@ pub struct DataGenerator {
 #[pymethods]
 impl DataGenerator {
     #[new]
-    fn new(data_parameters: DataParameters) -> Self {
+    #[args(seed = "0")]
+    fn new(data_parameters: DataParameters, seed: u64) -> Self {
         let data_parameters = data_parameters.parameters;
         Self {
-            generator: audio_samples::DataGenerator::new(data_parameters, 0),
+            generator: audio_samples::DataGenerator::new(data_parameters, seed),
         }
     }
 
