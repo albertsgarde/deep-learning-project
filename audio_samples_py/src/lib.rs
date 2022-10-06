@@ -1,10 +1,11 @@
+use audio_samples::DataPointParameters;
 use ndarray::Dim;
 use numpy::PyArray;
 use pyo3::{prelude::*, pymodule};
 
 #[pyfunction]
 pub fn debug_txt() -> String {
-    "0.1.4".to_string()
+    "0.1.5".to_string()
 }
 
 #[pyclass]
@@ -59,6 +60,38 @@ impl From<audio_samples::Audio> for Audio {
         }
     }
 }
+
+#[pyclass]
+#[derive(Clone)]
+pub struct DataPoint {
+    data: Audio,
+    label: DataPointParameters,
+}
+
+#[pymethods]
+impl DataPoint {
+    fn get_audio(&self) -> Audio {
+        self.data.clone()
+    }
+
+    fn get_samples<'py>(&self, py: Python<'py>) -> &'py PyArray<f32, Dim<[usize; 1]>> {
+        self.data.get_samples(py)
+    }
+
+    fn get_frequency(&self) -> f32 {
+        self.label.frequency
+    }
+}
+
+impl From<audio_samples::DataPoint> for DataPoint {
+    fn from(data_point: audio_samples::DataPoint) -> Self {
+        Self {
+            data: data_point.audio.into(),
+            label: data_point.label,
+        }
+    }
+}
+
 #[pyclass]
 pub struct DataGenerator {
     generator: audio_samples::DataGenerator,
@@ -74,17 +107,11 @@ impl DataGenerator {
         }
     }
 
-    fn next(&mut self) -> Audio {
-        self.generator
-            .next()
-            .unwrap()
-            .unwrap()
-            .audio()
-            .clone()
-            .into()
+    fn next(&mut self) -> DataPoint {
+        self.generator.next().unwrap().unwrap().clone().into()
     }
 
-    fn next_n(&mut self, num_data_points: u32) -> Vec<Audio> {
+    fn next_n(&mut self, num_data_points: u32) -> Vec<DataPoint> {
         let mut result = Vec::with_capacity(num_data_points as usize);
         for _ in 0..num_data_points {
             result.push(self.next());
@@ -97,6 +124,7 @@ impl DataGenerator {
 #[pymodule]
 fn audio_samples_py(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_class::<Audio>()?;
+    m.add_class::<DataPoint>()?;
     m.add_class::<DataParameters>()?;
     m.add_class::<DataGenerator>()?;
     m.add_function(wrap_pyfunction!(debug_txt, m)?)?;
