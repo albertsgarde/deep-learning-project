@@ -32,6 +32,14 @@ impl DataParameters {
             ),
         }
     }
+
+    pub fn frequency_to_map(&self, frequency: f32) -> f32 {
+        self.parameters.frequency_to_map(frequency)
+    }
+
+    pub fn map_to_frequency(&self, map: f32) -> f32 {
+        self.parameters.map_to_frequency(map)
+    }
 }
 
 #[pyclass]
