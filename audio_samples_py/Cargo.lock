@@ -28,7 +28,7 @@ checksum = "bfb6d71005dc22a708c7496eee5c8dc0300ee47355de6256c3b35b12b5fef596"
 [[package]]
 name = "audio_samples"
 version = "0.1.0"
-source = "git+https://github.com/albertsgarde/audio-samples.git#9f1299b20ffdc56d5c022668a136424578a419ed"
+source = "git+https://github.com/albertsgarde/audio-samples.git#dc816a53f4dd3ec3a062a68a3fcbb8db6509f672"
 dependencies = [
  "anyhow",
  "flexblock-synth",
@@ -46,6 +46,7 @@ dependencies = [
  "ndarray",
  "numpy",
  "pyo3",
+ "rand",
 ]
 
 [[package]]

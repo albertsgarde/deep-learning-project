@@ -1,7 +1,8 @@
-use audio_samples::DataPointParameters;
+use audio_samples::{DataPointParameters, OscillatorTypeDistribution};
 use ndarray::Dim;
 use numpy::PyArray;
 use pyo3::{prelude::*, pymodule};
+use rand::distributions::Uniform;
 
 #[pyfunction]
 pub fn debug_txt() -> String {
@@ -38,6 +39,60 @@ impl DataParameters {
                 num_samples,
                 seed_offset,
             ),
+        }
+    }
+
+    pub fn with_seed_offset(&self, seed_offset: u64) -> Self {
+        Self {
+            parameters: self.parameters.clone().with_seed_offset(seed_offset),
+        }
+    }
+
+    pub fn add_sine(&self, amplitude_range: (f32, f32)) -> Self {
+        DataParameters {
+            parameters: self
+                .parameters
+                .clone()
+                .with_oscillator(OscillatorTypeDistribution::Sine, amplitude_range),
+        }
+    }
+
+    pub fn add_saw(&self, amplitude_range: (f32, f32)) -> Self {
+        DataParameters {
+            parameters: self
+                .parameters
+                .clone()
+                .with_oscillator(OscillatorTypeDistribution::Saw, amplitude_range),
+        }
+    }
+
+    pub fn add_pulse(&self, amplitude_range: (f32, f32), duty_cycle_range: (f32, f32)) -> Self {
+        DataParameters {
+            parameters: self.parameters.clone().with_oscillator(
+                OscillatorTypeDistribution::Pulse(Uniform::new(
+                    duty_cycle_range.0,
+                    duty_cycle_range.1,
+                )),
+                amplitude_range,
+            ),
+        }
+    }
+
+    pub fn add_triangle(&self, amplitude_range: (f32, f32)) -> Self {
+        DataParameters {
+            parameters: self
+                .parameters
+                .clone()
+                .with_oscillator(OscillatorTypeDistribution::Triangle, amplitude_range),
+        }
+    }
+
+    pub fn add_noise(&self, amplitude_range: (f32, f32)) -> Self {
+        DataParameters {
+            parameters: self
+                .parameters
+                .clone()
+                .with_oscillator(OscillatorTypeDistribution::Noise, amplitude_range),
         }
     }
 
