@@ -22,22 +22,14 @@ impl DataParameters {
         min_frequency = "20.",
         max_frequency = "20000.",
         sample_rate = "44100",
-        num_samples = "256",
-        seed_offset = "0"
+        num_samples = "256"
     )]
-    fn new(
-        sample_rate: u32,
-        min_frequency: f32,
-        max_frequency: f32,
-        num_samples: u64,
-        seed_offset: u64,
-    ) -> Self {
+    fn new(sample_rate: u32, min_frequency: f32, max_frequency: f32, num_samples: u64) -> Self {
         Self {
             parameters: audio_samples::DataParameters::new(
                 sample_rate,
                 (min_frequency, max_frequency),
                 num_samples,
-                seed_offset,
             ),
         }
     }
