@@ -21,14 +21,22 @@ impl DataParameters {
         min_frequency = "20.",
         max_frequency = "20000.",
         sample_rate = "44100",
-        num_samples = "256"
+        num_samples = "256",
+        seed_offset = "0"
     )]
-    fn new(sample_rate: u32, min_frequency: f32, max_frequency: f32, num_samples: u64) -> Self {
+    fn new(
+        sample_rate: u32,
+        min_frequency: f32,
+        max_frequency: f32,
+        num_samples: u64,
+        seed_offset: u64,
+    ) -> Self {
         Self {
             parameters: audio_samples::DataParameters::new(
                 sample_rate,
                 (min_frequency, max_frequency),
                 num_samples,
+                seed_offset,
             ),
         }
     }
@@ -39,6 +47,10 @@ impl DataParameters {
 
     pub fn map_to_frequency(&self, map: f32) -> f32 {
         self.parameters.map_to_frequency(map)
+    }
+
+    pub fn generate_at_index(&self, index: u64) -> DataPoint {
+        self.parameters.generate(index).generate().unwrap().into()
     }
 }
 
@@ -112,11 +124,10 @@ pub struct DataGenerator {
 #[pymethods]
 impl DataGenerator {
     #[new]
-    #[args(seed = "0")]
-    fn new(data_parameters: DataParameters, seed: u64) -> Self {
+    fn new(data_parameters: DataParameters) -> Self {
         let data_parameters = data_parameters.parameters;
         Self {
-            generator: audio_samples::DataGenerator::new(data_parameters, seed),
+            generator: audio_samples::DataGenerator::new(data_parameters),
         }
     }
 
@@ -130,6 +141,14 @@ impl DataGenerator {
             result.push(self.next());
         }
         result
+    }
+}
+
+impl Iterator for DataGenerator {
+    type Item = DataPoint;
+
+    fn next(&mut self) -> Option<Self::Item> {
+        Some(self.next())
     }
 }
 
