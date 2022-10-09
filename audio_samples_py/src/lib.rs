@@ -9,6 +9,11 @@ pub fn debug_txt() -> String {
     "0.1.6".to_string()
 }
 
+#[pyfunction]
+pub fn cent_diff(freq1: f32, freq2: f32) -> f32 {
+    audio_samples::cent_diff(freq1, freq2)
+}
+
 #[pyclass]
 #[derive(Clone)]
 pub struct DataParameters {
@@ -207,5 +212,6 @@ fn audio_samples_py(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_class::<DataParameters>()?;
     m.add_class::<DataGenerator>()?;
     m.add_function(wrap_pyfunction!(debug_txt, m)?)?;
+    m.add_function(wrap_pyfunction!(cent_diff, m)?)?;
     Ok(())
 }
