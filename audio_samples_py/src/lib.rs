@@ -93,6 +93,13 @@ impl DataParameters {
         }
     }
 
+    #[args(power_range = "(1., 1.)")]
+    pub fn apply_distortion(&self, power_range: (f32, f32)) -> Self {
+        DataParameters {
+            parameters: self.parameters.clone().with_distortion(power_range),
+        }
+    }
+
     pub fn frequency_to_map(&self, frequency: f32) -> f32 {
         self.parameters.frequency_to_map(frequency)
     }
