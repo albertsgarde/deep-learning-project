@@ -1,3 +1,4 @@
+use anyhow::Result;
 use audio_samples::{
     data,
     parameters::{
@@ -28,13 +29,8 @@ pub struct DataParameters {
 #[pymethods]
 impl DataParameters {
     #[new]
-    #[args(
-        min_frequency = "20.",
-        max_frequency = "20000.",
-        sample_rate = "44100",
-        num_samples = "256"
-    )]
-    fn new(sample_rate: u32, min_frequency: f32, max_frequency: f32, num_samples: u64) -> Self {
+    #[args(min_frequency = "20.", max_frequency = "20000.", sample_rate = "44100")]
+    fn new(num_samples: u64, sample_rate: u32, min_frequency: f32, max_frequency: f32) -> Self {
         Self {
             parameters: audio_samples::parameters::DataParameters::new(
                 sample_rate,
@@ -122,27 +118,27 @@ impl DataParameters {
 #[pyclass]
 #[derive(Clone)]
 pub struct Audio {
-    samples: Vec<f32>,
-    sample_rate: u32,
+    audio: audio_samples::Audio,
 }
 
 #[pymethods]
 impl Audio {
     fn get_sample_rate(&self) -> u32 {
-        self.sample_rate
+        self.audio.sample_rate
     }
 
     fn get_samples<'py>(&self, py: Python<'py>) -> &'py PyArray<f32, Dim<[usize; 1]>> {
-        PyArray::from_vec(py, self.samples.clone())
+        PyArray::from_vec(py, self.audio.samples.clone())
+    }
+
+    fn to_file(&self, path: &str) -> Result<()> {
+        self.audio.to_wav(path)
     }
 }
 
 impl From<audio_samples::Audio> for Audio {
     fn from(audio: audio_samples::Audio) -> Self {
-        Self {
-            samples: audio.samples,
-            sample_rate: audio.sample_rate,
-        }
+        Self { audio }
     }
 }
 
@@ -169,6 +165,10 @@ impl DataPoint {
 
     fn get_frequency_map(&self) -> f32 {
         self.label.frequency_map
+    }
+
+    fn audio_to_file(&self, path: &str) -> Result<()> {
+        self.data.to_file(path)
     }
 }
 

@@ -9,9 +9,10 @@ name = "audio_samples_py"
 crate-type = ["cdylib"]
 
 [dependencies]
-pyo3 = { version = "0.17.1", features = ["extension-module"] }
+pyo3 = { version = "0.17.1", features = ["extension-module", "anyhow"] }
 audio_samples = { git = "https://github.com/albertsgarde/audio-samples.git" }
 #audio_samples = { path = "../../../../Fun/Rust/audio_samples" }
 numpy = "0.17"
 rand = "0.8.5"
 ndarray = "0.15.6"
+anyhow = "1.0.65"

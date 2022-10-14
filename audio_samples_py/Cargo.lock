@@ -42,6 +42,7 @@ dependencies = [
 name = "audio_samples_py"
 version = "0.1.0"
 dependencies = [
+ "anyhow",
  "audio_samples",
  "ndarray",
  "numpy",
@@ -316,6 +317,7 @@ version = "0.17.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "201b6887e5576bf2f945fe65172c1fcbf3fcf285b23e4d71eb171d9736e38d32"
 dependencies = [
+ "anyhow",
  "cfg-if",
  "indoc",
  "libc",
