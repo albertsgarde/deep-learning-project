@@ -5,7 +5,7 @@ import os
 
 def plot_data_point(data_point):
     plt.figure(figsize=(10, 4))
-    plt.plot(data_point.get_samples())
+    plt.plot(data_point.samples())
     plt.ylim(-1, 1)
     plt.show()
 
