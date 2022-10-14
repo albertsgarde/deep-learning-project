@@ -28,7 +28,7 @@ checksum = "bfb6d71005dc22a708c7496eee5c8dc0300ee47355de6256c3b35b12b5fef596"
 [[package]]
 name = "audio_samples"
 version = "0.1.0"
-source = "git+https://github.com/albertsgarde/audio-samples.git#adb0ef9887123f54a6656a4d0d7206a9dd606d84"
+source = "git+https://github.com/albertsgarde/audio-samples.git#7f0eeeafd5666e3660e42723083752a506468623"
 dependencies = [
  "anyhow",
  "flexblock-synth",
@@ -70,7 +70,7 @@ checksum = "baf1de4339761588bc0619e3cbc0120ee582ebb74b53b4efbf79117bd2da40fd"
 [[package]]
 name = "flexblock-synth"
 version = "0.1.0"
-source = "git+https://gitlab.com/albertsgarde/flexblocksynth#a166772f8933989587bd93161dcc3f6325f8c419"
+source = "git+https://gitlab.com/albertsgarde/flexblocksynth#5dc6393f7ea0a8dfaf15b1befa71d39bd66bf095"
 dependencies = [
  "array-init",
  "hound",
@@ -105,9 +105,9 @@ checksum = "adab1eaa3408fb7f0c777a73e7465fd5656136fc93b670eb6df3c88c2c1344e3"
 
 [[package]]
 name = "libc"
-version = "0.2.134"
+version = "0.2.135"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "329c933548736bc49fd575ee68c89e8be4d260064184389a5b77517cddd99ffb"
+checksum = "68783febc7782c6c5cb401fbda4de5a9898be1762314da0bb2c10ced61f18b0c"
 
 [[package]]
 name = "libm"

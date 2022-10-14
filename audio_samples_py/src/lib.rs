@@ -1,4 +1,9 @@
-use audio_samples::{DataPointParameters, OscillatorTypeDistribution};
+use audio_samples::{
+    data,
+    parameters::{
+        effects::EffectDistribution, oscillators::OscillatorTypeDistribution, DataPointParameters,
+    },
+};
 use ndarray::Dim;
 use numpy::PyArray;
 use pyo3::{prelude::*, pymodule};
@@ -17,7 +22,7 @@ pub fn cent_diff(freq1: f32, freq2: f32) -> f32 {
 #[pyclass]
 #[derive(Clone)]
 pub struct DataParameters {
-    parameters: audio_samples::DataParameters,
+    parameters: audio_samples::parameters::DataParameters,
 }
 
 #[pymethods]
@@ -31,7 +36,7 @@ impl DataParameters {
     )]
     fn new(sample_rate: u32, min_frequency: f32, max_frequency: f32, num_samples: u64) -> Self {
         Self {
-            parameters: audio_samples::DataParameters::new(
+            parameters: audio_samples::parameters::DataParameters::new(
                 sample_rate,
                 (min_frequency, max_frequency),
                 num_samples,
@@ -95,8 +100,9 @@ impl DataParameters {
 
     #[args(power_range = "(1., 1.)")]
     pub fn apply_distortion(&self, power_range: (f32, f32)) -> Self {
+        let effect = EffectDistribution::distortion(power_range);
         DataParameters {
-            parameters: self.parameters.clone().with_distortion(power_range),
+            parameters: self.parameters.clone().with_effect(effect),
         }
     }
 
@@ -166,8 +172,8 @@ impl DataPoint {
     }
 }
 
-impl From<audio_samples::DataPoint> for DataPoint {
-    fn from(data_point: audio_samples::DataPoint) -> Self {
+impl From<data::DataPoint> for DataPoint {
+    fn from(data_point: data::DataPoint) -> Self {
         Self {
             data: data_point.audio.into(),
             label: data_point.label,
@@ -177,7 +183,7 @@ impl From<audio_samples::DataPoint> for DataPoint {
 
 #[pyclass]
 pub struct DataGenerator {
-    generator: audio_samples::DataGenerator,
+    generator: data::DataGenerator,
 }
 
 #[pymethods]
@@ -186,7 +192,7 @@ impl DataGenerator {
     fn new(data_parameters: DataParameters) -> Self {
         let data_parameters = data_parameters.parameters;
         Self {
-            generator: audio_samples::DataGenerator::new(data_parameters),
+            generator: data::DataGenerator::new(data_parameters),
         }
     }
 
