@@ -231,12 +231,50 @@ impl From<data::DataPoint> for DataPoint {
     }
 }
 
+
+#[pyclass]
+pub struct DataGenerator {
+    generator: data::DataGenerator,
+}
+
+#[pymethods]
+impl DataGenerator {
+    #[new]
+    fn new(data_parameters: DataParameters) -> Self {
+        let data_parameters = data_parameters.parameters;
+        Self {
+            generator: data::DataGenerator::new(data_parameters),
+        }
+    }
+
+    fn next(&mut self) -> DataPoint {
+        self.generator.next().unwrap().unwrap().clone().into()
+    }
+
+    fn next_n(&mut self, num_data_points: u32) -> Vec<DataPoint> {
+        let mut result = Vec::with_capacity(num_data_points as usize);
+        for _ in 0..num_data_points {
+            result.push(self.next());
+        }
+        result
+    }
+}
+
+impl Iterator for DataGenerator {
+    type Item = DataPoint;
+
+    fn next(&mut self) -> Option<Self::Item> {
+        Some(self.next())
+    }
+}
+
 /// A Python module implemented in Rust.
 #[pymodule]
 fn audio_samples_py(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_class::<Audio>()?;
     m.add_class::<DataPoint>()?;
     m.add_class::<DataParameters>()?;
+    m.add_class::<DataGenerator>()?;
     m.add_function(wrap_pyfunction!(debug_txt, m)?)?;
     m.add_function(wrap_pyfunction!(cent_diff, m)?)?;
     Ok(())
