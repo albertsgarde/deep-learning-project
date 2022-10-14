@@ -156,6 +156,13 @@ pub struct Audio {
 
 #[pymethods]
 impl Audio {
+    /// Loads an audio clip from the given path.
+    #[staticmethod]
+    #[pyo3(text_signature = "(path, /)")]
+    fn from_wav(path: &str) -> Result<Self> {
+        audio_samples::Audio::from_wav(path).map(|audio| audio.into())
+    }
+
     /// Returns the sample rate of the audio.
     #[pyo3(text_signature = "(self, /)")]
     fn sample_rate(&self) -> u32 {
@@ -170,7 +177,7 @@ impl Audio {
 
     /// Saves the audio to a wav file.
     #[pyo3(text_signature = "(self, path, /)")]
-    fn to_file(&self, path: &str) -> Result<()> {
+    fn to_wav(&self, path: &str) -> Result<()> {
         self.audio.to_wav(path)
     }
 }
@@ -217,8 +224,8 @@ impl DataPoint {
 
     /// Saves the audio to a wav file.
     #[pyo3(text_signature = "(self, path, /)")]
-    fn audio_to_file(&self, path: &str) -> Result<()> {
-        self.data.to_file(path)
+    fn audio_to_wav(&self, path: &str) -> Result<()> {
+        self.data.to_wav(path)
     }
 }
 
@@ -230,7 +237,6 @@ impl From<data::DataPoint> for DataPoint {
         }
     }
 }
-
 
 #[pyclass]
 pub struct DataGenerator {

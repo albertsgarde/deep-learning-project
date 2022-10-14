@@ -3,13 +3,20 @@ import matplotlib.pyplot as plt
 from IPython.display import Audio, display
 import os
 
-def plot_data_point(data_point):
+def plot_audio(audio):
     plt.figure(figsize=(10, 4))
-    plt.plot(data_point.samples())
+    plt.plot(audio.samples())
     plt.ylim(-1, 1)
     plt.show()
 
-def play_data_point(data_point):
-    data_point.audio_to_file("play.wav")
+def plot_data_point(data_point):
+    plot_audio(data_point.audio())
+
+def play_audio(audio):
+    audio.to_wav("play.wav")
     display(Audio("play.wav", autoplay=True))
     os.remove("play.wav")
+
+
+def play_data_point(data_point):
+    play_audio(data_point.audio())
