@@ -9,7 +9,9 @@ apt-get install -y curl >> $LOG_PATH 2>&1;
 apt-get update >> $LOG_PATH 2>&1;
 echo "curl and build-essential installed."
 
-
+echo "Installing necessary python packages..."
+pip install matplotlib
+echo "Necessary python packages installed."
 
 echo "Installing Rust..." | tee -a $LOG_PATH;
 curl --proto '=https' --tlsv1.3 https://sh.rustup.rs -sSf | sh -s -- -y >> $LOG_PATH 2>&1;
@@ -26,7 +28,6 @@ echo "Building audio_samples_py..." | tee -a $LOG_PATH;
 hash cargo | tee -a $LOG_PATH;
 cargo clean >> $LOG_PATH 2>&1;
 cargo update >> $LOG_PATH 2>&1;
-ls
 maturin build --release --sdist >> $LOG_PATH 2>&1;
 echo "audio_samples_py built." | tee -a $LOG_PATH;
 
