@@ -3,6 +3,9 @@ import matplotlib.pyplot as plt
 from IPython.display import Audio, display
 import os
 
+def load_audio(path):
+    return Audio.from_wav(path)
+
 def plot_audio(audio):
     plt.figure(figsize=(10, 4))
     plt.plot(audio.samples())

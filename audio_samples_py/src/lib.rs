@@ -7,7 +7,7 @@ use audio_samples::{
 };
 use ndarray::Dim;
 use numpy::PyArray;
-use pyo3::{prelude::*, pymodule};
+use pyo3::{prelude::*, pymodule, types::PyType};
 use rand::distributions::Uniform;
 
 #[pyfunction]
@@ -157,9 +157,9 @@ pub struct Audio {
 #[pymethods]
 impl Audio {
     /// Loads an audio clip from the given path.
-    #[staticmethod]
+    #[classmethod]
     #[pyo3(text_signature = "(path, /)")]
-    fn from_wav(path: &str) -> Result<Self> {
+    fn from_wav(_cls: &PyType, path: &str) -> Result<Self> {
         audio_samples::Audio::from_wav(path).map(|audio| audio.into())
     }
 
