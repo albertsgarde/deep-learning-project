@@ -181,6 +181,12 @@ impl Audio {
         PyArray::from_vec(py, self.audio.samples.clone())
     }
 
+    /// The norm of the fourier transform of the audio.
+    #[pyo3(text_signature = "(self, /)")]
+    fn fft<'py>(&self, py: Python<'py>) -> &'py PyArray<f32, Dim<[usize; 1]>> {
+        PyArray::from_vec(py, self.audio.fft().into_iter().map(|x| x.norm()).collect())
+    }
+
     /// Saves the audio to a wav file.
     #[pyo3(text_signature = "(self, path, /)")]
     fn to_wav(&self, path: &str) -> Result<()> {
