@@ -189,7 +189,7 @@ impl Audio {
             self.audio
                 .fft()
                 .into_iter()
-                .map(|x| x.norm() / self.audio.num_samples())
+                .map(|x| x.norm() / (self.audio.num_samples() as f32))
                 .collect(),
         )
     }
