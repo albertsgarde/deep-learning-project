@@ -154,6 +154,12 @@ pub struct Audio {
     audio: audio_samples::Audio,
 }
 
+#[pyfunction]
+#[pyo3(text_signature = "(path, /)")]
+pub fn load_wav(path: &str) -> Result<Audio> {
+    audio_samples::Audio::from_wav(path).map(|audio| audio.into())
+}
+
 #[pymethods]
 impl Audio {
     /// Loads an audio clip from the given path.
@@ -283,5 +289,6 @@ fn audio_samples_py(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_class::<DataGenerator>()?;
     m.add_function(wrap_pyfunction!(debug_txt, m)?)?;
     m.add_function(wrap_pyfunction!(cent_diff, m)?)?;
+    m.add_function(wrap_pyfunction!(load_wav, m)?)?;
     Ok(())
 }
