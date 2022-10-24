@@ -8,9 +8,9 @@ class DataParameters:
     :param min_frequency: The minimum frequency of any oscillator in the data set.
     :param max_frequency: The maximum frequency of any oscillator in the data set.
     """
-    def __init__(self, num_samples: int, sample_rate: int, min_frequency: float, max_frequency: float) -> 'DataParameters': ...
+    def __init__(self, num_samples: int, sample_rate: int, min_frequency: float, max_frequency: float) -> None: ...
 
-    def with_seed_offset(cls, seed_offset: int) -> 'DataParameters':
+    def with_seed_offset(self, seed_offset: int) -> 'DataParameters':
         """
         Creates a new DataParameters object with the same parameters as this one, but with a different seed offset.
         Two DataParameter objects with different seed offsets will produce independent data points.
