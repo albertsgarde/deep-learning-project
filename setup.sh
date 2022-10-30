@@ -10,7 +10,7 @@ apt-get update >> $LOG_PATH 2>&1;
 echo "curl and build-essential installed."
 
 echo "Installing necessary python packages..."
-pip install matplotlib
+pip install matplotlib >> $LOG_PATH 2>&1;
 echo "Necessary python packages installed."
 
 echo "Installing Rust..." | tee -a $LOG_PATH;
@@ -29,10 +29,9 @@ hash cargo | tee -a $LOG_PATH;
 cargo clean >> $LOG_PATH 2>&1;
 cargo update >> $LOG_PATH 2>&1;
 maturin build --release --sdist >> $LOG_PATH 2>&1;
-echo "audio_samples_py built." | tee -a $LOG_PATH;
+echo "Built audio_samples_py." | tee -a $LOG_PATH;
 
 echo "Installing audio_samples_py..." | tee -a $LOG_PATH;
-pip uninstall -y audio_samples_py
-pip list | grep audio_samples_py
+pip uninstall -y audio_samples_py >> $LOG_PATH 2>&1;
 pip install --force-reinstall target/wheels/*.whl >> $LOG_PATH 2>&1;
-echo "audio_samples_py installed." | tee -a $LOG_PATH;
+echo "Installed audio_samples_py." | tee -a $LOG_PATH;
