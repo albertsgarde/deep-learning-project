@@ -2,27 +2,27 @@ LOG_PATH=$HOME/setup.log;
 
 echo "" > $LOG_PATH;
 
-echo "Installing curl and build-essential..."
+echo "Installing necessary linux packages..."
 apt-get update >> $LOG_PATH 2>&1;
 apt-get install -y build-essential >> $LOG_PATH 2>&1;
 apt-get install -y curl >> $LOG_PATH 2>&1;
 apt-get update >> $LOG_PATH 2>&1;
-echo "curl and build-essential installed."
+echo "Installed necessary linux packages."
 
 echo "Installing necessary python packages..."
 pip install matplotlib >> $LOG_PATH 2>&1;
-echo "Necessary python packages installed."
+echo "Installed necessary python packages."
 
 echo "Installing Rust..." | tee -a $LOG_PATH;
 curl --proto '=https' --tlsv1.3 https://sh.rustup.rs -sSf | sh -s -- -y >> $LOG_PATH 2>&1;
 source "$HOME/.cargo/env" >> $LOG_PATH 2>&1;
 hash cargo | tee -a $LOG_PATH;
-echo "Rust installed." | tee -a $LOG_PATH;
+echo "Installed Rust." | tee -a $LOG_PATH;
 
 cd $1/audio_samples_py;
 echo "Installing maturin..." | tee -a $LOG_PATH;
 pip install maturin >> $LOG_PATH 2>&1;
-echo "Maturin installed." | tee -a $LOG_PATH;
+echo "Installed Maturin." | tee -a $LOG_PATH;
 
 echo "Building audio_samples_py..." | tee -a $LOG_PATH;
 hash cargo | tee -a $LOG_PATH;
