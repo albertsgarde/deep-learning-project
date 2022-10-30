@@ -1,6 +1,7 @@
 from .audio_samples_py import *
 import matplotlib.pyplot as plt
 from IPython.display import Audio, display
+import numpy as np
 import os
 
 def plot_audio(audio):
@@ -10,9 +11,12 @@ def plot_audio(audio):
     plt.show()
 
 def plot_fft(audio):
+    fft = audio.fft()
+
     plt.figure(figsize=(10, 4))
-    plt.plot(audio.fft())
-    plt.ylim(-1, 1)
+    plt.ylim(0, fft.max()*1.2)
+    plt.xlim(0, audio.sample_rate()/2)
+    plt.plot(np.linspace(0, audio.sample_rate(), num=len(fft)), fft)
     plt.show()
 
 def plot_data_point(data_point):
