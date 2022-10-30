@@ -10,5 +10,4 @@ classifiers = [
     "Programming Language :: Python :: Implementation :: CPython",
     "Programming Language :: Python :: Implementation :: PyPy",
 ]
-dependencies = ["ipython==8.5.0", "matplotlib==3.6.1"]
 
