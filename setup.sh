@@ -11,6 +11,7 @@ echo "Installed necessary linux packages."
 
 echo "Installing necessary python packages..."
 pip install matplotlib >> $LOG_PATH 2>&1;
+pip install ipython >> $LOG_PATH 2>&1;
 echo "Installed necessary python packages."
 
 echo "Installing Rust..." | tee -a $LOG_PATH;
