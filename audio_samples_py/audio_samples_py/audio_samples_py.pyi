@@ -1,4 +1,4 @@
-class DataParameters:
+class DataParameters(object):
     """
     Create a new DataParameters object with no oscillators or effects.
     All data points generated will have frequency randomly distributed between min_frequency and max_frequency.
