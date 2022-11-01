@@ -6,6 +6,7 @@ def setup_device(use_cuda_if_possible):
     use_cuda = torch.cuda.is_available() and use_cuda_if_possible
     device = torch.device("cuda" if use_cuda else "cpu")
     print("Running GPU.") if use_cuda else print("No GPU available.")
+    return device
 
 class AudioDataSet(torch.utils.data.Dataset):
     def __init__(self, parameters: aus.DataParameters):
