@@ -2,6 +2,11 @@ import audio_samples_py as aus
 import torch
 import numpy as np
 
+def setup_device(use_cuda_if_possible):
+    use_cuda = torch.cuda.is_available() and use_cuda_if_possible
+    device = torch.device("cuda" if use_cuda else "cpu")
+    print("Running GPU.") if use_cuda else print("No GPU available.")
+
 class AudioDataSet(torch.utils.data.Dataset):
     def __init__(self, parameters: aus.DataParameters):
          self.parameters = parameters
@@ -25,3 +30,9 @@ def init_synth_data(parameters: aus.DataParameters, seed: int, batch_size: int):
     validation_loader = torch.utils.data.DataLoader(AudioDataSet(validation_parameters), **data_loader_params)
 
     return training_parameters, training_loader, validation_parameters, validation_loader
+
+def get_numpy(x):
+    """ Get numpy array for both cuda and not. """
+    if use_cuda:
+        return x.cpu().data.numpy()
+    return x.data.numpy()
