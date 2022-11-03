@@ -10,7 +10,7 @@ use rand::distributions::Uniform;
 
 #[pyfunction]
 pub fn debug_txt() -> String {
-    "0.1.6".to_string()
+    "0.1.7".to_string()
 }
 
 /// Calculates the difference in cents between two frequencies.
@@ -237,6 +237,7 @@ impl DataPointParameters {
         self.parameters.frequency_map
     }
 
+    #[pyo3(text_signature = "(self, /)")]
     fn note_number(&self) -> f32 {
         audio_samples::frequency_to_note_number(self.frequency())
     }
@@ -264,6 +265,7 @@ impl DataPoint {
         self.data.samples(py)
     }
 
+    #[pyo3(text_signature = "(self, /)")]
     fn label(&self) -> DataPointParameters {
         DataPointParameters {
             parameters: self.label.clone(),
@@ -304,6 +306,7 @@ fn audio_samples_py(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_class::<Audio>()?;
     m.add_class::<DataPoint>()?;
     m.add_class::<DataParameters>()?;
+    m.add_class::<DataPointParameters>()?;
     m.add_function(wrap_pyfunction!(debug_txt, m)?)?;
     m.add_function(wrap_pyfunction!(cent_diff, m)?)?;
     m.add_function(wrap_pyfunction!(load_wav, m)?)?;
