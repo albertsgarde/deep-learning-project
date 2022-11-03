@@ -46,6 +46,18 @@ impl DataParameters {
         }
     }
 
+    /// Convert from frequency map to note number.
+    #[pyo3(text_signature = "(self, map, /)")]
+    pub fn map_to_note_number(&self, map: f32) -> f32 {
+        self.parameters.map_to_note_number(map)
+    }
+
+    /// Convert from note number to frequency map.
+    #[pyo3(text_signature = "(self, note_number, /)")]
+    pub fn note_number_to_map(&self, note_number: f32) -> f32 {
+        self.parameters.note_number_to_map(map)
+    }
+
     /// Create a new DataParameters object with the given seed_offset.
     /// This is useful if you want to create multiple independent streams of data.
     #[pyo3(text_signature = "(self, seed_offset, /)")]
