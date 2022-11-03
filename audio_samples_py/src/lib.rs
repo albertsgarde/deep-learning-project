@@ -55,7 +55,7 @@ impl DataParameters {
     /// Convert from note number to frequency map.
     #[pyo3(text_signature = "(self, note_number, /)")]
     pub fn note_number_to_map(&self, note_number: f32) -> f32 {
-        self.parameters.note_number_to_map(map)
+        self.parameters.note_number_to_map(note_number)
     }
 
     /// Create a new DataParameters object with the given seed_offset.
