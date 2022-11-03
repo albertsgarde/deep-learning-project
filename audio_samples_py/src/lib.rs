@@ -1,9 +1,7 @@
 use anyhow::Result;
 use audio_samples::{
     data,
-    parameters::{
-        effects::EffectDistribution, oscillators::OscillatorTypeDistribution, DataPointParameters,
-    },
+    parameters::{effects::EffectDistribution, oscillators::OscillatorTypeDistribution},
 };
 use ndarray::Dim;
 use numpy::PyArray;
@@ -219,12 +217,37 @@ impl From<audio_samples::Audio> for Audio {
     }
 }
 
+#[pyclass]
+#[derive(Clone)]
+pub struct DataPointParameters {
+    parameters: audio_samples::parameters::DataPointParameters,
+}
+
+#[pymethods]
+impl DataPointParameters {
+    /// The fundamental frequency of the audio.
+    #[pyo3(text_signature = "(self, /)")]
+    fn frequency(&self) -> f32 {
+        self.parameters.frequency
+    }
+
+    /// The fundamental frequency of the audio mapped into the range `[-1;1]`.
+    #[pyo3(text_signature = "(self, /)")]
+    fn frequency_map(&self) -> f32 {
+        self.parameters.frequency_map
+    }
+
+    fn note_number(&self) -> f32 {
+        audio_samples::frequency_to_note_number(self.frequency())
+    }
+}
+
 /// Represents a data point with an audio clip and the parameters used to generate it.
 #[pyclass]
 #[derive(Clone)]
 pub struct DataPoint {
     data: Audio,
-    label: DataPointParameters,
+    label: audio_samples::parameters::DataPointParameters,
 }
 
 #[pymethods]
@@ -239,6 +262,12 @@ impl DataPoint {
     #[pyo3(text_signature = "(self, /)")]
     fn samples<'py>(&self, py: Python<'py>) -> &'py PyArray<f32, Dim<[usize; 1]>> {
         self.data.samples(py)
+    }
+
+    fn label(&self) -> DataPointParameters {
+        DataPointParameters {
+            parameters: self.label.clone(),
+        }
     }
 
     /// The fundamental frequency of the audio.
