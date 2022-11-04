@@ -61,6 +61,7 @@ def to_numpy(x):
         raise Exception(f"Unsupported type for to_numpy: {type(x)}")
 
 def to_torch(x):
+    global use_cuda
     if isinstance(x, torch.Tensor):
         return x
     elif isinstance(x, np.ndarray):
@@ -180,4 +181,3 @@ class ErrorTracker:
     
     def validation_data(self):
         return self.val_iter, self.val_log_losses, self.val_errors
-        
