@@ -20,6 +20,34 @@ pub fn cent_diff(freq1: f32, freq2: f32) -> f32 {
     audio_samples::cent_diff(freq1, freq2)
 }
 
+/// Convert from frequency map to note number.
+#[pyfunction]
+#[pyo3(text_signature = "(self, map, /)")]
+pub fn map_to_note_number(map: f32) -> f32 {
+    audio_samples::map_to_note_number(map)
+}
+
+/// Convert from note number to frequency map.
+#[pyfunction]
+#[pyo3(text_signature = "(self, note_number, /)")]
+pub fn note_number_to_map(note_number: f32) -> f32 {
+    audio_samples::note_number_to_map(note_number)
+}
+
+/// Given a frequency, returns the corresponding frequency mapping.
+#[pyfunction]
+#[pyo3(text_signature = "(self, frequency, /)")]
+pub fn frequency_to_map(frequency: f32) -> f32 {
+    audio_samples::frequency_to_map(frequency)
+}
+
+/// Given a frequency map value, returns the corresponding frequency.
+#[pyfunction]
+#[pyo3(text_signature = "(self, map, /)")]
+pub fn map_to_frequency(map: f32) -> f32 {
+    audio_samples::map_to_frequency(map)
+}
+
 #[pyclass]
 #[pyo3(
     text_signature = "(num_samples, sample_rate = 44100, min_frequency = 20, max_frequency=20000, /)"
@@ -42,18 +70,6 @@ impl DataParameters {
                 num_samples,
             ),
         }
-    }
-
-    /// Convert from frequency map to note number.
-    #[pyo3(text_signature = "(self, map, /)")]
-    pub fn map_to_note_number(&self, map: f32) -> f32 {
-        self.parameters.map_to_note_number(map)
-    }
-
-    /// Convert from note number to frequency map.
-    #[pyo3(text_signature = "(self, note_number, /)")]
-    pub fn note_number_to_map(&self, note_number: f32) -> f32 {
-        self.parameters.note_number_to_map(note_number)
     }
 
     /// Create a new DataParameters object with the given seed_offset.
@@ -134,18 +150,6 @@ impl DataParameters {
         DataParameters {
             parameters: self.parameters.clone().with_effect(effect),
         }
-    }
-
-    /// Given a frequency, returns the corresponding frequency mapping.
-    #[pyo3(text_signature = "(self, frequency, /)")]
-    pub fn frequency_to_map(&self, frequency: f32) -> f32 {
-        self.parameters.frequency_to_map(frequency)
-    }
-
-    /// Given a frequency map value, returns the corresponding frequency.
-    #[pyo3(text_signature = "(self, map, /)")]
-    pub fn map_to_frequency(&self, map: f32) -> f32 {
-        self.parameters.map_to_frequency(map)
     }
 
     /// Generates a samples at the given index.
@@ -248,7 +252,7 @@ impl DataPointLabel {
 #[derive(Clone)]
 pub struct DataPoint {
     data: Audio,
-    parameters: audio_samples::parameters::DataPointParameters,
+    label: DataPointLabel,
 }
 
 #[pymethods]
@@ -267,21 +271,19 @@ impl DataPoint {
 
     #[pyo3(text_signature = "(self, /)")]
     fn label(&self) -> DataPointLabel {
-        DataPointLabel {
-            label: audio_samples::data::DataPointLabel::new(&self.parameters),
-        }
+        self.label.clone()
     }
 
     /// The fundamental frequency of the audio.
     #[pyo3(text_signature = "(self, /)")]
     fn frequency(&self) -> f32 {
-        self.parameters.frequency
+        self.label.frequency()
     }
 
     /// The fundamental frequency of the audio mapped into the range `[-1;1]`.
     #[pyo3(text_signature = "(self, /)")]
     fn frequency_map(&self) -> f32 {
-        self.parameters.frequency_map
+        self.label.frequency_map()
     }
 
     /// Saves the audio to a wav file.
@@ -295,7 +297,9 @@ impl From<data::DataPoint> for DataPoint {
     fn from(data_point: data::DataPoint) -> Self {
         Self {
             data: data_point.audio.into(),
-            parameters: data_point.parameters,
+            label: DataPointLabel {
+                label: data::DataPointLabel::new(&data_point.parameters),
+            },
         }
     }
 }
@@ -310,5 +314,9 @@ fn audio_samples_py(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_function(wrap_pyfunction!(debug_txt, m)?)?;
     m.add_function(wrap_pyfunction!(cent_diff, m)?)?;
     m.add_function(wrap_pyfunction!(load_wav, m)?)?;
+    m.add_function(wrap_pyfunction!(map_to_note_number, m)?)?;
+    m.add_function(wrap_pyfunction!(note_number_to_map, m)?)?;
+    m.add_function(wrap_pyfunction!(frequency_to_map, m)?)?;
+    m.add_function(wrap_pyfunction!(map_to_frequency, m)?)?;
     Ok(())
 }
