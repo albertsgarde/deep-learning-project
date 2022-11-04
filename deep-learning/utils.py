@@ -170,6 +170,7 @@ class ErrorTracker:
         output = to_numpy(output)
         target = to_numpy(target)
         for i, eval_func in enumerate(self.eval_funcs):
+            print(f"train_error: {self.train_errors[i]}")
             self.train_errors[i].append(mean_minibatch_err(output, target, eval_func))
         self.train_iter.append(index)
         print(f"train_iter: {self.train_iter}")
