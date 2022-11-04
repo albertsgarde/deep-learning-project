@@ -76,7 +76,7 @@ def to_torch(x):
     
 
 def mean_minibatch_err(output, target, error_function):
-    assert output.shape == target.shape
+    assert output.shape == target.shape, f"Output and target must be same shape. Output shape: {output.shape}  target shape: {target.shape}"
     total = 0
     for i, output_row in enumerate(output):
         total += error_function(output_row, target[i,:])
