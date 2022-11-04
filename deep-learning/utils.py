@@ -66,6 +66,7 @@ def to_torch(x):
         return x
     elif isinstance(x, np.ndarray):
         variable = Variable(torch.from_numpy(x))
+        print(use_cuda)
         if use_cuda:
             variable = variable.cuda()
         return variable
