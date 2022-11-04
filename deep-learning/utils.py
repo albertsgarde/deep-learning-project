@@ -51,15 +51,26 @@ def init_synth_data(parameters: aus.DataParameters, label_to_target, seed: int, 
 def to_numpy(x):
     """ Get numpy array for both cuda and not. """
     global use_cuda
-    if use_cuda:
-        return x.cpu().data.numpy()
-    return x.data.numpy()
+    if isinstance(x, np.ndarray):
+        return x
+    elif isinstance(x, torch.Tensor):
+        if use_cuda:
+            return x.cpu().data.numpy()
+        return x.data.numpy()
+    else:
+        raise Exception(f"Unsupported type for to_numpy: {type(x)}")
 
 def to_torch(x):
-    variable = Variable(torch.from_numpy(x))
-    if use_cuda:
-        variable = variable.cuda()
-    return variable
+    if isinstance(x, torch.Tensor):
+        return x
+    elif isinstance(x, np.ndarray):
+        variable = Variable(torch.from_numpy(x))
+        if use_cuda:
+            variable = variable.cuda()
+        return variable
+    else:
+        raise Exception(f"Unsupported type for to_torch: {type(x)}")
+    
 
 def mean_minibatch_err(output, target, error_function):
     assert output.shape == target.shape
