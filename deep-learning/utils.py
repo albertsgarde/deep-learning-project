@@ -143,3 +143,41 @@ def mean_cent_err(parameters, freq_map, output):
     target_frequency = np.array(list(map(parameters.map_to_frequency, to_numpy(freq_map))))
     output_frequency = np.array(list(map(parameters.map_to_frequency, to_numpy(output))))
     return np.array([abs(aus.cent_diff(target_frequency, output_frequency)) for target_frequency, output_frequency in zip(target_frequency, output_frequency)]).mean()
+
+class ErrorTracker:
+    def __init__(self, criterion, eval_funcs, num_validation_batches):
+        self.criterion = criterion
+        self.eval_funcs = eval_funcs
+        self.num_validation_batches = num_validation_batches
+
+        self.train_log_losses = []
+        self.train_errors = [[]] * len(eval_funcs)
+        self.train_iter = []
+
+        self.val_log_losses = []
+        self.val_errors = [[]] * len(eval_funcs)
+        self.val_iter = []
+    
+    def update_training(self, index, output, target):
+        loss = self.criterion(to_torch(output), to_torch(target))
+        self.train_log_losses.append(np.log10(loss.item()))
+
+        output = to_numpy(output)
+        target = to_numpy(target)
+        for i, eval_func in enumerate(self.eval_funcs):
+            self.train_errors[i].append(mean_minibatch_err(output, target, eval_func))
+        self.train_iter.append(index)
+
+    def update_validation(self, index, net, validation_loader, criterion):
+        val_loss, val_errors = test_net(net, validation_loader, criterion, self.num_validation_batches, self.eval_funcs)
+        self.val_log_losses.append(np.log10(val_loss))
+        for i in range(len(self.val_errors)):
+            self.val_errors[i].append(val_errors[i])
+        self.val_iter.append(index)
+    
+    def train_data(self):
+        return self.train_iter, self.train_log_losses, self.train_errors
+    
+    def validation_data(self):
+        return self.val_iter, self.val_log_losses, self.val_errors
+        
