@@ -24,7 +24,7 @@ class AudioDataSet(torch.utils.data.Dataset):
     
     def __getitem__(self, index):
         data_point = self.parameters.generate_at_index(index)
-        return data_point.samples(), data_point.audio().fft(), torch.tensor([data_point.frequency_map()]).unsqueeze(0)
+        return data_point.samples(), data_point.audio().fft(), data_point.label()
 
 def init_synth_data(parameters: aus.DataParameters, seed: int, batch_size: int):
     assert seed >= 0, f"seed must be non-negative. seed={seed}"
