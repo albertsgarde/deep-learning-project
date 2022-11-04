@@ -1,9 +1,7 @@
 use anyhow::Result;
 use audio_samples::{
     data,
-    parameters::{
-        effects::EffectDistribution, oscillators::OscillatorTypeDistribution, DataPointParameters,
-    },
+    parameters::{effects::EffectDistribution, oscillators::OscillatorTypeDistribution},
 };
 use ndarray::Dim;
 use numpy::PyArray;
@@ -12,7 +10,7 @@ use rand::distributions::Uniform;
 
 #[pyfunction]
 pub fn debug_txt() -> String {
-    "0.1.6".to_string()
+    "0.1.7".to_string()
 }
 
 /// Calculates the difference in cents between two frequencies.
@@ -219,12 +217,38 @@ impl From<audio_samples::Audio> for Audio {
     }
 }
 
+#[pyclass]
+#[derive(Clone)]
+pub struct DataPointParameters {
+    parameters: audio_samples::parameters::DataPointParameters,
+}
+
+#[pymethods]
+impl DataPointParameters {
+    /// The fundamental frequency of the audio.
+    #[pyo3(text_signature = "(self, /)")]
+    fn frequency(&self) -> f32 {
+        self.parameters.frequency
+    }
+
+    /// The fundamental frequency of the audio mapped into the range `[-1;1]`.
+    #[pyo3(text_signature = "(self, /)")]
+    fn frequency_map(&self) -> f32 {
+        self.parameters.frequency_map
+    }
+
+    #[pyo3(text_signature = "(self, /)")]
+    fn note_number(&self) -> f32 {
+        audio_samples::frequency_to_note_number(self.frequency())
+    }
+}
+
 /// Represents a data point with an audio clip and the parameters used to generate it.
 #[pyclass]
 #[derive(Clone)]
 pub struct DataPoint {
     data: Audio,
-    label: DataPointParameters,
+    label: audio_samples::parameters::DataPointParameters,
 }
 
 #[pymethods]
@@ -239,6 +263,13 @@ impl DataPoint {
     #[pyo3(text_signature = "(self, /)")]
     fn samples<'py>(&self, py: Python<'py>) -> &'py PyArray<f32, Dim<[usize; 1]>> {
         self.data.samples(py)
+    }
+
+    #[pyo3(text_signature = "(self, /)")]
+    fn label(&self) -> DataPointParameters {
+        DataPointParameters {
+            parameters: self.label.clone(),
+        }
     }
 
     /// The fundamental frequency of the audio.
@@ -275,6 +306,7 @@ fn audio_samples_py(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_class::<Audio>()?;
     m.add_class::<DataPoint>()?;
     m.add_class::<DataParameters>()?;
+    m.add_class::<DataPointParameters>()?;
     m.add_function(wrap_pyfunction!(debug_txt, m)?)?;
     m.add_function(wrap_pyfunction!(cent_diff, m)?)?;
     m.add_function(wrap_pyfunction!(load_wav, m)?)?;
