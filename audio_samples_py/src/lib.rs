@@ -220,7 +220,7 @@ impl From<audio_samples::Audio> for Audio {
 #[pyclass]
 #[derive(Clone)]
 pub struct DataPointLabel {
-    parameters: audio_samples::parameters::DataPointParameters,
+    label: audio_samples::data::DataPointLabel,
 }
 
 #[pymethods]
@@ -228,13 +228,13 @@ impl DataPointLabel {
     /// The fundamental frequency of the audio.
     #[pyo3(text_signature = "(self, /)")]
     fn frequency(&self) -> f32 {
-        self.parameters.frequency
+        self.label.base_frequency
     }
 
     /// The fundamental frequency of the audio mapped into the range `[-1;1]`.
     #[pyo3(text_signature = "(self, /)")]
     fn frequency_map(&self) -> f32 {
-        self.parameters.frequency_map
+        self.label.base_frequency_map
     }
 
     #[pyo3(text_signature = "(self, /)")]
@@ -248,7 +248,7 @@ impl DataPointLabel {
 #[derive(Clone)]
 pub struct DataPoint {
     data: Audio,
-    label: audio_samples::parameters::DataPointParameters,
+    parameters: audio_samples::parameters::DataPointParameters,
 }
 
 #[pymethods]
@@ -268,20 +268,20 @@ impl DataPoint {
     #[pyo3(text_signature = "(self, /)")]
     fn label(&self) -> DataPointLabel {
         DataPointLabel {
-            parameters: self.label.clone(),
+            label: audio_samples::data::DataPointLabel::new(&self.parameters),
         }
     }
 
     /// The fundamental frequency of the audio.
     #[pyo3(text_signature = "(self, /)")]
     fn frequency(&self) -> f32 {
-        self.label.frequency
+        self.parameters.frequency
     }
 
     /// The fundamental frequency of the audio mapped into the range `[-1;1]`.
     #[pyo3(text_signature = "(self, /)")]
     fn frequency_map(&self) -> f32 {
-        self.label.frequency_map
+        self.parameters.frequency_map
     }
 
     /// Saves the audio to a wav file.
@@ -295,7 +295,7 @@ impl From<data::DataPoint> for DataPoint {
     fn from(data_point: data::DataPoint) -> Self {
         Self {
             data: data_point.audio.into(),
-            label: data_point.label,
+            parameters: data_point.parameters,
         }
     }
 }
