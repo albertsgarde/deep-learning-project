@@ -219,12 +219,12 @@ impl From<audio_samples::Audio> for Audio {
 
 #[pyclass]
 #[derive(Clone)]
-pub struct DataPointParameters {
+pub struct DataPointLabel {
     parameters: audio_samples::parameters::DataPointParameters,
 }
 
 #[pymethods]
-impl DataPointParameters {
+impl DataPointLabel {
     /// The fundamental frequency of the audio.
     #[pyo3(text_signature = "(self, /)")]
     fn frequency(&self) -> f32 {
@@ -266,8 +266,8 @@ impl DataPoint {
     }
 
     #[pyo3(text_signature = "(self, /)")]
-    fn label(&self) -> DataPointParameters {
-        DataPointParameters {
+    fn label(&self) -> DataPointLabel {
+        DataPointLabel {
             parameters: self.label.clone(),
         }
     }
@@ -306,7 +306,7 @@ fn audio_samples_py(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_class::<Audio>()?;
     m.add_class::<DataPoint>()?;
     m.add_class::<DataParameters>()?;
-    m.add_class::<DataPointParameters>()?;
+    m.add_class::<DataPointLabel>()?;
     m.add_function(wrap_pyfunction!(debug_txt, m)?)?;
     m.add_function(wrap_pyfunction!(cent_diff, m)?)?;
     m.add_function(wrap_pyfunction!(load_wav, m)?)?;
