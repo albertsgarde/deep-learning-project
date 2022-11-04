@@ -63,10 +63,11 @@ def to_numpy(x):
 def to_torch(x):
     global use_cuda
     if isinstance(x, torch.Tensor):
+        if use_cuda:
+            x = x.cuda()
         return x
     elif isinstance(x, np.ndarray):
         variable = Variable(torch.from_numpy(x))
-        print(use_cuda)
         if use_cuda:
             variable = variable.cuda()
         return variable
