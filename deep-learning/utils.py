@@ -154,11 +154,11 @@ class ErrorTracker:
         self.num_validation_batches = num_validation_batches
 
         self.train_log_losses = []
-        self.train_errors = [[]] * len(eval_funcs)
+        self.train_errors = [[] for _ in range(len(eval_funcs))]
         self.train_iter = []
 
         self.val_log_losses = []
-        self.val_errors = [[]] * len(eval_funcs)
+        self.val_errors = [[] for _ in range(len(eval_funcs))]
         self.val_iter = []
 
         print(f"train_errors: {self.train_errors}")
