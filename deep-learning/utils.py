@@ -160,8 +160,6 @@ class ErrorTracker:
         self.val_log_losses = []
         self.val_errors = [[] for _ in range(len(eval_funcs))]
         self.val_iter = []
-
-        print(f"train_errors: {self.train_errors}")
     
     def update_training(self, index: int, output, target):
         loss = self.criterion(to_torch(output), to_torch(target))
@@ -170,12 +168,8 @@ class ErrorTracker:
         output = to_numpy(output)
         target = to_numpy(target)
         for i, eval_func in enumerate(self.eval_funcs):
-            print(i)
-            print(f"train_error: {self.train_errors[i]}")
             self.train_errors[i].append(mean_minibatch_err(output, target, eval_func))
         self.train_iter.append(index)
-        print(f"train_iter: {self.train_iter}")
-        print(f"train_errors: {self.train_errors}")
 
     def update_validation(self, index: int, net: torch.nn.Module, validation_loader: DataLoader, criterion):
         val_loss, val_errors = test_net(net, validation_loader, criterion, self.num_validation_batches, self.eval_funcs)
