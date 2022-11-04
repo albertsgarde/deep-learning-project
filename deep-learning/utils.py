@@ -89,8 +89,8 @@ def test_net(net, validation_loader, criterion, num_validation_batches, error_fu
         
         total_loss += criterion(output, target)
 
-        output = utils.to_numpy(output)
-        target = utils.to_numpy(target)
+        output = to_numpy(output)
+        target = to_numpy(target)
         for i, error_function in enumerate(error_functions):
             total_errors[i] += mean_minibatch_err(output, target, error_function)
 
@@ -114,7 +114,7 @@ def manual_test(net, validation_loader, num_samples, output_functions):
         fft = fft.to(device)
         output = net(signal, fft)
 
-        output = utils.to_numpy(output)
+        output = to_numpy(output)
         for i in range(signal.shape[0]):
             if prints_remaining <= 0:
                 break
