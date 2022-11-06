@@ -20,6 +20,7 @@ def setup_device(use_cuda_if_possible: bool):
 def custom_collate(batch):
     signals, ffts, targets, labels = list(zip(*batch))
     return default_collate(list(signals)), default_collate(list(ffts)), default_collate(list(targets)), list(labels)
+
 class AudioRwDataSet(torch.utils.data.Dataset):
     def __init__(self, data_set: aus.DataSet, label_to_target):
          self.data_set = data_set
@@ -130,7 +131,7 @@ def test_net(net: torch.nn.Module, validation_loader: DataLoader, criterion, num
         target = target.to(device)
         output = net(signal, fft)
         
-        total_loss += criterion(output, target)
+        total_loss += criterion(output, target) / output.shape[0]
 
         output = to_numpy(output)
         target = to_numpy(target)
