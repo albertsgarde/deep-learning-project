@@ -22,7 +22,7 @@ def custom_collate(batch):
     return default_collate(list(signals)), default_collate(list(ffts)), default_collate(list(targets)), list(labels)
 
 
-class AudioDataSet(torch.utils.data.Dataset):
+class AudioSynthDataSet(torch.utils.data.Dataset):
     def __init__(self, parameters: aus.DataParameters, label_to_target):
          self.parameters = parameters
          self.label_to_target = label_to_target
@@ -42,9 +42,9 @@ def init_synth_data(parameters: aus.DataParameters, label_to_target, seed: int, 
     data_loader_params = {"batch_size": batch_size, "collate_fn": custom_collate}
 
     training_parameters = parameters.with_seed_offset(seed)
-    training_loader = torch.utils.data.DataLoader(AudioDataSet(training_parameters, label_to_target), **data_loader_params)
+    training_loader = torch.utils.data.DataLoader(AudioSynthDataSet(training_parameters, label_to_target), **data_loader_params)
     validation_parameters = parameters.with_seed_offset(seed + 1)
-    validation_loader = torch.utils.data.DataLoader(AudioDataSet(validation_parameters, label_to_target), **data_loader_params)
+    validation_loader = torch.utils.data.DataLoader(AudioSynthDataSet(validation_parameters, label_to_target), **data_loader_params)
 
     return training_parameters, training_loader, validation_parameters, validation_loader
 
@@ -143,8 +143,8 @@ def manual_test(net: torch.nn.Module, validation_loader: DataLoader, num_samples
     net.train(mode=was_training)
 
 def mean_cent_err(parameters: aus.DataParameters, freq_map, output):
-    target_frequency = np.array(list(map(parameters.map_to_frequency, to_numpy(freq_map))))
-    output_frequency = np.array(list(map(parameters.map_to_frequency, to_numpy(output))))
+    target_frequency = np.array(list(map(aus.map_to_frequency, to_numpy(freq_map))))
+    output_frequency = np.array(list(map(aus.map_to_frequency, to_numpy(output))))
     return np.array([abs(aus.cent_diff(target_frequency, output_frequency)) for target_frequency, output_frequency in zip(target_frequency, output_frequency)]).mean()
 
 class ErrorTracker:
