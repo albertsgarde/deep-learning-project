@@ -20,7 +20,36 @@ def setup_device(use_cuda_if_possible: bool):
 def custom_collate(batch):
     signals, ffts, targets, labels = list(zip(*batch))
     return default_collate(list(signals)), default_collate(list(ffts)), default_collate(list(targets)), list(labels)
+class AudioRwDataSet(torch.utils.data.Dataset):
+    def __init__(self, data_set: aus.DataSet, label_to_target):
+         self.data_set = data_set
+         self.label_to_target = label_to_target
 
+    def __len__(self):
+        return len(self.data_set)
+    
+    def __getitem__(self, index: int):
+        data_point = self.data_set[index]
+        label = data_point.label()
+        return data_point.samples(), data_point.audio().fft(), self.label_to_target(label), label
+
+def init_rw_data(path, label_to_target, validation_size: float, batch_size: int):
+    assert validation_size >= 0, f"validation size must be non-negative. validation_size={validation_size}"
+    assert validation_size <= 1, f"validation size must be no greater than 1. validation_size={validation_size}"
+    assert batch_size > 0, f"batch_size must be positive. batch_size={batch_size}"
+
+    data_loader_params = {"batch_size": batch_size, "collate_fn": custom_collate}
+
+    # Not a mistake. Just an artifact of how random_partition works.
+    training_data, validation_data = aus.load_data_set(path).random_partition(1-validation_size)
+
+    training_data = AudioRwDataSet(training_data, label_to_target)
+    validation_data = AudioRwDataSet(validation_data, label_to_target)
+
+    training_loader = torch.utils.data.DataLoader(training_data, **data_loader_params)
+    validation_loader = torch.utils.data.DataLoader(validation_data, **data_loader_params)
+
+    return training_loader, validation_loader
 
 class AudioSynthDataSet(torch.utils.data.Dataset):
     def __init__(self, parameters: aus.DataParameters, label_to_target):
@@ -80,7 +109,7 @@ def mean_minibatch_err(output, target, error_function):
     total = 0
     for i, output_row in enumerate(output):
         total += error_function(output_row, target[i,:])
-    return total*1./output.shape[0]
+    return total/output.shape[0]
 
 def test_net(net: torch.nn.Module, validation_loader: DataLoader, criterion, num_validation_batches: int, error_functions):
     r"""
