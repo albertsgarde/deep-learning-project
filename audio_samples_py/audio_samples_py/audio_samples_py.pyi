@@ -17,8 +17,9 @@ class DataParameters(object):
     :param sample_rate: The sample rate of all audio generated. Defaults to 44100 and should generally be left here.
     :param min_frequency: The minimum frequency of any oscillator in the data set.
     :param max_frequency: The maximum frequency of any oscillator in the data set.
+    :param possible_chord_types: Which chord types can appear.
     """
-    def __init__(self, num_samples: int, sample_rate: int, min_frequency: float, max_frequency: float) -> None: ...
+    def __init__(self, num_samples: int, sample_rate: int, min_frequency: float, max_frequency: float, possible_chord_types: list[int]) -> None: ...
 
     def with_seed_offset(self, seed_offset: int) -> 'DataParameters':
         """

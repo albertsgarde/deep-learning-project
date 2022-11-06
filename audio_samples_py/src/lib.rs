@@ -48,6 +48,13 @@ pub fn map_to_frequency(map: f32) -> f32 {
     audio_samples::map_to_frequency(map)
 }
 
+#[pyfunction]
+pub fn chord_type_name(chord_type: u32) -> String {
+    audio_samples::CHORD_TYPES[chord_type as usize]
+        .0
+        .to_string()
+}
+
 #[pyclass]
 #[pyo3(
     text_signature = "(num_samples, sample_rate = 44100, min_frequency = 20, max_frequency=20000, /)"
@@ -61,12 +68,24 @@ pub struct DataParameters {
 impl DataParameters {
     /// Create a new DataParameters object with no oscillators or effects.
     #[new]
-    #[args(min_frequency = "20.", max_frequency = "20000.", sample_rate = "44100")]
-    fn new(num_samples: u64, sample_rate: u32, min_frequency: f32, max_frequency: f32) -> Self {
+    #[args(
+        sample_rate = "44100",
+        min_frequency = "20.",
+        max_frequency = "20000.",
+        possible_chord_types = "vec![0]"
+    )]
+    fn new(
+        num_samples: u64,
+        sample_rate: u32,
+        min_frequency: f32,
+        max_frequency: f32,
+        possible_chord_types: Vec<u32>,
+    ) -> Self {
         Self {
             parameters: audio_samples::parameters::DataParameters::new(
                 sample_rate,
                 (min_frequency, max_frequency),
+                possible_chord_types,
                 num_samples,
             ),
         }
@@ -245,6 +264,14 @@ impl DataPointLabel {
     fn note_number(&self) -> f32 {
         audio_samples::frequency_to_note_number(self.frequency())
     }
+
+    fn chord_type(&self) -> u32 {
+        self.label.chord_type
+    }
+
+    fn chord_type_name(&self) -> String {
+        chord_type_name(self.chord_type())
+    }
 }
 
 impl From<audio_samples::data::DataPointLabel> for DataPointLabel {
@@ -367,5 +394,6 @@ fn audio_samples_py(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_function(wrap_pyfunction!(note_number_to_map, m)?)?;
     m.add_function(wrap_pyfunction!(frequency_to_map, m)?)?;
     m.add_function(wrap_pyfunction!(map_to_frequency, m)?)?;
+    m.add_function(wrap_pyfunction!(chord_type_name, m)?)?;
     Ok(())
 }
