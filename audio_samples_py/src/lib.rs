@@ -10,7 +10,7 @@ use rand::{distributions::Uniform, seq::SliceRandom};
 
 #[pyfunction]
 pub fn debug_txt() -> String {
-    "0.1.7".to_string()
+    "0.1.8".to_string()
 }
 
 /// Calculates the difference in cents between two frequencies.
