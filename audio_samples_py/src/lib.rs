@@ -326,6 +326,15 @@ impl DataSet {
     fn __getitem__(&self, index: usize) -> Option<DataPoint> {
         self.data.get(index).cloned()
     }
+
+    fn random_partition(&self, p: f32) -> (Self, Self) {
+        let mut rng = rand::thread_rng();
+        let mut data = self.data.clone();
+        data.shuffle(&mut rng);
+        let n = (data.len() as f32 * p).round() as usize;
+        let (a, b) = data.split_at(n);
+        (Self { data: a.to_vec() }, Self { data: b.to_vec() })
+    }
 }
 
 #[pyfunction]
