@@ -247,11 +247,17 @@ impl DataPointLabel {
     }
 }
 
+impl From<audio_samples::data::DataPointLabel> for DataPointLabel {
+    fn from(label: audio_samples::data::DataPointLabel) -> Self {
+        Self { label }
+    }
+}
+
 /// Represents a data point with an audio clip and the parameters used to generate it.
 #[pyclass]
 #[derive(Clone)]
 pub struct DataPoint {
-    data: Audio,
+    signal: Audio,
     label: DataPointLabel,
 }
 
@@ -260,13 +266,13 @@ impl DataPoint {
     /// The audio.
     #[pyo3(text_signature = "(self, /)")]
     fn audio(&self) -> Audio {
-        self.data.clone()
+        self.signal.clone()
     }
 
     /// A vector of the samples in the audio.
     #[pyo3(text_signature = "(self, /)")]
     fn samples<'py>(&self, py: Python<'py>) -> &'py PyArray<f32, Dim<[usize; 1]>> {
-        self.data.samples(py)
+        self.signal.samples(py)
     }
 
     #[pyo3(text_signature = "(self, /)")]
@@ -289,19 +295,51 @@ impl DataPoint {
     /// Saves the audio to a wav file.
     #[pyo3(text_signature = "(self, path, /)")]
     fn audio_to_wav(&self, path: &str) -> Result<()> {
-        self.data.to_wav(path)
+        self.signal.to_wav(path)
     }
 }
 
 impl From<data::DataPoint> for DataPoint {
     fn from(data_point: data::DataPoint) -> Self {
         Self {
-            data: data_point.audio.into(),
+            signal: data_point.audio.into(),
             label: DataPointLabel {
                 label: data::DataPointLabel::new(&data_point.parameters),
             },
         }
     }
+}
+
+/// Represents a data point with an audio clip and the parameters used to generate it.
+#[pyclass]
+#[derive(Clone)]
+pub struct DataSet {
+    data: Vec<DataPoint>,
+}
+
+#[pymethods]
+impl DataSet {
+    fn __len__(&self) -> usize {
+        self.data.len()
+    }
+
+    fn __getitem__(&self, index: usize) -> Option<DataPoint> {
+        self.data.get(index).cloned()
+    }
+}
+
+#[pyfunction]
+#[pyo3(text_signature = "(path, /)")]
+pub fn load_data_set(path: &str) -> Result<DataSet> {
+    audio_samples::data::load_dir(path).map(|data| DataSet {
+        data: data
+            .into_iter()
+            .map(|(audio, label)| DataPoint {
+                signal: audio.into(),
+                label: label.into(),
+            })
+            .collect(),
+    })
 }
 
 /// A Python module implemented in Rust.
@@ -311,9 +349,11 @@ fn audio_samples_py(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_class::<DataPoint>()?;
     m.add_class::<DataParameters>()?;
     m.add_class::<DataPointLabel>()?;
+    m.add_class::<DataSet>()?;
     m.add_function(wrap_pyfunction!(debug_txt, m)?)?;
     m.add_function(wrap_pyfunction!(cent_diff, m)?)?;
     m.add_function(wrap_pyfunction!(load_wav, m)?)?;
+    m.add_function(wrap_pyfunction!(load_data_set, m)?)?;
     m.add_function(wrap_pyfunction!(map_to_note_number, m)?)?;
     m.add_function(wrap_pyfunction!(note_number_to_map, m)?)?;
     m.add_function(wrap_pyfunction!(frequency_to_map, m)?)?;
