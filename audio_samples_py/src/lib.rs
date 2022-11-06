@@ -22,33 +22,40 @@ pub fn cent_diff(freq1: f32, freq2: f32) -> f32 {
 
 /// Convert from frequency map to note number.
 #[pyfunction]
-#[pyo3(text_signature = "(self, map, /)")]
+#[pyo3(text_signature = "(map, /)")]
 pub fn map_to_note_number(map: f32) -> f32 {
     audio_samples::map_to_note_number(map)
 }
 
 /// Convert from note number to frequency map.
 #[pyfunction]
-#[pyo3(text_signature = "(self, note_number, /)")]
+#[pyo3(text_signature = "(note_number, /)")]
 pub fn note_number_to_map(note_number: f32) -> f32 {
     audio_samples::note_number_to_map(note_number)
 }
 
 /// Given a frequency, returns the corresponding frequency mapping.
 #[pyfunction]
-#[pyo3(text_signature = "(self, frequency, /)")]
+#[pyo3(text_signature = "(frequency, /)")]
 pub fn frequency_to_map(frequency: f32) -> f32 {
     audio_samples::frequency_to_map(frequency)
 }
 
 /// Given a frequency map value, returns the corresponding frequency.
 #[pyfunction]
-#[pyo3(text_signature = "(self, map, /)")]
+#[pyo3(text_signature = "(map, /)")]
 pub fn map_to_frequency(map: f32) -> f32 {
     audio_samples::map_to_frequency(map)
 }
 
 #[pyfunction]
+#[pyo3(text_signature = "(/)")]
+pub fn num_chord_types() -> usize {
+    audio_samples::CHORD_TYPES.len()
+}
+
+#[pyfunction]
+#[pyo3(text_signature = "(chord_type, /)")]
 pub fn chord_type_name(chord_type: u32) -> String {
     audio_samples::CHORD_TYPES[chord_type as usize]
         .0
@@ -57,7 +64,7 @@ pub fn chord_type_name(chord_type: u32) -> String {
 
 #[pyclass]
 #[pyo3(
-    text_signature = "(num_samples, sample_rate = 44100, min_frequency = 20, max_frequency=20000, /)"
+    text_signature = "(num_samples, sample_rate = 44100, min_frequency = 20, max_frequency=20000, possible_chord_types=[0], /)"
 )]
 #[derive(Clone)]
 pub struct DataParameters {
@@ -394,6 +401,7 @@ fn audio_samples_py(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_function(wrap_pyfunction!(note_number_to_map, m)?)?;
     m.add_function(wrap_pyfunction!(frequency_to_map, m)?)?;
     m.add_function(wrap_pyfunction!(map_to_frequency, m)?)?;
+    m.add_function(wrap_pyfunction!(num_chord_types, m)?)?;
     m.add_function(wrap_pyfunction!(chord_type_name, m)?)?;
     Ok(())
 }
