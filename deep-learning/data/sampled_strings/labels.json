@@ -1,0 +1,3842 @@
+{
+  "quiet_78_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.045463547,
+    "base_frequency": 739.98883,
+    "num_samples": 256
+  },
+  "loud_51_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.40608147,
+    "base_frequency": 155.56354,
+    "num_samples": 256
+  },
+  "loud_40_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.59004426,
+    "base_frequency": 82.406906,
+    "num_samples": 256
+  },
+  "loud_13_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0415893,
+    "base_frequency": 17.323915,
+    "num_samples": 256
+  },
+  "loud_33_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7071115,
+    "base_frequency": 55.000004,
+    "num_samples": 256
+  },
+  "loud_38_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.623492,
+    "base_frequency": 73.41622,
+    "num_samples": 256
+  },
+  "loud_79_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.062187433,
+    "base_frequency": 783.9908,
+    "num_samples": 256
+  },
+  "quiet_14_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0248654,
+    "base_frequency": 18.354052,
+    "num_samples": 256
+  },
+  "quiet_42_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.55659646,
+    "base_frequency": 92.49865,
+    "num_samples": 256
+  },
+  "quiet_42_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.55659646,
+    "base_frequency": 92.49865,
+    "num_samples": 256
+  },
+  "quiet_52_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.38935757,
+    "base_frequency": 164.81381,
+    "num_samples": 256
+  },
+  "quiet_60_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.25556648,
+    "base_frequency": 261.6256,
+    "num_samples": 256
+  },
+  "loud_49_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.43952924,
+    "base_frequency": 138.59132,
+    "num_samples": 256
+  },
+  "loud_68_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.121775344,
+    "base_frequency": 415.30478,
+    "num_samples": 256
+  },
+  "loud_77_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.028739661,
+    "base_frequency": 698.45654,
+    "num_samples": 256
+  },
+  "loud_57_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.30573812,
+    "base_frequency": 220.00012,
+    "num_samples": 256
+  },
+  "loud_22_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.89107424,
+    "base_frequency": 29.13524,
+    "num_samples": 256
+  },
+  "loud_69_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.10505146,
+    "base_frequency": 440.00003,
+    "num_samples": 256
+  },
+  "loud_15_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0081415,
+    "base_frequency": 19.445438,
+    "num_samples": 256
+  },
+  "loud_35_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.6736637,
+    "base_frequency": 61.73543,
+    "num_samples": 256
+  },
+  "quiet_23_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.87435037,
+    "base_frequency": 30.867716,
+    "num_samples": 256
+  },
+  "loud_12_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0583131,
+    "base_frequency": 16.3516,
+    "num_samples": 256
+  },
+  "loud_34_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.69038755,
+    "base_frequency": 58.270496,
+    "num_samples": 256
+  },
+  "loud_46_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.4897009,
+    "base_frequency": 116.54094,
+    "num_samples": 256
+  },
+  "loud_88_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.21270242,
+    "base_frequency": 1318.5105,
+    "num_samples": 256
+  },
+  "loud_19_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9412459,
+    "base_frequency": 24.499723,
+    "num_samples": 256
+  },
+  "loud_88_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.21270242,
+    "base_frequency": 1318.5105,
+    "num_samples": 256
+  },
+  "loud_38_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.623492,
+    "base_frequency": 73.41622,
+    "num_samples": 256
+  },
+  "quiet_25_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.84090257,
+    "base_frequency": 34.64784,
+    "num_samples": 256
+  },
+  "loud_91_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.2628741,
+    "base_frequency": 1567.9823,
+    "num_samples": 256
+  },
+  "quiet_82_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.11235911,
+    "base_frequency": 932.3275,
+    "num_samples": 256
+  },
+  "loud_27_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.8074548,
+    "base_frequency": 38.890877,
+    "num_samples": 256
+  },
+  "loud_77_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.028739661,
+    "base_frequency": 698.45654,
+    "num_samples": 256
+  },
+  "loud_81_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.095635206,
+    "base_frequency": 880.00006,
+    "num_samples": 256
+  },
+  "quiet_78_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.045463547,
+    "base_frequency": 739.98883,
+    "num_samples": 256
+  },
+  "quiet_39_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.60676813,
+    "base_frequency": 77.78177,
+    "num_samples": 256
+  },
+  "quiet_40_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.59004426,
+    "base_frequency": 82.406906,
+    "num_samples": 256
+  },
+  "quiet_14_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0248654,
+    "base_frequency": 18.354052,
+    "num_samples": 256
+  },
+  "quiet_64_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.1886709,
+    "base_frequency": 329.62762,
+    "num_samples": 256
+  },
+  "loud_72_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.054879792,
+    "base_frequency": 523.2512,
+    "num_samples": 256
+  },
+  "loud_82_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.11235911,
+    "base_frequency": 932.3275,
+    "num_samples": 256
+  },
+  "quiet_60_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.25556648,
+    "base_frequency": 261.6256,
+    "num_samples": 256
+  },
+  "quiet_63_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.20539479,
+    "base_frequency": 311.12695,
+    "num_samples": 256
+  },
+  "quiet_29_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.774007,
+    "base_frequency": 43.653534,
+    "num_samples": 256
+  },
+  "quiet_55_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3391859,
+    "base_frequency": 195.99779,
+    "num_samples": 256
+  },
+  "quiet_89_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.22942632,
+    "base_frequency": 1396.9137,
+    "num_samples": 256
+  },
+  "loud_28_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7907309,
+    "base_frequency": 41.203453,
+    "num_samples": 256
+  },
+  "loud_61_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.23884258,
+    "base_frequency": 277.18265,
+    "num_samples": 256
+  },
+  "quiet_45_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5064248,
+    "base_frequency": 110.00001,
+    "num_samples": 256
+  },
+  "quiet_55_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3391859,
+    "base_frequency": 195.99779,
+    "num_samples": 256
+  },
+  "loud_32_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.72383535,
+    "base_frequency": 51.913097,
+    "num_samples": 256
+  },
+  "loud_24_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.85762644,
+    "base_frequency": 32.7032,
+    "num_samples": 256
+  },
+  "quiet_90_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.24615023,
+    "base_frequency": 1479.9784,
+    "num_samples": 256
+  },
+  "loud_71_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.07160368,
+    "base_frequency": 493.88345,
+    "num_samples": 256
+  },
+  "loud_85_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.16253078,
+    "base_frequency": 1108.7306,
+    "num_samples": 256
+  },
+  "loud_66_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.15522313,
+    "base_frequency": 369.9946,
+    "num_samples": 256
+  },
+  "quiet_42_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.55659646,
+    "base_frequency": 92.49865,
+    "num_samples": 256
+  },
+  "loud_31_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7405592,
+    "base_frequency": 48.999447,
+    "num_samples": 256
+  },
+  "quiet_70_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.08832757,
+    "base_frequency": 466.16376,
+    "num_samples": 256
+  },
+  "quiet_87_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.19597855,
+    "base_frequency": 1244.5078,
+    "num_samples": 256
+  },
+  "quiet_86_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.17925465,
+    "base_frequency": 1174.659,
+    "num_samples": 256
+  },
+  "loud_51_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.40608147,
+    "base_frequency": 155.56354,
+    "num_samples": 256
+  },
+  "quiet_35_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.6736637,
+    "base_frequency": 61.73543,
+    "num_samples": 256
+  },
+  "loud_33_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7071115,
+    "base_frequency": 55.000004,
+    "num_samples": 256
+  },
+  "loud_75_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.004708126,
+    "base_frequency": 622.25415,
+    "num_samples": 256
+  },
+  "loud_67_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.13849923,
+    "base_frequency": 391.99557,
+    "num_samples": 256
+  },
+  "quiet_28_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7907309,
+    "base_frequency": 41.203453,
+    "num_samples": 256
+  },
+  "quiet_35_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.6736637,
+    "base_frequency": 61.73543,
+    "num_samples": 256
+  },
+  "loud_36_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.6569398,
+    "base_frequency": 65.4064,
+    "num_samples": 256
+  },
+  "loud_46_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.4897009,
+    "base_frequency": 116.54094,
+    "num_samples": 256
+  },
+  "loud_44_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.52314866,
+    "base_frequency": 103.826195,
+    "num_samples": 256
+  },
+  "loud_53_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3726337,
+    "base_frequency": 174.61414,
+    "num_samples": 256
+  },
+  "loud_47_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.472977,
+    "base_frequency": 123.47081,
+    "num_samples": 256
+  },
+  "loud_91_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.2628741,
+    "base_frequency": 1567.9823,
+    "num_samples": 256
+  },
+  "quiet_41_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5733204,
+    "base_frequency": 87.30707,
+    "num_samples": 256
+  },
+  "quiet_73_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.0381559,
+    "base_frequency": 554.3653,
+    "num_samples": 256
+  },
+  "quiet_80_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.07891132,
+    "base_frequency": 830.6092,
+    "num_samples": 256
+  },
+  "quiet_53_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3726337,
+    "base_frequency": 174.61414,
+    "num_samples": 256
+  },
+  "quiet_85_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.16253078,
+    "base_frequency": 1108.7306,
+    "num_samples": 256
+  },
+  "loud_16_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9914176,
+    "base_frequency": 20.601727,
+    "num_samples": 256
+  },
+  "quiet_36_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.6569398,
+    "base_frequency": 65.4064,
+    "num_samples": 256
+  },
+  "loud_53_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3726337,
+    "base_frequency": 174.61414,
+    "num_samples": 256
+  },
+  "quiet_44_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.52314866,
+    "base_frequency": 103.826195,
+    "num_samples": 256
+  },
+  "quiet_87_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.19597855,
+    "base_frequency": 1244.5078,
+    "num_samples": 256
+  },
+  "quiet_68_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.121775344,
+    "base_frequency": 415.30478,
+    "num_samples": 256
+  },
+  "quiet_32_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.72383535,
+    "base_frequency": 51.913097,
+    "num_samples": 256
+  },
+  "loud_34_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.69038755,
+    "base_frequency": 58.270496,
+    "num_samples": 256
+  },
+  "quiet_45_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5064248,
+    "base_frequency": 110.00001,
+    "num_samples": 256
+  },
+  "quiet_76_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.012015767,
+    "base_frequency": 659.25525,
+    "num_samples": 256
+  },
+  "loud_21_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9077981,
+    "base_frequency": 27.50001,
+    "num_samples": 256
+  },
+  "loud_37_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.64021593,
+    "base_frequency": 69.29566,
+    "num_samples": 256
+  },
+  "loud_57_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.30573812,
+    "base_frequency": 220.00012,
+    "num_samples": 256
+  },
+  "quiet_91_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.2628741,
+    "base_frequency": 1567.9823,
+    "num_samples": 256
+  },
+  "quiet_18_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9579698,
+    "base_frequency": 23.124657,
+    "num_samples": 256
+  },
+  "loud_65_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.17194702,
+    "base_frequency": 349.22827,
+    "num_samples": 256
+  },
+  "quiet_83_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.129083,
+    "base_frequency": 987.76697,
+    "num_samples": 256
+  },
+  "loud_37_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.64021593,
+    "base_frequency": 69.29566,
+    "num_samples": 256
+  },
+  "loud_73_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.0381559,
+    "base_frequency": 554.3653,
+    "num_samples": 256
+  },
+  "quiet_66_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.15522313,
+    "base_frequency": 369.9946,
+    "num_samples": 256
+  },
+  "loud_13_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0415893,
+    "base_frequency": 17.323915,
+    "num_samples": 256
+  },
+  "quiet_81_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.095635206,
+    "base_frequency": 880.00006,
+    "num_samples": 256
+  },
+  "quiet_49_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.43952924,
+    "base_frequency": 138.59132,
+    "num_samples": 256
+  },
+  "loud_65_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.17194702,
+    "base_frequency": 349.22827,
+    "num_samples": 256
+  },
+  "loud_72_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.054879792,
+    "base_frequency": 523.2512,
+    "num_samples": 256
+  },
+  "loud_14_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0248654,
+    "base_frequency": 18.354052,
+    "num_samples": 256
+  },
+  "loud_59_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.27229035,
+    "base_frequency": 246.94173,
+    "num_samples": 256
+  },
+  "loud_87_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.19597855,
+    "base_frequency": 1244.5078,
+    "num_samples": 256
+  },
+  "quiet_33_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7071115,
+    "base_frequency": 55.000004,
+    "num_samples": 256
+  },
+  "loud_70_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.08832757,
+    "base_frequency": 466.16376,
+    "num_samples": 256
+  },
+  "quiet_34_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.69038755,
+    "base_frequency": 58.270496,
+    "num_samples": 256
+  },
+  "quiet_40_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.59004426,
+    "base_frequency": 82.406906,
+    "num_samples": 256
+  },
+  "loud_46_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.4897009,
+    "base_frequency": 116.54094,
+    "num_samples": 256
+  },
+  "quiet_52_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.38935757,
+    "base_frequency": 164.81381,
+    "num_samples": 256
+  },
+  "quiet_61_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.23884258,
+    "base_frequency": 277.18265,
+    "num_samples": 256
+  },
+  "quiet_45_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5064248,
+    "base_frequency": 110.00001,
+    "num_samples": 256
+  },
+  "loud_14_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0248654,
+    "base_frequency": 18.354052,
+    "num_samples": 256
+  },
+  "loud_71_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.07160368,
+    "base_frequency": 493.88345,
+    "num_samples": 256
+  },
+  "quiet_22_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.89107424,
+    "base_frequency": 29.13524,
+    "num_samples": 256
+  },
+  "quiet_68_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.121775344,
+    "base_frequency": 415.30478,
+    "num_samples": 256
+  },
+  "loud_43_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5398726,
+    "base_frequency": 97.99889,
+    "num_samples": 256
+  },
+  "quiet_77_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.028739661,
+    "base_frequency": 698.45654,
+    "num_samples": 256
+  },
+  "quiet_12_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0583131,
+    "base_frequency": 16.3516,
+    "num_samples": 256
+  },
+  "quiet_75_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.004708126,
+    "base_frequency": 622.25415,
+    "num_samples": 256
+  },
+  "loud_52_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.38935757,
+    "base_frequency": 164.81381,
+    "num_samples": 256
+  },
+  "loud_19_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9412459,
+    "base_frequency": 24.499723,
+    "num_samples": 256
+  },
+  "loud_13_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0415893,
+    "base_frequency": 17.323915,
+    "num_samples": 256
+  },
+  "quiet_37_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.64021593,
+    "base_frequency": 69.29566,
+    "num_samples": 256
+  },
+  "loud_61_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.23884258,
+    "base_frequency": 277.18265,
+    "num_samples": 256
+  },
+  "quiet_33_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7071115,
+    "base_frequency": 55.000004,
+    "num_samples": 256
+  },
+  "quiet_54_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3559098,
+    "base_frequency": 184.99721,
+    "num_samples": 256
+  },
+  "loud_81_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.095635206,
+    "base_frequency": 880.00006,
+    "num_samples": 256
+  },
+  "loud_55_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3391859,
+    "base_frequency": 195.99779,
+    "num_samples": 256
+  },
+  "quiet_25_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.84090257,
+    "base_frequency": 34.64784,
+    "num_samples": 256
+  },
+  "quiet_55_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3391859,
+    "base_frequency": 195.99779,
+    "num_samples": 256
+  },
+  "loud_14_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0248654,
+    "base_frequency": 18.354052,
+    "num_samples": 256
+  },
+  "quiet_70_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.08832757,
+    "base_frequency": 466.16376,
+    "num_samples": 256
+  },
+  "quiet_74_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.021432012,
+    "base_frequency": 587.3295,
+    "num_samples": 256
+  },
+  "loud_13_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0415893,
+    "base_frequency": 17.323915,
+    "num_samples": 256
+  },
+  "loud_80_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.07891132,
+    "base_frequency": 830.6092,
+    "num_samples": 256
+  },
+  "quiet_87_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.19597855,
+    "base_frequency": 1244.5078,
+    "num_samples": 256
+  },
+  "loud_74_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.021432012,
+    "base_frequency": 587.3295,
+    "num_samples": 256
+  },
+  "quiet_91_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.2628741,
+    "base_frequency": 1567.9823,
+    "num_samples": 256
+  },
+  "loud_23_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.87435037,
+    "base_frequency": 30.867716,
+    "num_samples": 256
+  },
+  "loud_16_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9914176,
+    "base_frequency": 20.601727,
+    "num_samples": 256
+  },
+  "loud_21_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9077981,
+    "base_frequency": 27.50001,
+    "num_samples": 256
+  },
+  "loud_71_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.07160368,
+    "base_frequency": 493.88345,
+    "num_samples": 256
+  },
+  "quiet_49_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.43952924,
+    "base_frequency": 138.59132,
+    "num_samples": 256
+  },
+  "quiet_37_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.64021593,
+    "base_frequency": 69.29566,
+    "num_samples": 256
+  },
+  "quiet_22_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.89107424,
+    "base_frequency": 29.13524,
+    "num_samples": 256
+  },
+  "loud_31_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7405592,
+    "base_frequency": 48.999447,
+    "num_samples": 256
+  },
+  "loud_83_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.129083,
+    "base_frequency": 987.76697,
+    "num_samples": 256
+  },
+  "quiet_55_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3391859,
+    "base_frequency": 195.99779,
+    "num_samples": 256
+  },
+  "loud_25_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.84090257,
+    "base_frequency": 34.64784,
+    "num_samples": 256
+  },
+  "loud_30_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.75728315,
+    "base_frequency": 46.249313,
+    "num_samples": 256
+  },
+  "quiet_28_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7907309,
+    "base_frequency": 41.203453,
+    "num_samples": 256
+  },
+  "quiet_82_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.11235911,
+    "base_frequency": 932.3275,
+    "num_samples": 256
+  },
+  "quiet_56_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.32246202,
+    "base_frequency": 207.65239,
+    "num_samples": 256
+  },
+  "loud_33_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7071115,
+    "base_frequency": 55.000004,
+    "num_samples": 256
+  },
+  "loud_62_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.22211868,
+    "base_frequency": 293.66476,
+    "num_samples": 256
+  },
+  "quiet_72_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.054879792,
+    "base_frequency": 523.2512,
+    "num_samples": 256
+  },
+  "quiet_84_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.14580688,
+    "base_frequency": 1046.5024,
+    "num_samples": 256
+  },
+  "loud_50_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.42280534,
+    "base_frequency": 146.83244,
+    "num_samples": 256
+  },
+  "quiet_24_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.85762644,
+    "base_frequency": 32.7032,
+    "num_samples": 256
+  },
+  "loud_18_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9579698,
+    "base_frequency": 23.124657,
+    "num_samples": 256
+  },
+  "quiet_52_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.38935757,
+    "base_frequency": 164.81381,
+    "num_samples": 256
+  },
+  "loud_50_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.42280534,
+    "base_frequency": 146.83244,
+    "num_samples": 256
+  },
+  "quiet_70_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.08832757,
+    "base_frequency": 466.16376,
+    "num_samples": 256
+  },
+  "quiet_77_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.028739661,
+    "base_frequency": 698.45654,
+    "num_samples": 256
+  },
+  "loud_22_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.89107424,
+    "base_frequency": 29.13524,
+    "num_samples": 256
+  },
+  "quiet_50_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.42280534,
+    "base_frequency": 146.83244,
+    "num_samples": 256
+  },
+  "loud_58_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.28901422,
+    "base_frequency": 233.08199,
+    "num_samples": 256
+  },
+  "loud_35_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.6736637,
+    "base_frequency": 61.73543,
+    "num_samples": 256
+  },
+  "loud_90_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.24615023,
+    "base_frequency": 1479.9784,
+    "num_samples": 256
+  },
+  "quiet_57_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.30573812,
+    "base_frequency": 220.00012,
+    "num_samples": 256
+  },
+  "loud_84_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.14580688,
+    "base_frequency": 1046.5024,
+    "num_samples": 256
+  },
+  "loud_18_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9579698,
+    "base_frequency": 23.124657,
+    "num_samples": 256
+  },
+  "quiet_51_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.40608147,
+    "base_frequency": 155.56354,
+    "num_samples": 256
+  },
+  "quiet_54_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3559098,
+    "base_frequency": 184.99721,
+    "num_samples": 256
+  },
+  "loud_89_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.22942632,
+    "base_frequency": 1396.9137,
+    "num_samples": 256
+  },
+  "quiet_15_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0081415,
+    "base_frequency": 19.445438,
+    "num_samples": 256
+  },
+  "quiet_21_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9077981,
+    "base_frequency": 27.50001,
+    "num_samples": 256
+  },
+  "quiet_23_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.87435037,
+    "base_frequency": 30.867716,
+    "num_samples": 256
+  },
+  "quiet_30_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.75728315,
+    "base_frequency": 46.249313,
+    "num_samples": 256
+  },
+  "loud_39_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.60676813,
+    "base_frequency": 77.78177,
+    "num_samples": 256
+  },
+  "loud_80_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.07891132,
+    "base_frequency": 830.6092,
+    "num_samples": 256
+  },
+  "quiet_30_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.75728315,
+    "base_frequency": 46.249313,
+    "num_samples": 256
+  },
+  "loud_87_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.19597855,
+    "base_frequency": 1244.5078,
+    "num_samples": 256
+  },
+  "quiet_37_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.64021593,
+    "base_frequency": 69.29566,
+    "num_samples": 256
+  },
+  "quiet_58_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.28901422,
+    "base_frequency": 233.08199,
+    "num_samples": 256
+  },
+  "loud_17_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9746937,
+    "base_frequency": 21.826767,
+    "num_samples": 256
+  },
+  "loud_79_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.062187433,
+    "base_frequency": 783.9908,
+    "num_samples": 256
+  },
+  "quiet_65_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.17194702,
+    "base_frequency": 349.22827,
+    "num_samples": 256
+  },
+  "loud_60_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.25556648,
+    "base_frequency": 261.6256,
+    "num_samples": 256
+  },
+  "quiet_28_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7907309,
+    "base_frequency": 41.203453,
+    "num_samples": 256
+  },
+  "quiet_51_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.40608147,
+    "base_frequency": 155.56354,
+    "num_samples": 256
+  },
+  "quiet_23_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.87435037,
+    "base_frequency": 30.867716,
+    "num_samples": 256
+  },
+  "loud_63_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.20539479,
+    "base_frequency": 311.12695,
+    "num_samples": 256
+  },
+  "quiet_19_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9412459,
+    "base_frequency": 24.499723,
+    "num_samples": 256
+  },
+  "quiet_73_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.0381559,
+    "base_frequency": 554.3653,
+    "num_samples": 256
+  },
+  "loud_69_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.10505146,
+    "base_frequency": 440.00003,
+    "num_samples": 256
+  },
+  "loud_42_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.55659646,
+    "base_frequency": 92.49865,
+    "num_samples": 256
+  },
+  "quiet_18_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9579698,
+    "base_frequency": 23.124657,
+    "num_samples": 256
+  },
+  "quiet_37_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.64021593,
+    "base_frequency": 69.29566,
+    "num_samples": 256
+  },
+  "loud_56_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.32246202,
+    "base_frequency": 207.65239,
+    "num_samples": 256
+  },
+  "quiet_47_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.472977,
+    "base_frequency": 123.47081,
+    "num_samples": 256
+  },
+  "loud_69_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.10505146,
+    "base_frequency": 440.00003,
+    "num_samples": 256
+  },
+  "quiet_21_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9077981,
+    "base_frequency": 27.50001,
+    "num_samples": 256
+  },
+  "loud_30_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.75728315,
+    "base_frequency": 46.249313,
+    "num_samples": 256
+  },
+  "quiet_76_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.012015767,
+    "base_frequency": 659.25525,
+    "num_samples": 256
+  },
+  "loud_59_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.27229035,
+    "base_frequency": 246.94173,
+    "num_samples": 256
+  },
+  "loud_22_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.89107424,
+    "base_frequency": 29.13524,
+    "num_samples": 256
+  },
+  "quiet_16_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9914176,
+    "base_frequency": 20.601727,
+    "num_samples": 256
+  },
+  "quiet_43_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5398726,
+    "base_frequency": 97.99889,
+    "num_samples": 256
+  },
+  "loud_66_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.15522313,
+    "base_frequency": 369.9946,
+    "num_samples": 256
+  },
+  "quiet_32_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.72383535,
+    "base_frequency": 51.913097,
+    "num_samples": 256
+  },
+  "quiet_88_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.21270242,
+    "base_frequency": 1318.5105,
+    "num_samples": 256
+  },
+  "loud_26_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.8241787,
+    "base_frequency": 36.708103,
+    "num_samples": 256
+  },
+  "quiet_67_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.13849923,
+    "base_frequency": 391.99557,
+    "num_samples": 256
+  },
+  "loud_40_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.59004426,
+    "base_frequency": 82.406906,
+    "num_samples": 256
+  },
+  "quiet_69_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.10505146,
+    "base_frequency": 440.00003,
+    "num_samples": 256
+  },
+  "loud_12_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0583131,
+    "base_frequency": 16.3516,
+    "num_samples": 256
+  },
+  "loud_12_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0583131,
+    "base_frequency": 16.3516,
+    "num_samples": 256
+  },
+  "loud_42_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.55659646,
+    "base_frequency": 92.49865,
+    "num_samples": 256
+  },
+  "quiet_46_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.4897009,
+    "base_frequency": 116.54094,
+    "num_samples": 256
+  },
+  "loud_19_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9412459,
+    "base_frequency": 24.499723,
+    "num_samples": 256
+  },
+  "loud_54_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3559098,
+    "base_frequency": 184.99721,
+    "num_samples": 256
+  },
+  "loud_83_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.129083,
+    "base_frequency": 987.76697,
+    "num_samples": 256
+  },
+  "quiet_17_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9746937,
+    "base_frequency": 21.826767,
+    "num_samples": 256
+  },
+  "loud_68_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.121775344,
+    "base_frequency": 415.30478,
+    "num_samples": 256
+  },
+  "quiet_69_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.10505146,
+    "base_frequency": 440.00003,
+    "num_samples": 256
+  },
+  "quiet_73_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.0381559,
+    "base_frequency": 554.3653,
+    "num_samples": 256
+  },
+  "loud_44_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.52314866,
+    "base_frequency": 103.826195,
+    "num_samples": 256
+  },
+  "quiet_30_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.75728315,
+    "base_frequency": 46.249313,
+    "num_samples": 256
+  },
+  "loud_37_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.64021593,
+    "base_frequency": 69.29566,
+    "num_samples": 256
+  },
+  "loud_78_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.045463547,
+    "base_frequency": 739.98883,
+    "num_samples": 256
+  },
+  "quiet_44_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.52314866,
+    "base_frequency": 103.826195,
+    "num_samples": 256
+  },
+  "quiet_85_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.16253078,
+    "base_frequency": 1108.7306,
+    "num_samples": 256
+  },
+  "quiet_67_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.13849923,
+    "base_frequency": 391.99557,
+    "num_samples": 256
+  },
+  "quiet_64_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.1886709,
+    "base_frequency": 329.62762,
+    "num_samples": 256
+  },
+  "loud_54_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3559098,
+    "base_frequency": 184.99721,
+    "num_samples": 256
+  },
+  "quiet_64_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.1886709,
+    "base_frequency": 329.62762,
+    "num_samples": 256
+  },
+  "loud_84_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.14580688,
+    "base_frequency": 1046.5024,
+    "num_samples": 256
+  },
+  "quiet_19_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9412459,
+    "base_frequency": 24.499723,
+    "num_samples": 256
+  },
+  "quiet_24_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.85762644,
+    "base_frequency": 32.7032,
+    "num_samples": 256
+  },
+  "loud_64_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.1886709,
+    "base_frequency": 329.62762,
+    "num_samples": 256
+  },
+  "loud_83_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.129083,
+    "base_frequency": 987.76697,
+    "num_samples": 256
+  },
+  "quiet_81_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.095635206,
+    "base_frequency": 880.00006,
+    "num_samples": 256
+  },
+  "loud_70_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.08832757,
+    "base_frequency": 466.16376,
+    "num_samples": 256
+  },
+  "quiet_63_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.20539479,
+    "base_frequency": 311.12695,
+    "num_samples": 256
+  },
+  "quiet_72_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.054879792,
+    "base_frequency": 523.2512,
+    "num_samples": 256
+  },
+  "loud_70_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.08832757,
+    "base_frequency": 466.16376,
+    "num_samples": 256
+  },
+  "loud_72_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.054879792,
+    "base_frequency": 523.2512,
+    "num_samples": 256
+  },
+  "quiet_49_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.43952924,
+    "base_frequency": 138.59132,
+    "num_samples": 256
+  },
+  "quiet_47_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.472977,
+    "base_frequency": 123.47081,
+    "num_samples": 256
+  },
+  "quiet_73_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.0381559,
+    "base_frequency": 554.3653,
+    "num_samples": 256
+  },
+  "loud_65_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.17194702,
+    "base_frequency": 349.22827,
+    "num_samples": 256
+  },
+  "quiet_13_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0415893,
+    "base_frequency": 17.323915,
+    "num_samples": 256
+  },
+  "loud_51_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.40608147,
+    "base_frequency": 155.56354,
+    "num_samples": 256
+  },
+  "loud_85_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.16253078,
+    "base_frequency": 1108.7306,
+    "num_samples": 256
+  },
+  "quiet_65_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.17194702,
+    "base_frequency": 349.22827,
+    "num_samples": 256
+  },
+  "quiet_78_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.045463547,
+    "base_frequency": 739.98883,
+    "num_samples": 256
+  },
+  "loud_15_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0081415,
+    "base_frequency": 19.445438,
+    "num_samples": 256
+  },
+  "loud_73_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.0381559,
+    "base_frequency": 554.3653,
+    "num_samples": 256
+  },
+  "quiet_39_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.60676813,
+    "base_frequency": 77.78177,
+    "num_samples": 256
+  },
+  "quiet_39_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.60676813,
+    "base_frequency": 77.78177,
+    "num_samples": 256
+  },
+  "quiet_43_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5398726,
+    "base_frequency": 97.99889,
+    "num_samples": 256
+  },
+  "quiet_79_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.062187433,
+    "base_frequency": 783.9908,
+    "num_samples": 256
+  },
+  "loud_62_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.22211868,
+    "base_frequency": 293.66476,
+    "num_samples": 256
+  },
+  "loud_54_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3559098,
+    "base_frequency": 184.99721,
+    "num_samples": 256
+  },
+  "quiet_18_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9579698,
+    "base_frequency": 23.124657,
+    "num_samples": 256
+  },
+  "quiet_50_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.42280534,
+    "base_frequency": 146.83244,
+    "num_samples": 256
+  },
+  "loud_42_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.55659646,
+    "base_frequency": 92.49865,
+    "num_samples": 256
+  },
+  "quiet_50_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.42280534,
+    "base_frequency": 146.83244,
+    "num_samples": 256
+  },
+  "quiet_56_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.32246202,
+    "base_frequency": 207.65239,
+    "num_samples": 256
+  },
+  "quiet_29_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.774007,
+    "base_frequency": 43.653534,
+    "num_samples": 256
+  },
+  "loud_62_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.22211868,
+    "base_frequency": 293.66476,
+    "num_samples": 256
+  },
+  "quiet_46_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.4897009,
+    "base_frequency": 116.54094,
+    "num_samples": 256
+  },
+  "quiet_75_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.004708126,
+    "base_frequency": 622.25415,
+    "num_samples": 256
+  },
+  "loud_50_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.42280534,
+    "base_frequency": 146.83244,
+    "num_samples": 256
+  },
+  "quiet_88_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.21270242,
+    "base_frequency": 1318.5105,
+    "num_samples": 256
+  },
+  "loud_43_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5398726,
+    "base_frequency": 97.99889,
+    "num_samples": 256
+  },
+  "quiet_54_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3559098,
+    "base_frequency": 184.99721,
+    "num_samples": 256
+  },
+  "quiet_59_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.27229035,
+    "base_frequency": 246.94173,
+    "num_samples": 256
+  },
+  "loud_91_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.2628741,
+    "base_frequency": 1567.9823,
+    "num_samples": 256
+  },
+  "quiet_88_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.21270242,
+    "base_frequency": 1318.5105,
+    "num_samples": 256
+  },
+  "loud_17_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9746937,
+    "base_frequency": 21.826767,
+    "num_samples": 256
+  },
+  "quiet_84_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.14580688,
+    "base_frequency": 1046.5024,
+    "num_samples": 256
+  },
+  "loud_90_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.24615023,
+    "base_frequency": 1479.9784,
+    "num_samples": 256
+  },
+  "loud_49_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.43952924,
+    "base_frequency": 138.59132,
+    "num_samples": 256
+  },
+  "quiet_67_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.13849923,
+    "base_frequency": 391.99557,
+    "num_samples": 256
+  },
+  "loud_32_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.72383535,
+    "base_frequency": 51.913097,
+    "num_samples": 256
+  },
+  "quiet_74_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.021432012,
+    "base_frequency": 587.3295,
+    "num_samples": 256
+  },
+  "loud_74_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.021432012,
+    "base_frequency": 587.3295,
+    "num_samples": 256
+  },
+  "loud_26_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.8241787,
+    "base_frequency": 36.708103,
+    "num_samples": 256
+  },
+  "quiet_20_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.92452204,
+    "base_frequency": 25.956549,
+    "num_samples": 256
+  },
+  "loud_45_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5064248,
+    "base_frequency": 110.00001,
+    "num_samples": 256
+  },
+  "quiet_90_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.24615023,
+    "base_frequency": 1479.9784,
+    "num_samples": 256
+  },
+  "loud_75_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.004708126,
+    "base_frequency": 622.25415,
+    "num_samples": 256
+  },
+  "loud_62_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.22211868,
+    "base_frequency": 293.66476,
+    "num_samples": 256
+  },
+  "loud_60_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.25556648,
+    "base_frequency": 261.6256,
+    "num_samples": 256
+  },
+  "quiet_26_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.8241787,
+    "base_frequency": 36.708103,
+    "num_samples": 256
+  },
+  "quiet_31_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7405592,
+    "base_frequency": 48.999447,
+    "num_samples": 256
+  },
+  "quiet_43_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5398726,
+    "base_frequency": 97.99889,
+    "num_samples": 256
+  },
+  "loud_52_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.38935757,
+    "base_frequency": 164.81381,
+    "num_samples": 256
+  },
+  "quiet_49_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.43952924,
+    "base_frequency": 138.59132,
+    "num_samples": 256
+  },
+  "quiet_69_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.10505146,
+    "base_frequency": 440.00003,
+    "num_samples": 256
+  },
+  "loud_60_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.25556648,
+    "base_frequency": 261.6256,
+    "num_samples": 256
+  },
+  "quiet_26_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.8241787,
+    "base_frequency": 36.708103,
+    "num_samples": 256
+  },
+  "quiet_65_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.17194702,
+    "base_frequency": 349.22827,
+    "num_samples": 256
+  },
+  "loud_39_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.60676813,
+    "base_frequency": 77.78177,
+    "num_samples": 256
+  },
+  "loud_25_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.84090257,
+    "base_frequency": 34.64784,
+    "num_samples": 256
+  },
+  "quiet_44_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.52314866,
+    "base_frequency": 103.826195,
+    "num_samples": 256
+  },
+  "loud_73_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.0381559,
+    "base_frequency": 554.3653,
+    "num_samples": 256
+  },
+  "quiet_29_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.774007,
+    "base_frequency": 43.653534,
+    "num_samples": 256
+  },
+  "quiet_59_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.27229035,
+    "base_frequency": 246.94173,
+    "num_samples": 256
+  },
+  "quiet_75_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.004708126,
+    "base_frequency": 622.25415,
+    "num_samples": 256
+  },
+  "loud_56_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.32246202,
+    "base_frequency": 207.65239,
+    "num_samples": 256
+  },
+  "quiet_46_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.4897009,
+    "base_frequency": 116.54094,
+    "num_samples": 256
+  },
+  "quiet_30_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.75728315,
+    "base_frequency": 46.249313,
+    "num_samples": 256
+  },
+  "loud_20_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.92452204,
+    "base_frequency": 25.956549,
+    "num_samples": 256
+  },
+  "quiet_15_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0081415,
+    "base_frequency": 19.445438,
+    "num_samples": 256
+  },
+  "quiet_32_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.72383535,
+    "base_frequency": 51.913097,
+    "num_samples": 256
+  },
+  "loud_25_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.84090257,
+    "base_frequency": 34.64784,
+    "num_samples": 256
+  },
+  "loud_14_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0248654,
+    "base_frequency": 18.354052,
+    "num_samples": 256
+  },
+  "quiet_56_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.32246202,
+    "base_frequency": 207.65239,
+    "num_samples": 256
+  },
+  "quiet_58_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.28901422,
+    "base_frequency": 233.08199,
+    "num_samples": 256
+  },
+  "quiet_82_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.11235911,
+    "base_frequency": 932.3275,
+    "num_samples": 256
+  },
+  "quiet_91_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.2628741,
+    "base_frequency": 1567.9823,
+    "num_samples": 256
+  },
+  "quiet_39_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.60676813,
+    "base_frequency": 77.78177,
+    "num_samples": 256
+  },
+  "loud_81_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.095635206,
+    "base_frequency": 880.00006,
+    "num_samples": 256
+  },
+  "quiet_48_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.45625314,
+    "base_frequency": 130.8128,
+    "num_samples": 256
+  },
+  "quiet_81_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.095635206,
+    "base_frequency": 880.00006,
+    "num_samples": 256
+  },
+  "loud_29_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.774007,
+    "base_frequency": 43.653534,
+    "num_samples": 256
+  },
+  "loud_75_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.004708126,
+    "base_frequency": 622.25415,
+    "num_samples": 256
+  },
+  "loud_48_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.45625314,
+    "base_frequency": 130.8128,
+    "num_samples": 256
+  },
+  "loud_22_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.89107424,
+    "base_frequency": 29.13524,
+    "num_samples": 256
+  },
+  "quiet_47_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.472977,
+    "base_frequency": 123.47081,
+    "num_samples": 256
+  },
+  "loud_18_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9579698,
+    "base_frequency": 23.124657,
+    "num_samples": 256
+  },
+  "loud_32_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.72383535,
+    "base_frequency": 51.913097,
+    "num_samples": 256
+  },
+  "quiet_48_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.45625314,
+    "base_frequency": 130.8128,
+    "num_samples": 256
+  },
+  "quiet_80_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.07891132,
+    "base_frequency": 830.6092,
+    "num_samples": 256
+  },
+  "loud_47_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.472977,
+    "base_frequency": 123.47081,
+    "num_samples": 256
+  },
+  "quiet_76_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.012015767,
+    "base_frequency": 659.25525,
+    "num_samples": 256
+  },
+  "quiet_57_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.30573812,
+    "base_frequency": 220.00012,
+    "num_samples": 256
+  },
+  "quiet_76_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.012015767,
+    "base_frequency": 659.25525,
+    "num_samples": 256
+  },
+  "quiet_62_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.22211868,
+    "base_frequency": 293.66476,
+    "num_samples": 256
+  },
+  "quiet_24_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.85762644,
+    "base_frequency": 32.7032,
+    "num_samples": 256
+  },
+  "loud_67_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.13849923,
+    "base_frequency": 391.99557,
+    "num_samples": 256
+  },
+  "quiet_15_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0081415,
+    "base_frequency": 19.445438,
+    "num_samples": 256
+  },
+  "quiet_36_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.6569398,
+    "base_frequency": 65.4064,
+    "num_samples": 256
+  },
+  "quiet_59_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.27229035,
+    "base_frequency": 246.94173,
+    "num_samples": 256
+  },
+  "loud_59_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.27229035,
+    "base_frequency": 246.94173,
+    "num_samples": 256
+  },
+  "loud_76_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.012015767,
+    "base_frequency": 659.25525,
+    "num_samples": 256
+  },
+  "loud_41_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5733204,
+    "base_frequency": 87.30707,
+    "num_samples": 256
+  },
+  "loud_83_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.129083,
+    "base_frequency": 987.76697,
+    "num_samples": 256
+  },
+  "quiet_32_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.72383535,
+    "base_frequency": 51.913097,
+    "num_samples": 256
+  },
+  "loud_75_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.004708126,
+    "base_frequency": 622.25415,
+    "num_samples": 256
+  },
+  "loud_29_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.774007,
+    "base_frequency": 43.653534,
+    "num_samples": 256
+  },
+  "loud_39_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.60676813,
+    "base_frequency": 77.78177,
+    "num_samples": 256
+  },
+  "loud_85_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.16253078,
+    "base_frequency": 1108.7306,
+    "num_samples": 256
+  },
+  "loud_90_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.24615023,
+    "base_frequency": 1479.9784,
+    "num_samples": 256
+  },
+  "quiet_15_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0081415,
+    "base_frequency": 19.445438,
+    "num_samples": 256
+  },
+  "quiet_20_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.92452204,
+    "base_frequency": 25.956549,
+    "num_samples": 256
+  },
+  "loud_48_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.45625314,
+    "base_frequency": 130.8128,
+    "num_samples": 256
+  },
+  "quiet_12_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0583131,
+    "base_frequency": 16.3516,
+    "num_samples": 256
+  },
+  "quiet_66_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.15522313,
+    "base_frequency": 369.9946,
+    "num_samples": 256
+  },
+  "quiet_75_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.004708126,
+    "base_frequency": 622.25415,
+    "num_samples": 256
+  },
+  "quiet_89_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.22942632,
+    "base_frequency": 1396.9137,
+    "num_samples": 256
+  },
+  "quiet_29_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.774007,
+    "base_frequency": 43.653534,
+    "num_samples": 256
+  },
+  "loud_43_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5398726,
+    "base_frequency": 97.99889,
+    "num_samples": 256
+  },
+  "loud_48_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.45625314,
+    "base_frequency": 130.8128,
+    "num_samples": 256
+  },
+  "quiet_25_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.84090257,
+    "base_frequency": 34.64784,
+    "num_samples": 256
+  },
+  "quiet_33_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7071115,
+    "base_frequency": 55.000004,
+    "num_samples": 256
+  },
+  "loud_32_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.72383535,
+    "base_frequency": 51.913097,
+    "num_samples": 256
+  },
+  "loud_58_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.28901422,
+    "base_frequency": 233.08199,
+    "num_samples": 256
+  },
+  "loud_55_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3391859,
+    "base_frequency": 195.99779,
+    "num_samples": 256
+  },
+  "loud_26_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.8241787,
+    "base_frequency": 36.708103,
+    "num_samples": 256
+  },
+  "loud_17_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9746937,
+    "base_frequency": 21.826767,
+    "num_samples": 256
+  },
+  "loud_64_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.1886709,
+    "base_frequency": 329.62762,
+    "num_samples": 256
+  },
+  "quiet_27_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.8074548,
+    "base_frequency": 38.890877,
+    "num_samples": 256
+  },
+  "loud_28_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7907309,
+    "base_frequency": 41.203453,
+    "num_samples": 256
+  },
+  "loud_82_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.11235911,
+    "base_frequency": 932.3275,
+    "num_samples": 256
+  },
+  "quiet_34_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.69038755,
+    "base_frequency": 58.270496,
+    "num_samples": 256
+  },
+  "loud_35_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.6736637,
+    "base_frequency": 61.73543,
+    "num_samples": 256
+  },
+  "loud_47_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.472977,
+    "base_frequency": 123.47081,
+    "num_samples": 256
+  },
+  "loud_28_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7907309,
+    "base_frequency": 41.203453,
+    "num_samples": 256
+  },
+  "quiet_43_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5398726,
+    "base_frequency": 97.99889,
+    "num_samples": 256
+  },
+  "quiet_45_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5064248,
+    "base_frequency": 110.00001,
+    "num_samples": 256
+  },
+  "quiet_82_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.11235911,
+    "base_frequency": 932.3275,
+    "num_samples": 256
+  },
+  "quiet_84_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.14580688,
+    "base_frequency": 1046.5024,
+    "num_samples": 256
+  },
+  "quiet_38_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.623492,
+    "base_frequency": 73.41622,
+    "num_samples": 256
+  },
+  "quiet_63_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.20539479,
+    "base_frequency": 311.12695,
+    "num_samples": 256
+  },
+  "loud_64_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.1886709,
+    "base_frequency": 329.62762,
+    "num_samples": 256
+  },
+  "quiet_47_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.472977,
+    "base_frequency": 123.47081,
+    "num_samples": 256
+  },
+  "quiet_56_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.32246202,
+    "base_frequency": 207.65239,
+    "num_samples": 256
+  },
+  "quiet_83_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.129083,
+    "base_frequency": 987.76697,
+    "num_samples": 256
+  },
+  "loud_45_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5064248,
+    "base_frequency": 110.00001,
+    "num_samples": 256
+  },
+  "quiet_38_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.623492,
+    "base_frequency": 73.41622,
+    "num_samples": 256
+  },
+  "loud_89_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.22942632,
+    "base_frequency": 1396.9137,
+    "num_samples": 256
+  },
+  "quiet_36_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.6569398,
+    "base_frequency": 65.4064,
+    "num_samples": 256
+  },
+  "loud_51_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.40608147,
+    "base_frequency": 155.56354,
+    "num_samples": 256
+  },
+  "loud_25_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.84090257,
+    "base_frequency": 34.64784,
+    "num_samples": 256
+  },
+  "loud_45_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5064248,
+    "base_frequency": 110.00001,
+    "num_samples": 256
+  },
+  "loud_59_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.27229035,
+    "base_frequency": 246.94173,
+    "num_samples": 256
+  },
+  "quiet_34_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.69038755,
+    "base_frequency": 58.270496,
+    "num_samples": 256
+  },
+  "loud_73_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.0381559,
+    "base_frequency": 554.3653,
+    "num_samples": 256
+  },
+  "quiet_38_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.623492,
+    "base_frequency": 73.41622,
+    "num_samples": 256
+  },
+  "loud_34_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.69038755,
+    "base_frequency": 58.270496,
+    "num_samples": 256
+  },
+  "quiet_46_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.4897009,
+    "base_frequency": 116.54094,
+    "num_samples": 256
+  },
+  "loud_77_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.028739661,
+    "base_frequency": 698.45654,
+    "num_samples": 256
+  },
+  "quiet_27_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.8074548,
+    "base_frequency": 38.890877,
+    "num_samples": 256
+  },
+  "loud_31_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7405592,
+    "base_frequency": 48.999447,
+    "num_samples": 256
+  },
+  "loud_57_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.30573812,
+    "base_frequency": 220.00012,
+    "num_samples": 256
+  },
+  "loud_89_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.22942632,
+    "base_frequency": 1396.9137,
+    "num_samples": 256
+  },
+  "loud_56_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.32246202,
+    "base_frequency": 207.65239,
+    "num_samples": 256
+  },
+  "quiet_13_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0415893,
+    "base_frequency": 17.323915,
+    "num_samples": 256
+  },
+  "quiet_14_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0248654,
+    "base_frequency": 18.354052,
+    "num_samples": 256
+  },
+  "loud_16_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9914176,
+    "base_frequency": 20.601727,
+    "num_samples": 256
+  },
+  "loud_21_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9077981,
+    "base_frequency": 27.50001,
+    "num_samples": 256
+  },
+  "quiet_62_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.22211868,
+    "base_frequency": 293.66476,
+    "num_samples": 256
+  },
+  "loud_49_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.43952924,
+    "base_frequency": 138.59132,
+    "num_samples": 256
+  },
+  "loud_72_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.054879792,
+    "base_frequency": 523.2512,
+    "num_samples": 256
+  },
+  "quiet_63_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.20539479,
+    "base_frequency": 311.12695,
+    "num_samples": 256
+  },
+  "quiet_90_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.24615023,
+    "base_frequency": 1479.9784,
+    "num_samples": 256
+  },
+  "loud_44_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.52314866,
+    "base_frequency": 103.826195,
+    "num_samples": 256
+  },
+  "loud_79_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.062187433,
+    "base_frequency": 783.9908,
+    "num_samples": 256
+  },
+  "quiet_21_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9077981,
+    "base_frequency": 27.50001,
+    "num_samples": 256
+  },
+  "loud_61_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.23884258,
+    "base_frequency": 277.18265,
+    "num_samples": 256
+  },
+  "loud_88_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.21270242,
+    "base_frequency": 1318.5105,
+    "num_samples": 256
+  },
+  "loud_27_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.8074548,
+    "base_frequency": 38.890877,
+    "num_samples": 256
+  },
+  "loud_74_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.021432012,
+    "base_frequency": 587.3295,
+    "num_samples": 256
+  },
+  "loud_33_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7071115,
+    "base_frequency": 55.000004,
+    "num_samples": 256
+  },
+  "quiet_81_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.095635206,
+    "base_frequency": 880.00006,
+    "num_samples": 256
+  },
+  "quiet_65_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.17194702,
+    "base_frequency": 349.22827,
+    "num_samples": 256
+  },
+  "loud_28_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7907309,
+    "base_frequency": 41.203453,
+    "num_samples": 256
+  },
+  "loud_64_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.1886709,
+    "base_frequency": 329.62762,
+    "num_samples": 256
+  },
+  "quiet_26_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.8241787,
+    "base_frequency": 36.708103,
+    "num_samples": 256
+  },
+  "loud_86_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.17925465,
+    "base_frequency": 1174.659,
+    "num_samples": 256
+  },
+  "loud_58_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.28901422,
+    "base_frequency": 233.08199,
+    "num_samples": 256
+  },
+  "loud_76_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.012015767,
+    "base_frequency": 659.25525,
+    "num_samples": 256
+  },
+  "quiet_44_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.52314866,
+    "base_frequency": 103.826195,
+    "num_samples": 256
+  },
+  "quiet_53_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3726337,
+    "base_frequency": 174.61414,
+    "num_samples": 256
+  },
+  "loud_53_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3726337,
+    "base_frequency": 174.61414,
+    "num_samples": 256
+  },
+  "quiet_24_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.85762644,
+    "base_frequency": 32.7032,
+    "num_samples": 256
+  },
+  "quiet_48_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.45625314,
+    "base_frequency": 130.8128,
+    "num_samples": 256
+  },
+  "loud_60_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.25556648,
+    "base_frequency": 261.6256,
+    "num_samples": 256
+  },
+  "loud_26_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.8241787,
+    "base_frequency": 36.708103,
+    "num_samples": 256
+  },
+  "quiet_66_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.15522313,
+    "base_frequency": 369.9946,
+    "num_samples": 256
+  },
+  "quiet_89_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.22942632,
+    "base_frequency": 1396.9137,
+    "num_samples": 256
+  },
+  "loud_76_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.012015767,
+    "base_frequency": 659.25525,
+    "num_samples": 256
+  },
+  "quiet_51_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.40608147,
+    "base_frequency": 155.56354,
+    "num_samples": 256
+  },
+  "quiet_41_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5733204,
+    "base_frequency": 87.30707,
+    "num_samples": 256
+  },
+  "loud_53_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3726337,
+    "base_frequency": 174.61414,
+    "num_samples": 256
+  },
+  "loud_63_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.20539479,
+    "base_frequency": 311.12695,
+    "num_samples": 256
+  },
+  "loud_45_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5064248,
+    "base_frequency": 110.00001,
+    "num_samples": 256
+  },
+  "loud_84_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.14580688,
+    "base_frequency": 1046.5024,
+    "num_samples": 256
+  },
+  "loud_61_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.23884258,
+    "base_frequency": 277.18265,
+    "num_samples": 256
+  },
+  "quiet_16_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9914176,
+    "base_frequency": 20.601727,
+    "num_samples": 256
+  },
+  "quiet_59_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.27229035,
+    "base_frequency": 246.94173,
+    "num_samples": 256
+  },
+  "quiet_22_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.89107424,
+    "base_frequency": 29.13524,
+    "num_samples": 256
+  },
+  "loud_55_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3391859,
+    "base_frequency": 195.99779,
+    "num_samples": 256
+  },
+  "loud_24_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.85762644,
+    "base_frequency": 32.7032,
+    "num_samples": 256
+  },
+  "quiet_33_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7071115,
+    "base_frequency": 55.000004,
+    "num_samples": 256
+  },
+  "loud_41_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5733204,
+    "base_frequency": 87.30707,
+    "num_samples": 256
+  },
+  "loud_85_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.16253078,
+    "base_frequency": 1108.7306,
+    "num_samples": 256
+  },
+  "quiet_31_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7405592,
+    "base_frequency": 48.999447,
+    "num_samples": 256
+  },
+  "quiet_77_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.028739661,
+    "base_frequency": 698.45654,
+    "num_samples": 256
+  },
+  "loud_40_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.59004426,
+    "base_frequency": 82.406906,
+    "num_samples": 256
+  },
+  "loud_34_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.69038755,
+    "base_frequency": 58.270496,
+    "num_samples": 256
+  },
+  "quiet_23_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.87435037,
+    "base_frequency": 30.867716,
+    "num_samples": 256
+  },
+  "loud_68_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.121775344,
+    "base_frequency": 415.30478,
+    "num_samples": 256
+  },
+  "loud_87_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.19597855,
+    "base_frequency": 1244.5078,
+    "num_samples": 256
+  },
+  "quiet_61_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.23884258,
+    "base_frequency": 277.18265,
+    "num_samples": 256
+  },
+  "quiet_80_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.07891132,
+    "base_frequency": 830.6092,
+    "num_samples": 256
+  },
+  "loud_67_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.13849923,
+    "base_frequency": 391.99557,
+    "num_samples": 256
+  },
+  "loud_84_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.14580688,
+    "base_frequency": 1046.5024,
+    "num_samples": 256
+  },
+  "quiet_22_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.89107424,
+    "base_frequency": 29.13524,
+    "num_samples": 256
+  },
+  "quiet_58_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.28901422,
+    "base_frequency": 233.08199,
+    "num_samples": 256
+  },
+  "quiet_86_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.17925465,
+    "base_frequency": 1174.659,
+    "num_samples": 256
+  },
+  "quiet_67_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.13849923,
+    "base_frequency": 391.99557,
+    "num_samples": 256
+  },
+  "quiet_25_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.84090257,
+    "base_frequency": 34.64784,
+    "num_samples": 256
+  },
+  "quiet_70_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.08832757,
+    "base_frequency": 466.16376,
+    "num_samples": 256
+  },
+  "loud_15_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0081415,
+    "base_frequency": 19.445438,
+    "num_samples": 256
+  },
+  "loud_66_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.15522313,
+    "base_frequency": 369.9946,
+    "num_samples": 256
+  },
+  "quiet_17_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9746937,
+    "base_frequency": 21.826767,
+    "num_samples": 256
+  },
+  "quiet_74_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.021432012,
+    "base_frequency": 587.3295,
+    "num_samples": 256
+  },
+  "loud_91_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.2628741,
+    "base_frequency": 1567.9823,
+    "num_samples": 256
+  },
+  "loud_23_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.87435037,
+    "base_frequency": 30.867716,
+    "num_samples": 256
+  },
+  "loud_15_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0081415,
+    "base_frequency": 19.445438,
+    "num_samples": 256
+  },
+  "quiet_86_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.17925465,
+    "base_frequency": 1174.659,
+    "num_samples": 256
+  },
+  "loud_29_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.774007,
+    "base_frequency": 43.653534,
+    "num_samples": 256
+  },
+  "quiet_26_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.8241787,
+    "base_frequency": 36.708103,
+    "num_samples": 256
+  },
+  "quiet_28_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7907309,
+    "base_frequency": 41.203453,
+    "num_samples": 256
+  },
+  "loud_21_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9077981,
+    "base_frequency": 27.50001,
+    "num_samples": 256
+  },
+  "loud_71_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.07160368,
+    "base_frequency": 493.88345,
+    "num_samples": 256
+  },
+  "quiet_71_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.07160368,
+    "base_frequency": 493.88345,
+    "num_samples": 256
+  },
+  "quiet_19_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9412459,
+    "base_frequency": 24.499723,
+    "num_samples": 256
+  },
+  "loud_24_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.85762644,
+    "base_frequency": 32.7032,
+    "num_samples": 256
+  },
+  "quiet_60_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.25556648,
+    "base_frequency": 261.6256,
+    "num_samples": 256
+  },
+  "loud_66_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.15522313,
+    "base_frequency": 369.9946,
+    "num_samples": 256
+  },
+  "loud_76_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.012015767,
+    "base_frequency": 659.25525,
+    "num_samples": 256
+  },
+  "loud_41_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5733204,
+    "base_frequency": 87.30707,
+    "num_samples": 256
+  },
+  "quiet_31_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7405592,
+    "base_frequency": 48.999447,
+    "num_samples": 256
+  },
+  "quiet_58_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.28901422,
+    "base_frequency": 233.08199,
+    "num_samples": 256
+  },
+  "loud_40_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.59004426,
+    "base_frequency": 82.406906,
+    "num_samples": 256
+  },
+  "quiet_60_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.25556648,
+    "base_frequency": 261.6256,
+    "num_samples": 256
+  },
+  "loud_78_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.045463547,
+    "base_frequency": 739.98883,
+    "num_samples": 256
+  },
+  "quiet_12_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0583131,
+    "base_frequency": 16.3516,
+    "num_samples": 256
+  },
+  "quiet_87_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.19597855,
+    "base_frequency": 1244.5078,
+    "num_samples": 256
+  },
+  "loud_69_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.10505146,
+    "base_frequency": 440.00003,
+    "num_samples": 256
+  },
+  "loud_47_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.472977,
+    "base_frequency": 123.47081,
+    "num_samples": 256
+  },
+  "quiet_91_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.2628741,
+    "base_frequency": 1567.9823,
+    "num_samples": 256
+  },
+  "loud_36_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.6569398,
+    "base_frequency": 65.4064,
+    "num_samples": 256
+  },
+  "quiet_27_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.8074548,
+    "base_frequency": 38.890877,
+    "num_samples": 256
+  },
+  "quiet_57_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.30573812,
+    "base_frequency": 220.00012,
+    "num_samples": 256
+  },
+  "quiet_18_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9579698,
+    "base_frequency": 23.124657,
+    "num_samples": 256
+  },
+  "quiet_66_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.15522313,
+    "base_frequency": 369.9946,
+    "num_samples": 256
+  },
+  "loud_77_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.028739661,
+    "base_frequency": 698.45654,
+    "num_samples": 256
+  },
+  "loud_55_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3391859,
+    "base_frequency": 195.99779,
+    "num_samples": 256
+  },
+  "loud_78_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.045463547,
+    "base_frequency": 739.98883,
+    "num_samples": 256
+  },
+  "loud_86_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.17925465,
+    "base_frequency": 1174.659,
+    "num_samples": 256
+  },
+  "loud_48_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.45625314,
+    "base_frequency": 130.8128,
+    "num_samples": 256
+  },
+  "quiet_35_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.6736637,
+    "base_frequency": 61.73543,
+    "num_samples": 256
+  },
+  "quiet_27_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.8074548,
+    "base_frequency": 38.890877,
+    "num_samples": 256
+  },
+  "quiet_86_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.17925465,
+    "base_frequency": 1174.659,
+    "num_samples": 256
+  },
+  "loud_20_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.92452204,
+    "base_frequency": 25.956549,
+    "num_samples": 256
+  },
+  "quiet_72_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.054879792,
+    "base_frequency": 523.2512,
+    "num_samples": 256
+  },
+  "loud_82_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.11235911,
+    "base_frequency": 932.3275,
+    "num_samples": 256
+  },
+  "quiet_85_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.16253078,
+    "base_frequency": 1108.7306,
+    "num_samples": 256
+  },
+  "loud_81_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.095635206,
+    "base_frequency": 880.00006,
+    "num_samples": 256
+  },
+  "loud_52_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.38935757,
+    "base_frequency": 164.81381,
+    "num_samples": 256
+  },
+  "loud_86_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.17925465,
+    "base_frequency": 1174.659,
+    "num_samples": 256
+  },
+  "loud_27_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.8074548,
+    "base_frequency": 38.890877,
+    "num_samples": 256
+  },
+  "loud_19_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9412459,
+    "base_frequency": 24.499723,
+    "num_samples": 256
+  },
+  "loud_50_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.42280534,
+    "base_frequency": 146.83244,
+    "num_samples": 256
+  },
+  "loud_54_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3559098,
+    "base_frequency": 184.99721,
+    "num_samples": 256
+  },
+  "loud_88_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.21270242,
+    "base_frequency": 1318.5105,
+    "num_samples": 256
+  },
+  "quiet_21_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9077981,
+    "base_frequency": 27.50001,
+    "num_samples": 256
+  },
+  "quiet_48_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.45625314,
+    "base_frequency": 130.8128,
+    "num_samples": 256
+  },
+  "loud_65_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.17194702,
+    "base_frequency": 349.22827,
+    "num_samples": 256
+  },
+  "loud_20_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.92452204,
+    "base_frequency": 25.956549,
+    "num_samples": 256
+  },
+  "loud_37_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.64021593,
+    "base_frequency": 69.29566,
+    "num_samples": 256
+  },
+  "quiet_34_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.69038755,
+    "base_frequency": 58.270496,
+    "num_samples": 256
+  },
+  "loud_39_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.60676813,
+    "base_frequency": 77.78177,
+    "num_samples": 256
+  },
+  "loud_44_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.52314866,
+    "base_frequency": 103.826195,
+    "num_samples": 256
+  },
+  "quiet_51_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.40608147,
+    "base_frequency": 155.56354,
+    "num_samples": 256
+  },
+  "loud_27_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.8074548,
+    "base_frequency": 38.890877,
+    "num_samples": 256
+  },
+  "quiet_53_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3726337,
+    "base_frequency": 174.61414,
+    "num_samples": 256
+  },
+  "quiet_50_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.42280534,
+    "base_frequency": 146.83244,
+    "num_samples": 256
+  },
+  "quiet_54_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3559098,
+    "base_frequency": 184.99721,
+    "num_samples": 256
+  },
+  "quiet_12_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0583131,
+    "base_frequency": 16.3516,
+    "num_samples": 256
+  },
+  "loud_87_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.19597855,
+    "base_frequency": 1244.5078,
+    "num_samples": 256
+  },
+  "quiet_62_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.22211868,
+    "base_frequency": 293.66476,
+    "num_samples": 256
+  },
+  "loud_12_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0583131,
+    "base_frequency": 16.3516,
+    "num_samples": 256
+  },
+  "loud_52_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.38935757,
+    "base_frequency": 164.81381,
+    "num_samples": 256
+  },
+  "quiet_16_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9914176,
+    "base_frequency": 20.601727,
+    "num_samples": 256
+  },
+  "loud_38_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.623492,
+    "base_frequency": 73.41622,
+    "num_samples": 256
+  },
+  "quiet_36_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.6569398,
+    "base_frequency": 65.4064,
+    "num_samples": 256
+  },
+  "quiet_68_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.121775344,
+    "base_frequency": 415.30478,
+    "num_samples": 256
+  },
+  "quiet_71_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.07160368,
+    "base_frequency": 493.88345,
+    "num_samples": 256
+  },
+  "loud_68_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.121775344,
+    "base_frequency": 415.30478,
+    "num_samples": 256
+  },
+  "quiet_72_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.054879792,
+    "base_frequency": 523.2512,
+    "num_samples": 256
+  },
+  "quiet_79_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.062187433,
+    "base_frequency": 783.9908,
+    "num_samples": 256
+  },
+  "quiet_80_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.07891132,
+    "base_frequency": 830.6092,
+    "num_samples": 256
+  },
+  "quiet_83_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.129083,
+    "base_frequency": 987.76697,
+    "num_samples": 256
+  },
+  "quiet_83_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.129083,
+    "base_frequency": 987.76697,
+    "num_samples": 256
+  },
+  "loud_79_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.062187433,
+    "base_frequency": 783.9908,
+    "num_samples": 256
+  },
+  "quiet_19_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9412459,
+    "base_frequency": 24.499723,
+    "num_samples": 256
+  },
+  "loud_90_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.24615023,
+    "base_frequency": 1479.9784,
+    "num_samples": 256
+  },
+  "loud_23_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.87435037,
+    "base_frequency": 30.867716,
+    "num_samples": 256
+  },
+  "loud_41_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5733204,
+    "base_frequency": 87.30707,
+    "num_samples": 256
+  },
+  "loud_57_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.30573812,
+    "base_frequency": 220.00012,
+    "num_samples": 256
+  },
+  "quiet_78_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.045463547,
+    "base_frequency": 739.98883,
+    "num_samples": 256
+  },
+  "quiet_89_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.22942632,
+    "base_frequency": 1396.9137,
+    "num_samples": 256
+  },
+  "quiet_17_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9746937,
+    "base_frequency": 21.826767,
+    "num_samples": 256
+  },
+  "quiet_79_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.062187433,
+    "base_frequency": 783.9908,
+    "num_samples": 256
+  },
+  "quiet_41_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5733204,
+    "base_frequency": 87.30707,
+    "num_samples": 256
+  },
+  "loud_20_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.92452204,
+    "base_frequency": 25.956549,
+    "num_samples": 256
+  },
+  "quiet_31_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7405592,
+    "base_frequency": 48.999447,
+    "num_samples": 256
+  },
+  "loud_89_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.22942632,
+    "base_frequency": 1396.9137,
+    "num_samples": 256
+  },
+  "quiet_77_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.028739661,
+    "base_frequency": 698.45654,
+    "num_samples": 256
+  },
+  "quiet_74_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.021432012,
+    "base_frequency": 587.3295,
+    "num_samples": 256
+  },
+  "quiet_16_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9914176,
+    "base_frequency": 20.601727,
+    "num_samples": 256
+  },
+  "loud_49_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.43952924,
+    "base_frequency": 138.59132,
+    "num_samples": 256
+  },
+  "loud_35_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.6736637,
+    "base_frequency": 61.73543,
+    "num_samples": 256
+  },
+  "loud_29_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.774007,
+    "base_frequency": 43.653534,
+    "num_samples": 256
+  },
+  "loud_46_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.4897009,
+    "base_frequency": 116.54094,
+    "num_samples": 256
+  },
+  "loud_24_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.85762644,
+    "base_frequency": 32.7032,
+    "num_samples": 256
+  },
+  "loud_80_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.07891132,
+    "base_frequency": 830.6092,
+    "num_samples": 256
+  },
+  "quiet_13_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0415893,
+    "base_frequency": 17.323915,
+    "num_samples": 256
+  },
+  "quiet_57_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.30573812,
+    "base_frequency": 220.00012,
+    "num_samples": 256
+  },
+  "loud_42_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.55659646,
+    "base_frequency": 92.49865,
+    "num_samples": 256
+  },
+  "loud_74_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.021432012,
+    "base_frequency": 587.3295,
+    "num_samples": 256
+  },
+  "quiet_71_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.07160368,
+    "base_frequency": 493.88345,
+    "num_samples": 256
+  },
+  "quiet_40_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.59004426,
+    "base_frequency": 82.406906,
+    "num_samples": 256
+  },
+  "quiet_42_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.55659646,
+    "base_frequency": 92.49865,
+    "num_samples": 256
+  },
+  "quiet_40_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.59004426,
+    "base_frequency": 82.406906,
+    "num_samples": 256
+  },
+  "loud_38_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.623492,
+    "base_frequency": 73.41622,
+    "num_samples": 256
+  },
+  "loud_78_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.045463547,
+    "base_frequency": 739.98883,
+    "num_samples": 256
+  },
+  "quiet_85_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.16253078,
+    "base_frequency": 1108.7306,
+    "num_samples": 256
+  },
+  "loud_31_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.7405592,
+    "base_frequency": 48.999447,
+    "num_samples": 256
+  },
+  "quiet_62_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.22211868,
+    "base_frequency": 293.66476,
+    "num_samples": 256
+  },
+  "loud_17_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9746937,
+    "base_frequency": 21.826767,
+    "num_samples": 256
+  },
+  "loud_16_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9914176,
+    "base_frequency": 20.601727,
+    "num_samples": 256
+  },
+  "loud_36_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.6569398,
+    "base_frequency": 65.4064,
+    "num_samples": 256
+  },
+  "loud_80_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.07891132,
+    "base_frequency": 830.6092,
+    "num_samples": 256
+  },
+  "loud_36_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.6569398,
+    "base_frequency": 65.4064,
+    "num_samples": 256
+  },
+  "loud_82_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.11235911,
+    "base_frequency": 932.3275,
+    "num_samples": 256
+  },
+  "loud_86_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.17925465,
+    "base_frequency": 1174.659,
+    "num_samples": 256
+  },
+  "quiet_17_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9746937,
+    "base_frequency": 21.826767,
+    "num_samples": 256
+  },
+  "loud_63_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.20539479,
+    "base_frequency": 311.12695,
+    "num_samples": 256
+  },
+  "quiet_64_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.1886709,
+    "base_frequency": 329.62762,
+    "num_samples": 256
+  },
+  "quiet_68_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.121775344,
+    "base_frequency": 415.30478,
+    "num_samples": 256
+  },
+  "loud_58_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.28901422,
+    "base_frequency": 233.08199,
+    "num_samples": 256
+  },
+  "loud_56_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.32246202,
+    "base_frequency": 207.65239,
+    "num_samples": 256
+  },
+  "quiet_41_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5733204,
+    "base_frequency": 87.30707,
+    "num_samples": 256
+  },
+  "loud_30_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.75728315,
+    "base_frequency": 46.249313,
+    "num_samples": 256
+  },
+  "quiet_35_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.6736637,
+    "base_frequency": 61.73543,
+    "num_samples": 256
+  },
+  "loud_67_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.13849923,
+    "base_frequency": 391.99557,
+    "num_samples": 256
+  },
+  "loud_70_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.08832757,
+    "base_frequency": 466.16376,
+    "num_samples": 256
+  },
+  "quiet_90_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.24615023,
+    "base_frequency": 1479.9784,
+    "num_samples": 256
+  },
+  "loud_30_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.75728315,
+    "base_frequency": 46.249313,
+    "num_samples": 256
+  },
+  "quiet_61_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.23884258,
+    "base_frequency": 277.18265,
+    "num_samples": 256
+  },
+  "quiet_20_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.92452204,
+    "base_frequency": 25.956549,
+    "num_samples": 256
+  },
+  "quiet_69_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.10505146,
+    "base_frequency": 440.00003,
+    "num_samples": 256
+  },
+  "quiet_52_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.38935757,
+    "base_frequency": 164.81381,
+    "num_samples": 256
+  },
+  "quiet_38_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.623492,
+    "base_frequency": 73.41622,
+    "num_samples": 256
+  },
+  "loud_43_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.5398726,
+    "base_frequency": 97.99889,
+    "num_samples": 256
+  },
+  "quiet_20_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.92452204,
+    "base_frequency": 25.956549,
+    "num_samples": 256
+  },
+  "loud_63_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.20539479,
+    "base_frequency": 311.12695,
+    "num_samples": 256
+  },
+  "quiet_71_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.07160368,
+    "base_frequency": 493.88345,
+    "num_samples": 256
+  },
+  "quiet_88_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.21270242,
+    "base_frequency": 1318.5105,
+    "num_samples": 256
+  },
+  "quiet_53_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.3726337,
+    "base_frequency": 174.61414,
+    "num_samples": 256
+  },
+  "quiet_13_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0415893,
+    "base_frequency": 17.323915,
+    "num_samples": 256
+  },
+  "quiet_84_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.14580688,
+    "base_frequency": 1046.5024,
+    "num_samples": 256
+  },
+  "quiet_61_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.23884258,
+    "base_frequency": 277.18265,
+    "num_samples": 256
+  },
+  "loud_18_3": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.9579698,
+    "base_frequency": 23.124657,
+    "num_samples": 256
+  },
+  "loud_23_2": {
+    "sample_rate": 44100,
+    "base_frequency_map": -0.87435037,
+    "base_frequency": 30.867716,
+    "num_samples": 256
+  },
+  "quiet_14_1": {
+    "sample_rate": 44100,
+    "base_frequency_map": -1.0248654,
+    "base_frequency": 18.354052,
+    "num_samples": 256
+  },
+  "quiet_79_0": {
+    "sample_rate": 44100,
+    "base_frequency_map": 0.062187433,
+    "base_frequency": 783.9908,
+    "num_samples": 256
+  }
+}
