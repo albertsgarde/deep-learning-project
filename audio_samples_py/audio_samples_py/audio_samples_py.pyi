@@ -1,3 +1,13 @@
+def frequency_to_map(self, frequency: float) -> str:
+    """
+    Given a frequency, returns the corresponding frequency mapping.
+    """
+
+def map_to_frequency(self, map: float) -> str:
+    """
+    Given a frequency map value, returns the corresponding frequency.
+    """
+
 class DataParameters(object):
     """
     Create a new DataParameters object with no oscillators or effects.
@@ -59,16 +69,6 @@ class DataParameters(object):
         """
         Adds a distortion effect to all samples.
         The `power_range` argument determines the strength of the distortion.
-        """
-
-    def frequency_to_map(self, frequency: float) -> str:
-        """
-        Given a frequency, returns the corresponding frequency mapping.
-        """
-
-    def map_to_frequency(self, map: float) -> str:
-        """
-        Given a frequency map value, returns the corresponding frequency.
         """
 
     def generate_at_index(self, index: int) -> str:

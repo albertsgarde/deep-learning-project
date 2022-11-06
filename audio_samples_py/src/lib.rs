@@ -6,7 +6,7 @@ use audio_samples::{
 use ndarray::Dim;
 use numpy::PyArray;
 use pyo3::{prelude::*, pymodule, types::PyType};
-use rand::distributions::Uniform;
+use rand::{distributions::Uniform, seq::SliceRandom};
 
 #[pyfunction]
 pub fn debug_txt() -> String {
@@ -18,6 +18,34 @@ pub fn debug_txt() -> String {
 #[pyo3(text_signature = "(freq1, freq2, /)")]
 pub fn cent_diff(freq1: f32, freq2: f32) -> f32 {
     audio_samples::cent_diff(freq1, freq2)
+}
+
+/// Convert from frequency map to note number.
+#[pyfunction]
+#[pyo3(text_signature = "(self, map, /)")]
+pub fn map_to_note_number(map: f32) -> f32 {
+    audio_samples::map_to_note_number(map)
+}
+
+/// Convert from note number to frequency map.
+#[pyfunction]
+#[pyo3(text_signature = "(self, note_number, /)")]
+pub fn note_number_to_map(note_number: f32) -> f32 {
+    audio_samples::note_number_to_map(note_number)
+}
+
+/// Given a frequency, returns the corresponding frequency mapping.
+#[pyfunction]
+#[pyo3(text_signature = "(self, frequency, /)")]
+pub fn frequency_to_map(frequency: f32) -> f32 {
+    audio_samples::frequency_to_map(frequency)
+}
+
+/// Given a frequency map value, returns the corresponding frequency.
+#[pyfunction]
+#[pyo3(text_signature = "(self, map, /)")]
+pub fn map_to_frequency(map: f32) -> f32 {
+    audio_samples::map_to_frequency(map)
 }
 
 #[pyclass]
@@ -42,18 +70,6 @@ impl DataParameters {
                 num_samples,
             ),
         }
-    }
-
-    /// Convert from frequency map to note number.
-    #[pyo3(text_signature = "(self, map, /)")]
-    pub fn map_to_note_number(&self, map: f32) -> f32 {
-        self.parameters.map_to_note_number(map)
-    }
-
-    /// Convert from note number to frequency map.
-    #[pyo3(text_signature = "(self, note_number, /)")]
-    pub fn note_number_to_map(&self, note_number: f32) -> f32 {
-        self.parameters.note_number_to_map(note_number)
     }
 
     /// Create a new DataParameters object with the given seed_offset.
@@ -136,18 +152,6 @@ impl DataParameters {
         }
     }
 
-    /// Given a frequency, returns the corresponding frequency mapping.
-    #[pyo3(text_signature = "(self, frequency, /)")]
-    pub fn frequency_to_map(&self, frequency: f32) -> f32 {
-        self.parameters.frequency_to_map(frequency)
-    }
-
-    /// Given a frequency map value, returns the corresponding frequency.
-    #[pyo3(text_signature = "(self, map, /)")]
-    pub fn map_to_frequency(&self, map: f32) -> f32 {
-        self.parameters.map_to_frequency(map)
-    }
-
     /// Generates a samples at the given index.
     /// Calling this function multiple times with the same index will return the same samples.
     /// Calling this function multiple times with different indices will return (pseudo-)independent samples.
@@ -219,22 +223,22 @@ impl From<audio_samples::Audio> for Audio {
 
 #[pyclass]
 #[derive(Clone)]
-pub struct DataPointParameters {
-    parameters: audio_samples::parameters::DataPointParameters,
+pub struct DataPointLabel {
+    label: audio_samples::data::DataPointLabel,
 }
 
 #[pymethods]
-impl DataPointParameters {
+impl DataPointLabel {
     /// The fundamental frequency of the audio.
     #[pyo3(text_signature = "(self, /)")]
     fn frequency(&self) -> f32 {
-        self.parameters.frequency
+        self.label.base_frequency
     }
 
     /// The fundamental frequency of the audio mapped into the range `[-1;1]`.
     #[pyo3(text_signature = "(self, /)")]
     fn frequency_map(&self) -> f32 {
-        self.parameters.frequency_map
+        self.label.base_frequency_map
     }
 
     #[pyo3(text_signature = "(self, /)")]
@@ -243,12 +247,18 @@ impl DataPointParameters {
     }
 }
 
+impl From<audio_samples::data::DataPointLabel> for DataPointLabel {
+    fn from(label: audio_samples::data::DataPointLabel) -> Self {
+        Self { label }
+    }
+}
+
 /// Represents a data point with an audio clip and the parameters used to generate it.
 #[pyclass]
 #[derive(Clone)]
 pub struct DataPoint {
-    data: Audio,
-    label: audio_samples::parameters::DataPointParameters,
+    signal: Audio,
+    label: DataPointLabel,
 }
 
 #[pymethods]
@@ -256,48 +266,89 @@ impl DataPoint {
     /// The audio.
     #[pyo3(text_signature = "(self, /)")]
     fn audio(&self) -> Audio {
-        self.data.clone()
+        self.signal.clone()
     }
 
     /// A vector of the samples in the audio.
     #[pyo3(text_signature = "(self, /)")]
     fn samples<'py>(&self, py: Python<'py>) -> &'py PyArray<f32, Dim<[usize; 1]>> {
-        self.data.samples(py)
+        self.signal.samples(py)
     }
 
     #[pyo3(text_signature = "(self, /)")]
-    fn label(&self) -> DataPointParameters {
-        DataPointParameters {
-            parameters: self.label.clone(),
-        }
+    fn label(&self) -> DataPointLabel {
+        self.label.clone()
     }
 
     /// The fundamental frequency of the audio.
     #[pyo3(text_signature = "(self, /)")]
     fn frequency(&self) -> f32 {
-        self.label.frequency
+        self.label.frequency()
     }
 
     /// The fundamental frequency of the audio mapped into the range `[-1;1]`.
     #[pyo3(text_signature = "(self, /)")]
     fn frequency_map(&self) -> f32 {
-        self.label.frequency_map
+        self.label.frequency_map()
     }
 
     /// Saves the audio to a wav file.
     #[pyo3(text_signature = "(self, path, /)")]
     fn audio_to_wav(&self, path: &str) -> Result<()> {
-        self.data.to_wav(path)
+        self.signal.to_wav(path)
     }
 }
 
 impl From<data::DataPoint> for DataPoint {
     fn from(data_point: data::DataPoint) -> Self {
         Self {
-            data: data_point.audio.into(),
-            label: data_point.label,
+            signal: data_point.audio.into(),
+            label: DataPointLabel {
+                label: data::DataPointLabel::new(&data_point.parameters),
+            },
         }
     }
+}
+
+/// Represents a data point with an audio clip and the parameters used to generate it.
+#[pyclass]
+#[derive(Clone)]
+pub struct DataSet {
+    data: Vec<DataPoint>,
+}
+
+#[pymethods]
+impl DataSet {
+    fn __len__(&self) -> usize {
+        self.data.len()
+    }
+
+    fn __getitem__(&self, index: usize) -> Option<DataPoint> {
+        self.data.get(index).cloned()
+    }
+
+    fn random_partition(&self, p: f32) -> (Self, Self) {
+        let mut rng = rand::thread_rng();
+        let mut data = self.data.clone();
+        data.shuffle(&mut rng);
+        let n = (data.len() as f32 * p).round() as usize;
+        let (a, b) = data.split_at(n);
+        (Self { data: a.to_vec() }, Self { data: b.to_vec() })
+    }
+}
+
+#[pyfunction]
+#[pyo3(text_signature = "(path, /)")]
+pub fn load_data_set(path: &str) -> Result<DataSet> {
+    audio_samples::data::load_dir(path).map(|data| DataSet {
+        data: data
+            .into_iter()
+            .map(|(audio, label)| DataPoint {
+                signal: audio.into(),
+                label: label.into(),
+            })
+            .collect(),
+    })
 }
 
 /// A Python module implemented in Rust.
@@ -306,9 +357,15 @@ fn audio_samples_py(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_class::<Audio>()?;
     m.add_class::<DataPoint>()?;
     m.add_class::<DataParameters>()?;
-    m.add_class::<DataPointParameters>()?;
+    m.add_class::<DataPointLabel>()?;
+    m.add_class::<DataSet>()?;
     m.add_function(wrap_pyfunction!(debug_txt, m)?)?;
     m.add_function(wrap_pyfunction!(cent_diff, m)?)?;
     m.add_function(wrap_pyfunction!(load_wav, m)?)?;
+    m.add_function(wrap_pyfunction!(load_data_set, m)?)?;
+    m.add_function(wrap_pyfunction!(map_to_note_number, m)?)?;
+    m.add_function(wrap_pyfunction!(note_number_to_map, m)?)?;
+    m.add_function(wrap_pyfunction!(frequency_to_map, m)?)?;
+    m.add_function(wrap_pyfunction!(map_to_frequency, m)?)?;
     Ok(())
 }
