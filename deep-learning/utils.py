@@ -131,7 +131,7 @@ def test_net(net: torch.nn.Module, validation_loader: DataLoader, criterion, num
         target = target.to(device)
         output = net(signal, fft)
         
-        total_loss += criterion(output, target) / output.shape[0]
+        total_loss += criterion(output, target)
 
         output = to_numpy(output)
         target = to_numpy(target)
