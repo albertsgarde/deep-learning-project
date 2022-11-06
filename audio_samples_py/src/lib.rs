@@ -6,7 +6,7 @@ use audio_samples::{
 use ndarray::Dim;
 use numpy::PyArray;
 use pyo3::{prelude::*, pymodule, types::PyType};
-use rand::distributions::Uniform;
+use rand::{distributions::Uniform, seq::SliceRandom};
 
 #[pyfunction]
 pub fn debug_txt() -> String {
