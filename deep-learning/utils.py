@@ -104,6 +104,11 @@ def to_torch(x):
     else:
         raise Exception(f"Unsupported type for to_torch: {type(x)}")
     
+def cycle_data_loader(data_loader):
+    for _ in itertools.count(start = 0):
+        generator = iter(data_loader)
+        for item in generator:
+            yield item
 
 def mean_minibatch_err(output, target, error_function):
     assert output.shape == target.shape, f"Output and target must be same shape. Output shape: {output.shape}  target shape: {target.shape}"
@@ -125,7 +130,7 @@ def test_net(net: torch.nn.Module, validation_loader: DataLoader, criterion, num
     net.eval()
     total_loss = 0
     total_errors = [0] * len(error_functions)
-    for signal, fft, target, _ in itertools.islice(validation_loader, num_validation_batches):
+    for signal, fft, target, _ in itertools.islice(cycle_data_loader(validation_loader), num_validation_batches):
         signal = signal.to(device)
         fft = fft.to(device)
         target = target.to(device)
@@ -191,9 +196,10 @@ class ErrorTracker:
         self.val_errors = [[] for _ in range(len(eval_funcs))]
         self.val_iter = []
     
-    def training_update(self, index: int, output, target):
-        loss = self.criterion(to_torch(output), to_torch(target))
-        self.train_log_losses.append(np.log10(loss.item()))
+    def training_update(self, index: int, output, target, loss):
+        log_loss = np.log10(loss.item())
+        self.train_log_losses.append(log_loss)
+
 
         output = to_numpy(output)
         target = to_numpy(target)
@@ -201,8 +207,8 @@ class ErrorTracker:
             self.train_errors[i].append(mean_minibatch_err(output, target, eval_func))
         self.train_iter.append(index)
 
-    def validation_update(self, index: int, net: torch.nn.Module, validation_loader: DataLoader, criterion):
-        val_loss, val_errors = test_net(net, validation_loader, criterion, self.num_validation_batches, self.eval_funcs)
+    def validation_update(self, index: int, net: torch.nn.Module, validation_loader: DataLoader):
+        val_loss, val_errors = test_net(net, validation_loader, self.criterion, self.num_validation_batches, self.eval_funcs)
         self.val_log_losses.append(np.log10(val_loss))
         for i in range(len(self.val_errors)):
             self.val_errors[i].append(val_errors[i])
