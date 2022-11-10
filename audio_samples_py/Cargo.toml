@@ -10,7 +10,7 @@ crate-type = ["cdylib"]
 
 [dependencies]
 pyo3 = { version = "0.17.1", features = ["extension-module", "anyhow"] }
-audio_samples = { git = "https://github.com/albertsgarde/audio-samples.git", branch = "add-chords" }
+audio_samples = { git = "https://github.com/albertsgarde/audio-samples.git" }
 #audio_samples = { path = "../../../../Fun/Rust/audio_samples" }
 numpy = "0.17"
 rand = "0.8.5"

@@ -1,0 +1,7002 @@
+{
+  "841": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "499": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "327": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "21": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "417": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "894": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "682": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "907": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "991": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "510": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "541": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "747": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "557": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "109": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "191": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "489": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "497": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "739": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "632": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "364": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "159": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "656": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "233": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "115": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "576": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "755": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "688": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "617": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "15": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "244": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "665": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "102": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "142": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "170": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "835": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "743": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "166": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "921": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "765": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "561": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "795": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "899": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "806": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "600": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "544": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "922": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "588": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "360": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "757": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "927": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "213": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "25": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "667": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "500": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "637": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "794": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "615": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "583": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "848": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "258": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "453": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "290": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "47": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "365": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "876": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "575": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "596": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "944": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "302": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "70": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "250": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "304": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "282": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "434": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "514": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "397": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "893": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "181": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "651": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "137": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "707": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "969": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "469": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "941": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "966": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "403": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "569": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "810": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "382": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "713": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "961": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "592": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "91": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "175": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "521": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "625": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "956": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "419": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "270": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "292": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "528": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "8": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "827": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "932": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "19": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "281": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "684": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "119": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "476": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "915": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "816": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "988": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "180": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "638": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "878": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "982": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "429": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "61": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "589": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "296": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "28": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "192": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "318": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "285": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "48": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "479": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "377": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "601": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "428": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "670": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "604": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "567": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "655": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "974": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "828": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "926": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "493": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "545": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "659": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "423": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "238": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "730": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "759": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "701": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "919": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "362": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "426": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "705": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "60": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "163": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "605": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "49": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "320": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "216": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "412": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "672": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "155": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "674": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "458": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "227": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "584": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "727": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "873": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "778": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "945": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "808": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "401": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "546": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "33": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "889": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "898": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "752": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "52": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "929": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "975": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "712": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "62": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "738": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "29": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "178": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "462": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "219": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "277": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "756": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "612": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "215": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "635": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "116": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "432": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "69": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "351": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "399": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "807": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "22": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "802": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "42": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "106": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "678": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "126": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "692": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "538": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "937": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "72": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "847": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "481": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "791": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "750": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "694": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "980": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "946": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "298": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "254": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "482": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "623": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "141": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "231": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "430": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "754": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "55": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "666": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "863": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "371": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "267": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "657": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "82": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "652": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "389": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "595": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "343": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "63": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "831": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "30": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "43": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "594": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "150": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "505": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "516": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "261": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "691": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "783": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "508": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "98": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "920": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "39": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "398": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "470": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "616": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "940": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "356": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "846": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "402": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "568": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "54": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "690": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "78": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "815": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "718": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "992": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "986": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "400": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "120": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "853": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "232": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "884": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "963": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "358": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "767": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "897": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "325": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "455": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "860": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "112": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "128": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "342": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "618": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "812": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "300": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "442": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "821": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "740": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "563": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "189": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "223": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "372": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "840": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "450": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "350": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "851": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "997": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "237": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "195": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "908": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "234": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "725": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "349": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "580": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "796": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "465": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "391": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "797": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "845": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "972": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "875": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "269": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "443": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "958": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "981": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "464": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "745": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "805": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "427": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "104": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "732": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "225": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "263": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "663": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "792": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "648": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "193": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "843": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "673": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "273": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "726": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "332": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "12": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "916": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "611": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "820": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "587": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "558": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "818": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "837": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "999": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "987": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "416": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "445": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "229": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "577": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "248": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "446": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "722": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "758": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "867": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "698": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "626": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "697": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "573": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "326": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "624": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "962": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "240": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "804": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "275": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "245": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "367": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "572": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "803": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "933": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "96": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "167": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "143": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "865": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "393": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "751": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "978": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "210": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "790": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "720": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "912": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "114": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "249": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "409": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "560": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "602": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "38": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "113": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "406": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "721": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "715": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "157": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "983": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "171": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "438": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "217": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "352": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "37": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "130": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "418": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "437": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "286": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "190": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "590": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "979": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "149": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "287": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "373": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "676": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "380": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "90": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "506": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "524": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "686": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "785": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "902": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "886": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "413": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "161": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "586": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "729": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "788": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "256": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "0": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "742": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "243": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "345": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "36": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "931": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "179": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "172": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "706": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "862": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "272": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "447": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "892": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "777": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "760": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "703": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "387": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "394": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "910": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "599": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "278": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "135": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "571": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "836": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "855": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "246": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "35": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "693": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "207": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "708": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "741": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "744": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "407": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "127": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "763": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "84": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "381": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "965": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "197": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "148": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "474": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "346": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "801": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "77": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "333": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "871": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "314": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "144": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "153": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "452": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "93": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "976": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "392": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "928": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "324": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "885": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "293": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "924": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "485": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "864": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "711": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "548": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "552": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "585": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "76": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "780": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "411": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "968": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "86": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "101": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "239": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "574": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "581": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "303": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "904": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "80": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "92": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "603": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "630": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "737": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "260": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "73": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "486": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "669": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "995": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "242": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "31": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "344": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "551": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "288": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "328": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "308": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "162": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "550": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "176": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "205": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "366": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "26": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "555": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "985": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "699": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "202": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "606": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "307": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "917": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "247": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "330": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "930": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "906": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "633": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "768": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "79": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "226": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "536": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "642": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "775": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "241": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "593": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "129": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "640": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "662": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "913": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "857": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "582": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "182": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "208": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "384": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "532": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "547": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "887": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "262": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "877": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "565": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "998": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "824": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "960": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "641": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "188": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "822": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "826": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "842": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "478": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "186": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "235": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "773": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "591": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "950": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "556": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "319": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "363": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "353": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "279": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "454": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "236": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "160": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "549": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "483": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "517": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "341": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "420": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "774": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "685": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "610": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "515": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "151": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "540": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "305": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "953": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "386": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "647": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "379": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "675": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "646": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "909": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "415": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "357": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "779": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "772": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "888": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "177": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "700": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "680": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "786": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "967": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "265": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "900": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "312": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "809": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "378": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "408": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "230": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "687": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "849": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "859": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "103": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "280": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "553": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "206": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "490": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "317": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "830": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "347": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "431": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "359": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "627": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "65": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "100": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "211": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "620": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "50": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "564": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "414": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "370": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "383": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "468": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "660": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "844": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "852": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "936": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "504": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "882": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "283": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "451": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "677": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "800": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "67": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "376": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "204": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "817": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "439": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "140": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "621": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "268": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "473": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "422": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "6": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "337": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "914": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "164": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "949": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "51": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "512": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "578": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "271": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "257": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "870": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "147": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "331": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "117": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "355": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "475": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "939": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "710": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "388": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "339": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "274": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "309": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "543": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "41": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "133": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "444": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "306": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "218": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "405": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "519": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "989": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "74": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "654": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "58": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "636": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "228": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "436": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "457": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "891": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "124": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "856": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "316": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "299": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "348": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "614": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "169": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "681": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "622": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "421": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "689": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "631": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "9": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "294": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "301": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "823": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "59": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "895": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "771": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "334": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "404": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "650": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "643": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "13": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "107": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "196": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "787": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "537": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "24": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "484": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "276": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "81": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "520": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "1": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "220": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "313": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "814": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "829": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "955": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "748": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "496": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "696": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "993": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "466": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "184": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "173": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "264": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "297": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "498": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "861": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "608": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "901": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "369": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "704": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "368": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "518": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "559": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "480": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "868": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "522": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "185": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "335": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "781": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "789": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "769": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "977": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "866": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "526": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "645": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "97": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "200": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "813": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "224": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "879": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "441": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "811": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "467": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "34": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "255": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "911": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "66": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "487": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "695": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "89": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "32": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "27": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "948": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "736": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "776": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "20": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "17": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "132": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "838": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "503": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "252": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "461": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "833": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "338": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "858": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "609": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "513": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "118": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "354": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "449": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "702": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "456": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "435": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "766": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "890": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "222": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "251": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "121": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "194": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "495": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "111": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "668": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "671": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "3": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "10": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "523": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "94": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "322": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "734": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "717": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "905": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "607": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "533": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "683": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "14": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "201": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "289": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "597": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "539": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "525": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "764": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "122": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "923": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "291": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "714": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "57": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "374": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "749": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "183": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "477": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "310": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "746": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "996": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "199": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "214": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "562": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "762": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "793": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "45": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "854": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "942": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "110": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "649": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "653": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "85": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "209": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "253": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "994": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "984": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "761": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "832": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "628": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "880": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "18": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "295": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "108": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "542": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "723": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "872": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "990": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "145": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "75": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "529": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "203": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "753": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "425": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "825": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "323": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "935": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "938": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "679": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "598": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "136": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "970": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "554": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "883": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "259": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "973": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "728": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "798": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "925": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "658": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "770": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "494": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "134": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "95": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "131": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "629": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "410": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "869": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "570": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "11": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "64": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "123": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "440": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "492": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "139": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "16": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "634": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "947": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "471": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "329": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "834": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "158": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "579": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "488": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "639": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "971": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "56": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "491": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "460": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "644": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "168": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "5": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "534": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "527": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "88": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "174": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "212": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "4": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "463": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "125": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "731": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "850": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "954": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "44": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "959": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "903": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "7": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "46": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "221": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "68": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "719": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "952": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "531": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "459": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "396": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "448": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "53": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "156": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "664": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "146": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "881": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "951": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "957": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "839": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "71": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "735": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "472": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "138": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "433": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "784": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "799": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "390": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "964": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "361": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "782": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "284": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "375": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "2": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "535": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "315": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "340": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "896": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "152": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "154": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "187": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "40": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "530": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "709": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "509": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "716": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "83": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "918": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "934": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "336": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "424": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  },
+  "661": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "87": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "566": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "943": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "733": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "99": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "321": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "165": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "613": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "105": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "874": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "385": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "311": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "395": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "724": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "619": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 3,
+    "num_samples": 256
+  },
+  "819": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 4,
+    "num_samples": 256
+  },
+  "507": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "23": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "511": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 1,
+    "num_samples": 256
+  },
+  "501": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 2,
+    "num_samples": 256
+  },
+  "198": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "502": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 6,
+    "num_samples": 256
+  },
+  "266": {
+    "sample_rate": 44100,
+    "base_frequency_map": null,
+    "base_frequency": null,
+    "chord_type": 5,
+    "num_samples": 256
+  }
+}
