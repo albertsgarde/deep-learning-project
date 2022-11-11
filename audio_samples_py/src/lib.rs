@@ -1,7 +1,7 @@
 use anyhow::Result;
 use audio_samples::{
     data,
-    parameters::{effects::EffectDistribution, oscillators::OscillatorTypeDistribution},
+    parameters::{effects::EffectTypeDistribution, oscillators::OscillatorTypeDistribution},
 };
 use ndarray::Dim;
 use numpy::PyArray;
@@ -108,73 +108,100 @@ impl DataParameters {
     }
 
     /// Adds a sine oscillator with the given amplitude range.
-    #[pyo3(text_signature = "(self, amplitude_range, /)")]
-    pub fn add_sine(&self, amplitude_range: (f32, f32)) -> Self {
+    #[args(probability = "1.")]
+    #[pyo3(text_signature = "(self, probability, amplitude_range, /)")]
+    pub fn add_sine(&self, probability: f64, amplitude_range: (f32, f32)) -> Self {
         DataParameters {
-            parameters: self
-                .parameters
-                .clone()
-                .with_oscillator(OscillatorTypeDistribution::Sine, amplitude_range),
+            parameters: self.parameters.clone().with_oscillator(
+                OscillatorTypeDistribution::Sine,
+                probability,
+                amplitude_range,
+            ),
         }
     }
 
     /// Adds a saw oscillator with the given amplitude range.
-    #[pyo3(text_signature = "(self, amplitude_range, /)")]
-    pub fn add_saw(&self, amplitude_range: (f32, f32)) -> Self {
+    #[args(probability = "1.")]
+    #[pyo3(text_signature = "(self, probability, amplitude_range, /)")]
+    pub fn add_saw(&self, probability: f64, amplitude_range: (f32, f32)) -> Self {
         DataParameters {
-            parameters: self
-                .parameters
-                .clone()
-                .with_oscillator(OscillatorTypeDistribution::Saw, amplitude_range),
+            parameters: self.parameters.clone().with_oscillator(
+                OscillatorTypeDistribution::Saw,
+                probability,
+                amplitude_range,
+            ),
         }
     }
 
     /// Adds a pulse oscillator with the given amplitude range and duty cycle.
     /// The duty cycle is the ratio of the pulse width to the period.
-    #[pyo3(text_signature = "(self, amplitude_range, duty_cycle_range, /)")]
-    pub fn add_pulse(&self, amplitude_range: (f32, f32), duty_cycle_range: (f32, f32)) -> Self {
+    #[args(probability = "1.")]
+    #[pyo3(text_signature = "(self, probability, amplitude_range, duty_cycle_range, /)")]
+    pub fn add_pulse(
+        &self,
+        probability: f64,
+        amplitude_range: (f32, f32),
+        duty_cycle_range: (f32, f32),
+    ) -> Self {
         DataParameters {
             parameters: self.parameters.clone().with_oscillator(
                 OscillatorTypeDistribution::Pulse(Uniform::new(
                     duty_cycle_range.0,
                     duty_cycle_range.1,
                 )),
+                probability,
                 amplitude_range,
             ),
         }
     }
 
     /// Adds a triangle oscillator with the given amplitude range.
-    #[pyo3(text_signature = "(self, amplitude_range, /)")]
-    pub fn add_triangle(&self, amplitude_range: (f32, f32)) -> Self {
+    #[args(probability = "1.")]
+    #[pyo3(text_signature = "(self, probability, amplitude_range, /)")]
+    pub fn add_triangle(&self, probability: f64, amplitude_range: (f32, f32)) -> Self {
         DataParameters {
-            parameters: self
-                .parameters
-                .clone()
-                .with_oscillator(OscillatorTypeDistribution::Triangle, amplitude_range),
+            parameters: self.parameters.clone().with_oscillator(
+                OscillatorTypeDistribution::Triangle,
+                probability,
+                amplitude_range,
+            ),
         }
     }
 
     /// Adds a noise oscillator with the given amplitude range.
     /// This will create samples that are normally distributed around `0.0` with the amplitude as standard deviation and any samples greater than the amplitude being cut off.
-    #[pyo3(text_signature = "(self, amplitude_range, /)")]
-    pub fn add_noise(&self, amplitude_range: (f32, f32)) -> Self {
+    #[args(probability = "1.")]
+    #[pyo3(text_signature = "(self, probability, amplitude_range, /)")]
+    pub fn add_noise(&self, probability: f64, amplitude_range: (f32, f32)) -> Self {
         DataParameters {
-            parameters: self
-                .parameters
-                .clone()
-                .with_oscillator(OscillatorTypeDistribution::Noise, amplitude_range),
+            parameters: self.parameters.clone().with_oscillator(
+                OscillatorTypeDistribution::Noise,
+                probability,
+                amplitude_range,
+            ),
         }
     }
 
     /// Adds a distortion effect to all samples.
     /// The `power_range` argument determines the strength of the distortion.
-    #[args(power_range = "(1., 1.)")]
-    #[pyo3(text_signature = "(self, power_range, /)")]
-    pub fn apply_distortion(&self, power_range: (f32, f32)) -> Self {
-        let effect = EffectDistribution::distortion(power_range);
+    #[args(probability = "1.", power_range = "(1., 1.)")]
+    #[pyo3(text_signature = "(self, probability, power_range, /)")]
+    pub fn apply_distortion(&self, probability: f64, power_range: (f32, f32)) -> Self {
         DataParameters {
-            parameters: self.parameters.clone().with_effect(effect),
+            parameters: self
+                .parameters
+                .clone()
+                .with_effect(EffectTypeDistribution::distortion(power_range), probability),
+        }
+    }
+
+    #[pyo3(text_signature = "(self, /)")]
+    pub fn apply_normalization(&self, probability: f64) -> self {
+        DataParameters {
+            parameters: self
+                .parameters
+                .clone()
+                .with_effect(EffectTypeDistribution::Normalize, probability),
         }
     }
 

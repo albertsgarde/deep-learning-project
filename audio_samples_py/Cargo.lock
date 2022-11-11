@@ -28,10 +28,11 @@ checksum = "bfb6d71005dc22a708c7496eee5c8dc0300ee47355de6256c3b35b12b5fef596"
 [[package]]
 name = "audio_samples"
 version = "0.1.0"
-source = "git+https://github.com/albertsgarde/audio-samples.git#2981b965890a0fa94189c8f87516a376faffc94b"
+source = "git+https://github.com/albertsgarde/audio-samples.git#d8a8a1c4803676622a40012b002c205031c04864"
 dependencies = [
  "anyhow",
  "flexblock-synth",
+ "float-ord",
  "hound",
  "rand",
  "rand_pcg",
@@ -73,7 +74,7 @@ checksum = "baf1de4339761588bc0619e3cbc0120ee582ebb74b53b4efbf79117bd2da40fd"
 [[package]]
 name = "flexblock-synth"
 version = "0.1.0"
-source = "git+https://gitlab.com/albertsgarde/flexblocksynth#d466e04a4dfe82b0b1f32ecb28b4cfb71236948b"
+source = "git+https://gitlab.com/albertsgarde/flexblocksynth#81b9eb7875c57b083c8547498a75cee3504f06fa"
 dependencies = [
  "array-init",
  "hound",
@@ -82,6 +83,12 @@ dependencies = [
  "rand_distr",
  "text_io",
 ]
+
+[[package]]
+name = "float-ord"
+version = "0.3.2"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "8ce81f49ae8a0482e4c55ea62ebbd7e5a686af544c00b9d090bba3ff9be97b3d"
 
 [[package]]
 name = "getrandom"
