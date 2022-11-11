@@ -86,12 +86,15 @@ impl DataParameters {
         sample_rate: u32,
         min_frequency: f32,
         max_frequency: f32,
+        min_frequency_std_dev: f32,
+        max_frequency_std_dev: f32,
         possible_chord_types: Vec<u32>,
     ) -> Self {
         Self {
             parameters: audio_samples::parameters::DataParameters::new(
                 sample_rate,
                 (min_frequency, max_frequency),
+                (min_frequency_std_dev, max_frequency_std_dev),
                 possible_chord_types,
                 num_samples,
             ),
