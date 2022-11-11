@@ -196,7 +196,7 @@ impl DataParameters {
     }
 
     #[pyo3(text_signature = "(self, /)")]
-    pub fn apply_normalization(&self, probability: f64) -> self {
+    pub fn apply_normalization(&self, probability: f64) -> Self {
         DataParameters {
             parameters: self
                 .parameters
