@@ -79,6 +79,8 @@ impl DataParameters {
         sample_rate = "44100",
         min_frequency = "20.",
         max_frequency = "20000.",
+        min_frequency_std_dev = "0.",
+        max_frequency_std_dev = "0.",
         possible_chord_types = "vec![0]"
     )]
     fn new(
