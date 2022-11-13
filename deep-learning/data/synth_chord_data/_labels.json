@@ -1,0 +1,10002 @@
+[
+  [
+    "synth_chord_0",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_1",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_2",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_3",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_4",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_5",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_6",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_7",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_8",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_9",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_10",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_11",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_12",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_13",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_14",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_15",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_16",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_17",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_18",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_19",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_20",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_21",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_22",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_23",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_24",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_25",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_26",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_27",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_28",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_29",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_30",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_31",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_32",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_33",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_34",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_35",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_36",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_37",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_38",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_39",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_40",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_41",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_42",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_43",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_44",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_45",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_46",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_47",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_48",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_49",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_50",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_51",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_52",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_53",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_54",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_55",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_56",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_57",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_58",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_59",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_60",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_61",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_62",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_63",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_64",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_65",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_66",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_67",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_68",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_69",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_70",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_71",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_72",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_73",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_74",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_75",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_76",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_77",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_78",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_79",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_80",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_81",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_82",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_83",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_84",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_85",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_86",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_87",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_88",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_89",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_90",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_91",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_92",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_93",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_94",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_95",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_96",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_97",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_98",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_99",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_100",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_101",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_102",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_103",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_104",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_105",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_106",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_107",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_108",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_109",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_110",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_111",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_112",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_113",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_114",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_115",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_116",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_117",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_118",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_119",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_120",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_121",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_122",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_123",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_124",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_125",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_126",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_127",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_128",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_129",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_130",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_131",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_132",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_133",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_134",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_135",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_136",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_137",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_138",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_139",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_140",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_141",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_142",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_143",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_144",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_145",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_146",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_147",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_148",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_149",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_150",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_151",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_152",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_153",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_154",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_155",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_156",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_157",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_158",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_159",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_160",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_161",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_162",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_163",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_164",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_165",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_166",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_167",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_168",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_169",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_170",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_171",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_172",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_173",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_174",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_175",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_176",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_177",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_178",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_179",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_180",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_181",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_182",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_183",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_184",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_185",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_186",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_187",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_188",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_189",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_190",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_191",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_192",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_193",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_194",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_195",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_196",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_197",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_198",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_199",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_200",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_201",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_202",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_203",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_204",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_205",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_206",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_207",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_208",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_209",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_210",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_211",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_212",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_213",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_214",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_215",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_216",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_217",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_218",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_219",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_220",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_221",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_222",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_223",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_224",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_225",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_226",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_227",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_228",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_229",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_230",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_231",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_232",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_233",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_234",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_235",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_236",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_237",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_238",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_239",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_240",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_241",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_242",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_243",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_244",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_245",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_246",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_247",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_248",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_249",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_250",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_251",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_252",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_253",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_254",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_255",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_256",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_257",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_258",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_259",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_260",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_261",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_262",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_263",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_264",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_265",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_266",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_267",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_268",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_269",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_270",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_271",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_272",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_273",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_274",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_275",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_276",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_277",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_278",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_279",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_280",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_281",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_282",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_283",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_284",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_285",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_286",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_287",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_288",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_289",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_290",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_291",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_292",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_293",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_294",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_295",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_296",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_297",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_298",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_299",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_300",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_301",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_302",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_303",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_304",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_305",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_306",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_307",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_308",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_309",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_310",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_311",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_312",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_313",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_314",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_315",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_316",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_317",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_318",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_319",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_320",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_321",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_322",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_323",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_324",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_325",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_326",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_327",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_328",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_329",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_330",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_331",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_332",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_333",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_334",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_335",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_336",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_337",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_338",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_339",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_340",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_341",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_342",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_343",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_344",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_345",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_346",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_347",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_348",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_349",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_350",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_351",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_352",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_353",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_354",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_355",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_356",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_357",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_358",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_359",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_360",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_361",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_362",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_363",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_364",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_365",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_366",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_367",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_368",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_369",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_370",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_371",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_372",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_373",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_374",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_375",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_376",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_377",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_378",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_379",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_380",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_381",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_382",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_383",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_384",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_385",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_386",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_387",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_388",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_389",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_390",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_391",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_392",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_393",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_394",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_395",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_396",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_397",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_398",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_399",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_400",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_401",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_402",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_403",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_404",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_405",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_406",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_407",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_408",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_409",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_410",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_411",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_412",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_413",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_414",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_415",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_416",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_417",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_418",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_419",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_420",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_421",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_422",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_423",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_424",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_425",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_426",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_427",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_428",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_429",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_430",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_431",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_432",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_433",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_434",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_435",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_436",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_437",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_438",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_439",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_440",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_441",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_442",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_443",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_444",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_445",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_446",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_447",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_448",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_449",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_450",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_451",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_452",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_453",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_454",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_455",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_456",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_457",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_458",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_459",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_460",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_461",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_462",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_463",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_464",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_465",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_466",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_467",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_468",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_469",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_470",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_471",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_472",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_473",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_474",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_475",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_476",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_477",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_478",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_479",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_480",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_481",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_482",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_483",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_484",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_485",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_486",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_487",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_488",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_489",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_490",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_491",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_492",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_493",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_494",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_495",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_496",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_497",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_498",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_499",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_500",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_501",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_502",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_503",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_504",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_505",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_506",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_507",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_508",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_509",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_510",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_511",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_512",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_513",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_514",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_515",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_516",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_517",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_518",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_519",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_520",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_521",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_522",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_523",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_524",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_525",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_526",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_527",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_528",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_529",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_530",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_531",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_532",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_533",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_534",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_535",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_536",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_537",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_538",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_539",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_540",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_541",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_542",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_543",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_544",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_545",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_546",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_547",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_548",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_549",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_550",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_551",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_552",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_553",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_554",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_555",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_556",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_557",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_558",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_559",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_560",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_561",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_562",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_563",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_564",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_565",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_566",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_567",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_568",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_569",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_570",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_571",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_572",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_573",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_574",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_575",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_576",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_577",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_578",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_579",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_580",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_581",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_582",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_583",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_584",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_585",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_586",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_587",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_588",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_589",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_590",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_591",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_592",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_593",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_594",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_595",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_596",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_597",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_598",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_599",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_600",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_601",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_602",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_603",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_604",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_605",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_606",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_607",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_608",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_609",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_610",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_611",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_612",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_613",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_614",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_615",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_616",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_617",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_618",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_619",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_620",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_621",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_622",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_623",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_624",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_625",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_626",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_627",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_628",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_629",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_630",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_631",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_632",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_633",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_634",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_635",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_636",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_637",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_638",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_639",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_640",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_641",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_642",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_643",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_644",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_645",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_646",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_647",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_648",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_649",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_650",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_651",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_652",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_653",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_654",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_655",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_656",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_657",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_658",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_659",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_660",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_661",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_662",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_663",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_664",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_665",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_666",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_667",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_668",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_669",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_670",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_671",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_672",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_673",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_674",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_675",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_676",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_677",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_678",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_679",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_680",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_681",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_682",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_683",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_684",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_685",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_686",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_687",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_688",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_689",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_690",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_691",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_692",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_693",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_694",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_695",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_696",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_697",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_698",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_699",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_700",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_701",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_702",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_703",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_704",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_705",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_706",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_707",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_708",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_709",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_710",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_711",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_712",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_713",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_714",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_715",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_716",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_717",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_718",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_719",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_720",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_721",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_722",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_723",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_724",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_725",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_726",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_727",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_728",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_729",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_730",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_731",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_732",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_733",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_734",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_735",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_736",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_737",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_738",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_739",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_740",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_741",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_742",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_743",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_744",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_745",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_746",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_747",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_748",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_749",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_750",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_751",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_752",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_753",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_754",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_755",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_756",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_757",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_758",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_759",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_760",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_761",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_762",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_763",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_764",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_765",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_766",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_767",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_768",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_769",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_770",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_771",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_772",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_773",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_774",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_775",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_776",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_777",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_778",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_779",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_780",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_781",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_782",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_783",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_784",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_785",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_786",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_787",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_788",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_789",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_790",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_791",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_792",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_793",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_794",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_795",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_796",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_797",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_798",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_799",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_800",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_801",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_802",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_803",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_804",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_805",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_806",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_807",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_808",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_809",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_810",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_811",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_812",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_813",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_814",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_815",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_816",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_817",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_818",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_819",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_820",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_821",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_822",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_823",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_824",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_825",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_826",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_827",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_828",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_829",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_830",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_831",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_832",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_833",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_834",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_835",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_836",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_837",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_838",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_839",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_840",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_841",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_842",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_843",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_844",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_845",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_846",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_847",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_848",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_849",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_850",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_851",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_852",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_853",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_854",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_855",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_856",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_857",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_858",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_859",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_860",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_861",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_862",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_863",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_864",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_865",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_866",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_867",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_868",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_869",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_870",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_871",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_872",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_873",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_874",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_875",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_876",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_877",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_878",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_879",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_880",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_881",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_882",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_883",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_884",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_885",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_886",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_887",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_888",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_889",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_890",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_891",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_892",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_893",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_894",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_895",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_896",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_897",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_898",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_899",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_900",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_901",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_902",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_903",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_904",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_905",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_906",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_907",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_908",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_909",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_910",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_911",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_912",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_913",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_914",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_915",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_916",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_917",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_918",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_919",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_920",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_921",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_922",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_923",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_924",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_925",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_926",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_927",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_928",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_929",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_930",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_931",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_932",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_933",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_934",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_935",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_936",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_937",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_938",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_939",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_940",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_941",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_942",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_943",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_944",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_945",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_946",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_947",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_948",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_949",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_950",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_951",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_952",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_953",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_954",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_955",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_956",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_957",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_958",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_959",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_960",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_961",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_962",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_963",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_964",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_965",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_966",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_967",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_968",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_969",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_970",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_971",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_972",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_973",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_974",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_975",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_976",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_977",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_978",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_979",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_980",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 3,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_981",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_982",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_983",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_984",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_985",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_986",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_987",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_988",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_989",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_990",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_991",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_992",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_993",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 2,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_994",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_995",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 5,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_996",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_997",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 1,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_998",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 6,
+      "num_samples": 256
+    }
+  ],
+  [
+    "synth_chord_999",
+    {
+      "sample_rate": 44100,
+      "base_frequency_map": null,
+      "base_frequency": null,
+      "chord_type": 4,
+      "num_samples": 256
+    }
+  ]
+]
