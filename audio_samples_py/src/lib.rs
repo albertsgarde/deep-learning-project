@@ -290,23 +290,26 @@ impl DataPointLabel {
     /// The fundamental frequency of the audio.
     #[pyo3(text_signature = "(self, /)")]
     fn frequency(&self) -> Option<f32> {
-        self.label.base_frequency
+        self.label.base_frequency()
     }
 
     /// The fundamental frequency of the audio mapped into the range `[-1;1]`.
     #[pyo3(text_signature = "(self, /)")]
     fn frequency_map(&self) -> Option<f32> {
-        self.label.base_frequency_map
+        self.label.base_frequency_map()
     }
 
     #[pyo3(text_signature = "(self, /)")]
     fn note_number(&self) -> Option<f32> {
-        self.frequency()
-            .map(|freq| audio_samples::frequency_to_note_number(freq))
+        self.label.note_number()
+    }
+
+    fn note(&self) -> Option<u32> {
+        self.label.note()
     }
 
     fn chord_type(&self) -> u32 {
-        self.label.chord_type
+        self.label.chord_type()
     }
 
     fn chord_type_name(&self) -> String {
