@@ -56,6 +56,7 @@ for folder in dir:
         sound = AudioSegment.from_file(path3)
         cut = num_samples/sample_rate*1000
         sound_short = sound[:cut]
+        sound_short = sound_short.set_sample_width(3)
         sound_short.export(out_f = ( newpath + "\\" + name +"_short.wav"), format = "wav")
 
 json_data = json.dumps(tuple_list,indent=4)
