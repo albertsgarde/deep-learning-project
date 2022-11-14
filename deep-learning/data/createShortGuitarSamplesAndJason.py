@@ -24,7 +24,7 @@ def mapNote(folder):
          }[note]
 
 path = "C:\\Users\\Ejer\\Documents\\Deep learning\\Guitar_Only"
-newpath = "C:\\Users\\Ejer\\Documents\\Deep learning\\short_guitar_samples"
+newpath = "C:\\Users\\Ejer\\Documents\\Deep learning\\projekt\\deep-learning-project\\deep-learning\\data\\short_guitar_samples"
 dir = os.listdir(path)
 
 num_samples = 512
@@ -49,7 +49,7 @@ for folder in dir:
                "chord_type": type,
                "num_samples": num_samples
                }
-        sample_tuple = (name, sample_dict)
+        sample_tuple = (name+"_short", sample_dict)
         tuple_list.append(sample_tuple)
         
         #cut data from start
@@ -60,7 +60,7 @@ for folder in dir:
 
 json_data = json.dumps(tuple_list,indent=4)
 
-with open("_labels.json", "w") as outfile:
+with open(newpath +"\\_labels.json", "w") as outfile:
     outfile.write(json_data)
 
 print(json_data)
