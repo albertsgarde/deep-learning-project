@@ -59,7 +59,8 @@ for folder in dir:
  
         sound = AudioSegment.from_file(path3)
         cut = num_samples/sample_rate*1000
-        sound_short = sound[:cut]
+        start_point = len(sound) / 4.0
+        sound_short = sound[start_point:start_point+cut]
         sound_short_a = sound_short.get_array_of_samples()
         sound_short_a = np.array(sound_short_a, dtype=np.float32)
         write(newpath + "\\" + name +"_short.wav",sample_rate,sound_short_a)
@@ -71,5 +72,6 @@ with open(newpath +"\\_labels.json", "w") as outfile:
     outfile.write(json_data)
 
 print(json_data)
+
 
 
