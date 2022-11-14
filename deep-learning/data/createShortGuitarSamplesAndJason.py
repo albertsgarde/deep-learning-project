@@ -63,6 +63,8 @@ for folder in dir:
         sound_short = sound[start_point:start_point+cut]
         sound_short_a = sound_short.get_array_of_samples()
         sound_short_a = np.array(sound_short_a, dtype=np.float32)
+        sound_short_a /= 32767.5-1
+        sound_short_a /= np.amax(abs(sound_short_a))
         write(newpath + "\\" + name +"_short.wav",sample_rate,sound_short_a)
         #sound_short.export(out_f = ( newpath + "\\" + name +"_short.wav"), format = "wav")
 
