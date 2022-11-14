@@ -11,6 +11,7 @@ import json
 import pydub
 from pydub import AudioSegment
 from scipy.io import wavfile
+from scipy.io.wavfile import write
 import numpy as np
 
 def mapNote(folder):
@@ -55,12 +56,14 @@ for folder in dir:
         tuple_list.append(sample_tuple)
         
         #cut data from start
-        rate, data = wavfile.read(path3)
-        newdata = data.astype(np.float32).tobytes('F')
-        sound = AudioSegment(data=newdata, sample_width=4, frame_rate=rate, channels=1)
+ 
+        sound = AudioSegment.from_file(path3)
         cut = num_samples/sample_rate*1000
         sound_short = sound[:cut]
-        sound_short.export(out_f = ( newpath + "\\" + name +"_short.wav"), format = "wav")
+        sound_short_a = sound_short.get_array_of_samples()
+        sound_short_a = np.array(sound_short_a, dtype=np.float32)
+        write(newpath + "\\" + name +"_short.wav",sample_rate,sound_short_a)
+        #sound_short.export(out_f = ( newpath + "\\" + name +"_short.wav"), format = "wav")
 
 json_data = json.dumps(tuple_list,indent=4)
 
