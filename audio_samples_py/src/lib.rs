@@ -64,6 +64,40 @@ pub fn chord_type_name(chord_type: u32) -> String {
 
 #[pyclass]
 #[pyo3(
+    text_signature = "(add_root_octave_probability, add_other_octave_probability, min_frequency: = 90, max_frequency = 10_000, /)"
+)]
+#[derive(Clone, Copy)]
+pub struct OctaveParameters {
+    octave_parameters: audio_samples::parameters::OctaveParameters,
+}
+#[pymethods]
+impl OctaveParameters {
+    #[new]
+    #[args(
+        add_root_octave_probability = "0.",
+        add_other_octave_probability = "0.",
+        min_frequency = "90.",
+        max_frequency = "10_000."
+    )]
+    fn new(
+        add_root_octave_probability: f64,
+        add_other_octave_probability: f64,
+        min_frequency: f32,
+        max_frequency: f32,
+    ) -> Self {
+        Self {
+            octave_parameters: audio_samples::parameters::OctaveParameters::new(
+                add_root_octave_probability,
+                add_other_octave_probability,
+                min_frequency,
+                max_frequency,
+            ),
+        }
+    }
+}
+
+#[pyclass]
+#[pyo3(
     text_signature = "(num_samples, sample_rate = 44100, min_frequency = 20, max_frequency=20000, possible_chord_types=[0], /)"
 )]
 #[derive(Clone)]
@@ -77,6 +111,7 @@ impl DataParameters {
     #[new]
     #[args(
         sample_rate = "44100",
+        octave_parameters = "OctaveParameters::new(0., 0., 90., 10_000.)",
         min_frequency = "20.",
         max_frequency = "20000.",
         min_frequency_std_dev = "0.",
@@ -85,6 +120,7 @@ impl DataParameters {
     )]
     fn new(
         num_samples: u64,
+        octave_parameters: OctaveParameters,
         sample_rate: u32,
         min_frequency: f32,
         max_frequency: f32,
@@ -98,6 +134,7 @@ impl DataParameters {
                 (min_frequency, max_frequency),
                 (min_frequency_std_dev, max_frequency_std_dev),
                 possible_chord_types,
+                octave_parameters.octave_parameters,
                 num_samples,
             ),
         }
@@ -426,6 +463,7 @@ pub fn load_data_set(path: &str) -> Result<DataSet> {
 fn audio_samples_py(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_class::<Audio>()?;
     m.add_class::<DataPoint>()?;
+    m.add_class::<OctaveParameters>()?;
     m.add_class::<DataParameters>()?;
     m.add_class::<DataPointLabel>()?;
     m.add_class::<DataSet>()?;
