@@ -17,7 +17,7 @@ def plot_history(error_tracker: utils.ErrorTracker, total_batches: int, eval_fun
     assert len(val_evals) == len(eval_funcs)
     
     display.clear_output(wait=True)
-    plt.figure(figsize=(12, 4))
+    plt.figure(figsize=(16, 4))
 
     plt.subplot(1, num_subplots, 1)
     plt.plot(train_iter, train_log_losses, label="Training Loss")
