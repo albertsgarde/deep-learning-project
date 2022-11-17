@@ -3,7 +3,6 @@ from torch import nn
 from torch.utils.data.dataloader import DataLoader
 import numpy as np
 import matplotlib.pyplot as plt
-import IPython.display as display
 import audio_samples_py as aus
 
 import utils.utils as utils
@@ -16,7 +15,6 @@ def plot_history(error_tracker: utils.ErrorTracker, total_batches: int, eval_fun
     assert len(train_evals) == len(eval_funcs)
     assert len(val_evals) == len(eval_funcs)
     
-    display.clear_output(wait=True)
     plt.figure(figsize=(16, 4))
 
     plt.subplot(1, num_subplots, 1)
@@ -37,8 +35,6 @@ def plot_history(error_tracker: utils.ErrorTracker, total_batches: int, eval_fun
         if "plot_misc" in eval_func:
             eval_func["plot_misc"]()
         plt.legend()
-    
-    plt.show()
 
 def frequency_data(net: nn.Module, data_loader: utils.DataLoader, num_batches: int, eval_funcs):
     data = []
@@ -82,7 +78,6 @@ def frequency_plot(net: nn.Module, data_loader: DataLoader, num_batches: int, ev
 
     num_subplots = len(eval_funcs)
 
-    display.clear_output(wait=True)
     plt.figure(figsize=(12, 4))
 
     for i, eval_func  in enumerate(eval_funcs):
@@ -108,4 +103,3 @@ def frequency_plot(net: nn.Module, data_loader: DataLoader, num_batches: int, ev
         plt.xscale("log")
         plt.ylim(y_min, y_max)
         plt.legend()
-    plt.show()
