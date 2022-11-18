@@ -337,6 +337,13 @@ impl DataPointLabel {
     }
 
     #[pyo3(text_signature = "(self, /)")]
+    fn frequencies(&self) -> Option<Vec<f32>> {
+        self.label
+            .frequencies()
+            .map(|frequencies| frequencies.to_vec())
+    }
+
+    #[pyo3(text_signature = "(self, /)")]
     fn note_number(&self) -> Option<f32> {
         self.label.note_number()
     }
