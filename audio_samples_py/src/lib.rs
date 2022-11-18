@@ -2,11 +2,12 @@ use anyhow::Result;
 use audio_samples::{
     data,
     parameters::{effects::EffectTypeDistribution, oscillators::OscillatorTypeDistribution},
+    Uniform,
 };
 use ndarray::Dim;
 use numpy::PyArray;
 use pyo3::{prelude::*, pymodule, types::PyType};
-use rand::{distributions::Uniform, seq::SliceRandom};
+use rand::seq::SliceRandom;
 
 #[pyfunction]
 pub fn debug_txt() -> String {
@@ -247,12 +248,27 @@ impl DataParameters {
         }
     }
 
+    pub fn sample_length(&self) -> u64 {
+        self.parameters.num_samples()
+    }
+
     /// Generates a samples at the given index.
     /// Calling this function multiple times with the same index will return the same samples.
     /// Calling this function multiple times with different indices will return (pseudo-)independent samples.
     #[pyo3(text_signature = "(self, index, /)")]
     pub fn generate_at_index(&self, index: u64) -> DataPoint {
         self.parameters.generate(index).generate().unwrap().into()
+    }
+
+    pub fn to_json(&self) -> String {
+        serde_json::to_string(&self.parameters).unwrap()
+    }
+}
+
+#[pyfunction]
+pub fn load_data_parameters(json: &str) -> DataParameters {
+    DataParameters {
+        parameters: serde_json::from_str(json).unwrap(),
     }
 }
 
@@ -484,5 +500,6 @@ fn audio_samples_py(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_function(wrap_pyfunction!(map_to_frequency, m)?)?;
     m.add_function(wrap_pyfunction!(num_chord_types, m)?)?;
     m.add_function(wrap_pyfunction!(chord_type_name, m)?)?;
+    m.add_function(wrap_pyfunction!(load_data_parameters, m)?)?;
     Ok(())
 }

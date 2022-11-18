@@ -229,3 +229,14 @@ class ErrorTracker:
     def validation_history(self):
         return self.val_iter, self.val_log_losses, self.val_errors
 
+    def train_history_table(self):
+        assert len(self.train_iter) == len(self.train_log_losses)
+        train_errors = list(map(list, zip(*self.train_errors)))
+        assert len(self.train_iter) == len(train_errors)
+        return [[self.train_iter[i], self.train_log_losses[i], *train_errors[i]] for i in range(len(self.train_iter))]
+
+    def validation_history_table(self):
+        assert len(self.val_iter) == len(self.val_log_losses)
+        val_errors = list(map(list, zip(*self.val_errors)))
+        assert len(self.val_iter) == len(val_errors)
+        return [[self.val_iter[i], self.val_log_losses[i], *val_errors[i]] for i in range(len(self.val_iter))]
