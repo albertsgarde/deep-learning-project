@@ -141,7 +141,7 @@ def test_net(net: torch.nn.Module, validation_loader: DataLoader, criterion, num
         target = target.to(device)
         output = net(signal, fft)
         
-        total_loss += criterion(output, target)
+        total_loss += criterion(output, target).item()
 
         output = to_numpy(output)
         target = to_numpy(target)
@@ -151,7 +151,7 @@ def test_net(net: torch.nn.Module, validation_loader: DataLoader, criterion, num
             total_errors[i] += mean_minibatch_err(output, target, label, func)
 
     net.train(mode=was_training)
-    return total_loss.item()/num_validation_batches, list(map(lambda x: x / num_validation_batches, total_errors))
+    return total_loss/num_validation_batches, list(map(lambda x: x / num_validation_batches, total_errors))
 
 def manual_test(net: torch.nn.Module, validation_loader: DataLoader, num_samples: int, output_functions):
     r"""
@@ -234,7 +234,7 @@ class ErrorTracker:
         train_errors = list(map(list, zip(*self.train_errors)))
         assert len(self.train_iter) == len(train_errors)
         return [[self.train_iter[i], self.train_log_losses[i], *train_errors[i]] for i in range(len(self.train_iter))]
-
+    
     def validation_history_table(self):
         assert len(self.val_iter) == len(self.val_log_losses)
         val_errors = list(map(list, zip(*self.val_errors)))
