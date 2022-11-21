@@ -19,7 +19,7 @@ class DataParameters(object):
     :param max_frequency: The maximum frequency of any oscillator in the data set.
     :param possible_chord_types: Which chord types can appear.
     """
-    def __init__(self, num_samples: int, sample_rate: int, min_frequency: float, max_frequency: float, possible_chord_types: list[int]) -> None: ...
+    def __init__(self, num_samples: int, octave_parameters, sample_rate: int = 44100, min_frequency: float = 20, max_frequency: float = 20000, min_frequency_std_dev: float = 0.5, max_frequency_std_dev: float = 3., possible_chord_types: list[int] = [0]) -> None: ...
 
     def with_seed_offset(self, seed_offset: int) -> 'DataParameters':
         """
