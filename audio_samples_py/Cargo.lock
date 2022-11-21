@@ -28,7 +28,7 @@ checksum = "bfb6d71005dc22a708c7496eee5c8dc0300ee47355de6256c3b35b12b5fef596"
 [[package]]
 name = "audio_samples"
 version = "0.1.0"
-source = "git+https://github.com/albertsgarde/audio-samples.git#665bb79bc7de9bb74e652e2133ff9d6dd7b0db37"
+source = "git+https://github.com/albertsgarde/audio-samples.git#837521f5fa660090d91a2f6de6e825dcc02a6d7a"
 dependencies = [
  "anyhow",
  "flexblock-synth",
@@ -51,6 +51,7 @@ dependencies = [
  "numpy",
  "pyo3",
  "rand",
+ "serde_json",
 ]
 
 [[package]]
@@ -509,9 +510,9 @@ dependencies = [
 
 [[package]]
 name = "serde_json"
-version = "1.0.87"
+version = "1.0.88"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "6ce777b7b150d76b9cf60d28b55f5847135a003f7d7350c6be7a773508ce7d45"
+checksum = "8e8b3801309262e8184d9687fb697586833e939767aea0dda89f5a8e650e8bd7"
 dependencies = [
  "itoa",
  "ryu",
