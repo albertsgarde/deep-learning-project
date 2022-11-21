@@ -40,7 +40,7 @@ mol = False
 for folder in dir:
     note = mapNote(folder)
     mol = "m" in folder
-    type = 2 if mol else 1
+    type = 3 if mol else 2
     path2 = path + "\\" +folder
     files = os.listdir(path2)
     for file in files:
