@@ -30,7 +30,7 @@ path = "C:\\Users\\Ejer\\Documents\\Deep learning\\Guitar_Only"
 newpath = "C:\\Users\\Ejer\\Documents\\Deep learning\\projekt\\deep-learning-project\\deep-learning\\data\\short_guitar_samples"
 dir = os.listdir(path)
 
-num_samples = 512
+num_samples = 1024
 sample_rate = 44100
 
 tuple_list = []
