@@ -2,7 +2,7 @@ use anyhow::Result;
 use audio_samples::{
     data,
     parameters::{effects::EffectTypeDistribution, oscillators::OscillatorTypeDistribution},
-    Uniform,
+    UniformF,
 };
 use ndarray::Dim;
 use numpy::PyArray;
@@ -98,6 +98,32 @@ impl OctaveParameters {
 }
 
 #[pyclass]
+#[derive(Clone)]
+pub struct WaveForms {
+    wave_forms: audio_samples::parameters::WaveForms,
+}
+
+#[pymethods]
+impl WaveForms {
+    #[new]
+    fn new() -> WaveForms {
+        WaveForms {
+            wave_forms: audio_samples::parameters::WaveForms::new(),
+        }
+    }
+
+    fn load_dir_and_add(&self, path: &str) -> Self {
+        Self {
+            wave_forms: self.wave_forms.clone().load_dir_and_add(path),
+        }
+    }
+
+    fn num_wave_forms(&self) -> usize {
+        self.wave_forms.num_wave_forms()
+    }
+}
+
+#[pyclass]
 #[pyo3(
     text_signature = "(num_samples, sample_rate = 44100, min_frequency = 20, max_frequency=20000, possible_chord_types=[0], /)"
 )]
@@ -113,6 +139,7 @@ impl DataParameters {
     #[args(
         sample_rate = "44100",
         octave_parameters = "OctaveParameters::new(0., 0., 90., 10_000.)",
+        wave_forms = "WaveForms::new()",
         min_frequency = "20.",
         max_frequency = "20000.",
         min_frequency_std_dev = "0.",
@@ -122,6 +149,7 @@ impl DataParameters {
     fn new(
         num_samples: u64,
         octave_parameters: OctaveParameters,
+        wave_forms: WaveForms,
         sample_rate: u32,
         min_frequency: f32,
         max_frequency: f32,
@@ -136,6 +164,7 @@ impl DataParameters {
                 (min_frequency_std_dev, max_frequency_std_dev),
                 possible_chord_types,
                 octave_parameters.octave_parameters,
+                wave_forms.wave_forms,
                 num_samples,
             ),
         }
@@ -188,7 +217,7 @@ impl DataParameters {
     ) -> Self {
         DataParameters {
             parameters: self.parameters.clone().with_oscillator(
-                OscillatorTypeDistribution::Pulse(Uniform::new(
+                OscillatorTypeDistribution::Pulse(UniformF::new(
                     duty_cycle_range.0,
                     duty_cycle_range.1,
                 )),
@@ -205,6 +234,26 @@ impl DataParameters {
         DataParameters {
             parameters: self.parameters.clone().with_oscillator(
                 OscillatorTypeDistribution::Triangle,
+                probability,
+                amplitude_range,
+            ),
+        }
+    }
+
+    #[args(probability = "1.")]
+    #[pyo3(text_signature = "(self, probability, samplitude_range, oscillator_index, /")]
+    pub fn add_custom_oscillator(
+        &self,
+        probability: f64,
+        amplitude_range: (f32, f32),
+        oscillator_index: usize,
+    ) -> Self {
+        DataParameters {
+            parameters: self.parameters.clone().with_oscillator(
+                OscillatorTypeDistribution::Custom(audio_samples::UniformI::new(
+                    oscillator_index,
+                    oscillator_index + 1,
+                )),
                 probability,
                 amplitude_range,
             ),
@@ -487,6 +536,7 @@ fn audio_samples_py(_py: Python, m: &PyModule) -> PyResult<()> {
     m.add_class::<Audio>()?;
     m.add_class::<DataPoint>()?;
     m.add_class::<OctaveParameters>()?;
+    m.add_class::<WaveForms>()?;
     m.add_class::<DataParameters>()?;
     m.add_class::<DataPointLabel>()?;
     m.add_class::<DataSet>()?;

@@ -1,4 +1,5 @@
 import audio_samples_py as aus
+from pathlib import Path
 import torch
 from torch import nn
 from torch.autograd import Variable
@@ -240,3 +241,9 @@ class ErrorTracker:
         val_errors = list(map(list, zip(*self.val_errors)))
         assert len(self.val_iter) == len(val_errors)
         return [[self.val_iter[i], self.val_log_losses[i], *val_errors[i]] for i in range(len(self.val_iter))]
+
+def save_model(path: str, file_name: str, net: nn.Module):
+    Path(path).mkdir(parents=True, exist_ok=True)
+    path = f"{path}/{file_name}"
+    model_scripted = torch.jit.script(net)
+    model_scripted.save(path)
