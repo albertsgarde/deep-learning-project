@@ -242,7 +242,7 @@ class ErrorTracker:
         assert len(self.val_iter) == len(val_errors)
         return [[self.val_iter[i], self.val_log_losses[i], *val_errors[i]] for i in range(len(self.val_iter))]
 
-def save_model(path, file_name, net):
+def save_model(path: str, file_name: str, net: nn.Module):
     Path(path).mkdir(parents=True, exist_ok=True)
     path = f"{path}/{file_name}"
     model_scripted = torch.jit.script(net)

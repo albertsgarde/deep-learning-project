@@ -14,6 +14,7 @@ import utils.criterion as chord_criterion
 import utils.utils as utils
 
 device, use_cuda = utils.setup_device(use_cuda_if_possible = True)
+print(f"Using cuda: {use_cuda}")
 
 
 # Config
@@ -103,10 +104,7 @@ VAL_LOG_PATH = training_config["val_log_path"]
 MODEL_OUTPUT_DIR = config["model_output_dir"]
 
 def save_model(path, net, batch_num):
-    Path(path).mkdir(parents=True, exist_ok=True)
-    path = f"{path}/model_{batch_num}.pt"
-    model_scripted = torch.jit.script(net)
-    model_scripted.save(path)
+    utils.save_model(path, f"model_{batch_num}.pt", net)
 
 def save_training_history(train_log_path, val_log_path, error_tracker):
         train_history = error_tracker.train_history_table()
@@ -152,3 +150,6 @@ for i, (signal, fft, target, label) in enumerate(itertools.islice(training_loade
 save_model(MODEL_OUTPUT_DIR, net, NUM_BATCHES)
 save_training_history(TRAIN_LOG_PATH, VAL_LOG_PATH, error_tracker)
 print(f"Finished training on {NUM_BATCHES} batches and saved model to '{MODEL_OUTPUT_DIR}'.")
+
+val_loss, [val_type_accuracy, val_tone_accuracy, val_accuracy] = utils.test_net(net, validation_loader, criterion, NUM_VALIDATION_BATCHES, eval_funcs)
+print(f"Loss={val_loss}, Type Accuracy={val_type_accuracy:.3f}, Tone Accuracy={val_tone_accuracy:.3f}, Accuracy={val_accuracy:.3f}")
