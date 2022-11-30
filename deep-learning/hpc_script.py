@@ -1,4 +1,5 @@
 import sys
+import os
 from pathlib import Path
 import csv
 import json
@@ -13,12 +14,19 @@ import utils.plots as plots
 import utils.criterion as chord_criterion
 import utils.utils as utils
 
+def path_from_config(base_dir, path):
+    if os.path.isabs(path):
+        return path
+    else:
+        return os.path.join(base_dir, path)
+
 device, use_cuda = utils.setup_device(use_cuda_if_possible = True)
 print(f"Using cuda: {use_cuda}")
 
 
 # Config
 config_path = sys.argv[1]
+base_dir = os.path.dirname(config_path)
 
 with open(config_path) as config_file:
     config = json.load(config_file)
@@ -29,7 +37,7 @@ data_config = config["data"]
 BATCH_SIZE = data_config["batch_size"]
 SEED = data_config["seed"] # Generates different data if changed. Useful to ensure that a result isn't a fluke.
 
-data_parameters_path = data_config["parameters_path"]
+data_parameters_path = path_from_config(base_dir, data_config["parameters_path"])
 with open(data_parameters_path) as file:
     json_text = file.read()
     data_parameters = aus.load_data_parameters(json_text)
@@ -44,7 +52,7 @@ training_parameters, training_loader, validation_parameters, validation_loader =
 
 
 # Model
-model_path = config["model_input_path"]
+model_path = path_from_config(base_dir, config["model_input_path"])
 net = torch.jit.load(model_path)
 net.cuda()
 print("Successfully loaded model.")
@@ -98,10 +106,10 @@ NUM_VALIDATION_BATCHES = training_config["num_validation_batches"]
 SAVE_LOGS_EVERY = training_config["save_logs_every"]
 SAVE_MODEL_EVERY = training_config["save_model_every"]
 
-TRAIN_LOG_PATH = training_config["train_log_path"]
-VAL_LOG_PATH = training_config["val_log_path"]
+TRAIN_LOG_PATH = path_from_config(base_dir, training_config["train_log_path"])
+VAL_LOG_PATH = path_from_config(base_dir, training_config["val_log_path"])
 
-MODEL_OUTPUT_DIR = config["model_output_dir"]
+MODEL_OUTPUT_DIR = path_from_config(base_dir, config["model_output_dir"])
 
 def save_model(path, net, batch_num):
     utils.save_model(path, f"model_{batch_num}.pt", net)
