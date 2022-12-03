@@ -25,8 +25,8 @@ print(f"Using cuda: {use_cuda}")
 
 
 # Config
-config_path = sys.argv[1]
-base_output_dir = sys.argv[2]
+config_path = os.path.expanduser(sys.argv[1])
+base_output_dir = os.path.expanduser(sys.argv[2])
 base_config_dir = os.path.dirname(config_path)
 
 with open(config_path) as config_file:
