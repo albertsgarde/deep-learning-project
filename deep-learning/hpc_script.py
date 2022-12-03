@@ -26,7 +26,7 @@ print(f"Using cuda: {use_cuda}")
 
 # Config
 config_path = sys.argv[1]
-base_dir = os.path.dirname(config_path)
+base_dir = sys.argv[2]
 
 with open(config_path) as config_file:
     config = json.load(config_file)
