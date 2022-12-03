@@ -105,6 +105,7 @@ LOG_TRAIN_EVERY = training_config["log_train_every"]
 NUM_VALIDATION_BATCHES = training_config["num_validation_batches"]
 SAVE_LOGS_EVERY = training_config["save_logs_every"]
 SAVE_MODEL_EVERY = training_config["save_model_every"]
+PRINT_BATCH_NUM_EVERY = training_config["print_batch_num_every"]
 
 TRAIN_LOG_PATH = path_from_config(base_dir, training_config["train_log_path"])
 VAL_LOG_PATH = path_from_config(base_dir, training_config["val_log_path"])
@@ -131,7 +132,9 @@ error_tracker = utils.ErrorTracker(criterion, eval_funcs, NUM_VALIDATION_BATCHES
 print("Starting training...")
 net.train()
 for i, (signal, fft, target, label) in enumerate(itertools.islice(training_loader, NUM_BATCHES+1)):
-    print(f"Batch num: {i}/{NUM_BATCHES}", end="\r")
+    if i%PRINT_BATCH_NUM_EVERY == 0:
+        print(f"Batch num: {i}/{NUM_BATCHES}", end="\r")
+        
     if i%EVAL_EVERY == 0:
         error_tracker.validation_update(i, net, validation_loader)
 
