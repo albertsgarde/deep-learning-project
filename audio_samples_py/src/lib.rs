@@ -7,7 +7,8 @@ use audio_samples::{
 use ndarray::Dim;
 use numpy::PyArray;
 use pyo3::{prelude::*, pymodule, types::PyType};
-use rand::seq::SliceRandom;
+use rand::{seq::SliceRandom, Rng, SeedableRng};
+use rand_pcg::Pcg64Mcg;
 
 #[pyfunction]
 pub fn debug_txt() -> String {
@@ -506,8 +507,9 @@ impl DataSet {
         self.data.get(index).cloned()
     }
 
-    fn random_partition(&self, p: f32) -> (Self, Self) {
-        let mut rng = rand::thread_rng();
+    #[args(seed = "rand::thread_rng().gen::<u64>()")]
+    fn random_partition(&self, p: f32, seed: u64) -> (Self, Self) {
+        let mut rng = Pcg64Mcg::seed_from_u64(seed);
         let mut data = self.data.clone();
         data.shuffle(&mut rng);
         let n = (data.len() as f32 * p).round() as usize;

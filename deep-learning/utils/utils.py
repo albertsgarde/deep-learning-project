@@ -64,15 +64,15 @@ class AudioRwDataSet(torch.utils.data.Dataset):
         label = data_point.label()
         return data_point.samples(), data_point.audio().fft(), self.label_to_target(label), label
 
-def init_rw_data(path, label_to_target, validation_size: float, batch_size: int):
+def init_rw_data(path, label_to_target, validation_size: float, batch_size: int, validation_split_seed):
     assert validation_size >= 0, f"validation size must be non-negative. validation_size={validation_size}"
     assert validation_size <= 1, f"validation size must be no greater than 1. validation_size={validation_size}"
     assert batch_size > 0, f"batch_size must be positive. batch_size={batch_size}"
 
-    data_loader_params = {"batch_size": batch_size, "collate_fn": custom_collate}
+    data_loader_params = {"batch_size": batch_size, "collate_fn": custom_collate, "shuffle": True, "drop_last": True}
 
     # Not a mistake. Just an artifact of how random_partition works.
-    training_data, validation_data = aus.load_data_set(path).random_partition(1-validation_size)
+    training_data, validation_data = aus.load_data_set(path).random_partition(1-validation_size, validation_split_seed)
 
     training_data = AudioRwDataSet(training_data, label_to_target)
     validation_data = AudioRwDataSet(validation_data, label_to_target)
